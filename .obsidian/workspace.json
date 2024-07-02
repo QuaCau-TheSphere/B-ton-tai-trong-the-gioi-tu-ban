@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "a508927f6499be4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d00f76149a9fb5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "615b0d05a4b82bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e41ba2129181445c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hiểu biết sâu/Chủ nghĩa tân tự do/Thấy việc trả lương là đã đủ để NV phải cống hiến cho mình.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e72f796b71189a27",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc31a3218f8ce711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046ffe9b83aeea28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aefc807f2fe8084f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4444ef266105f1ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.0086555480957
+  },
+  "right": {
+    "id": "0f3696c70a5f5648",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6d8e5d42d84951b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83b65cb44fff1d17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bdfae42ea48041c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "783910c6f304d82a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e951330282e08f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "615b0d05a4b82bca",
+  "lastOpenFiles": [
+    "Hiểu biết sâu/Chủ nghĩa tân tự do/Thấy việc trả lương là đã đủ để NV phải cống hiến cho mình.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/Untitled.md",
+    "Hiểu biết sâu/Chủ nghĩa tân tự do",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/VNPAY tập trung vào những cửa hàng lớn.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/Mở quán mà dưới 100 khách một ngày là dẹp tiệm.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Xử lý tình huống, câu hỏi thường gặp.md",
+    "Hiểu biết sâu/Đạo đức, pháp luật/Lách luật là phạm luật một cách đúng luật.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Viết hợp đồng.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/Sale có 3 tháng đầu để chăm sóc khách hàng, sau đó thì sẽ được bàn giao cho bộ phận chăm sóc khách hàng.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Xử lý mã.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Khác biệt giữa làm nhân viên thực của công ty và làm trong nhóm nhân viên ảo.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/Smartpay/SmartPay làm nhiều lĩnh vực.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/Smartpay",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/Momo có hình thức cộng tác viên. VNPAY không có.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/Momo, VNPAY tiếp cận theo hướng khách sử dụng dịch vụ của nó.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/Smartpay/Máy POS của Smartpay quẹt mỗi tháng hơn 30tr thì không mất phí.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/ASM bị áp lực phải tuyển mới.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/VNPAY dùng GMV và active để hạn chế chạy ảo.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/Một NV mở sai thanh tra toàn bộ team.md",
+    "Hiểu biết sâu/Bán hàng/Bán hàng bằng sự sợ hãi.md",
+    "Hiểu biết sâu/Bán hàng",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho nhân viên các công ty.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY",
+    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Kinh tế/Kinh tế phi chính thức/Nền kinh tế phi chính thức.md",
+    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Kinh tế/Kinh tế phi chính thức/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước.md",
+    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Kinh tế/Kinh tế phi chính thức/Nền kinh tế không dùng tiền.md",
+    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Kinh tế/Kinh tế phi chính thức/Nhiều tiền hơn có làm tăng thêm hạnh phúc, nhưng việc có những mối quan hệ chất lượng đem lại nhiều hạnh phúc hơn.md",
+    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Kinh tế/Kinh tế phi chính thức",
+    "Hiểu biết sâu/Kinh tế phi chính thức/Nền kinh tế phi chính thức.md",
+    "Hiểu biết sâu/Kinh tế phi chính thức/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước.md",
+    "Hiểu biết sâu/Kinh tế phi chính thức",
+    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Tối ưu hoá",
+    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Môi trường làm việc",
+    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Kỹ năng, động lực",
+    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Giúp đỡ nhau",
+    "Ξ Thiết lập/Excalidraw/Các lĩnh vực trong vault.png",
+    "Ξ Thiết lập/Ảnh/a.jpg",
+    "Ξ Thiết lập/Ảnh/a1.jpg",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240627210342.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240627210332.png",
+    "Pasted image 20240627153206.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240620101103.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240619195617.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240619191052.png",
+    "Ξ Thiết lập/Ảnh/Ảnh procrastination/Procrastinators-Matrix1-539x600.png"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "github": {
+    "user": "QuaCau-TheSphere",
+    "repo": "BW-ton-tai-trong-the-gioi-tu-ban",
+    "branch": "main",
+    "automaticallyMergePR": true,
+    "dryRun": {
+      "enable": false,
+      "folderName": "github-publisher"
+    },
+    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "workflow": {
+      "commitMessage": "[skip netlify] PUBLISHER",
+      "name": ""
+    },
+    "otherRepo": [
+      {
+        "smartKey": "test",
+        "branch": "main",
+        "automaticallyMergePR": true,
+        "api": {
+          "tiersForApi": "Github Free/Pro/Team (default)",
+          "hostname": ""
+        },
+        "createShortcuts": false,
+        "shareKey": "share",
+        "copyLink": {
+          "links": "https://www.mara-li.fr/",
+          "removePart": []
+        },
+        "workflow": {
+          "name": "",
+          "commitMessage": "[skip netlify] PUBLISHER"
+        },
+        "verifiedRepo": false,
+        "rateLimit": 5000
+      }
+    ],
+    "verifiedRepo": true,
+    "rateLimit": 4997
+  },
+  "upload": {
+    "behavior": "obsidian",
+    "defaultName": "content",
+    "rootFolder": "docs",
+    "yamlFolderKey": "category",
+    "frontmatterTitle": {
+      "enable": true,
+      "key": "filename"
+    },
+    "replaceTitle": [],
+    "replacePath": [],
+    "autoclean": {
+      "includeAttachments": true,
+      "enable": true,
+      "excluded": [
+        "docs/assets/js",
+        "docs/assets/meta",
+        "docs/assets/css",
+        "tags.md",
+        "graph.md"
+      ]
+    },
+    "folderNote": {
+      "enable": true,
+      "rename": "index.md",
+      "addTitle": {
+        "enable": true,
+        "key": "title"
+      }
+    },
+    "metadataExtractorPath": "",
+    "subFolder": ""
+  },
+  "conversion": {
+    "hardbreak": false,
+    "dataview": true,
+    "censorText": [
+      {
+        "entry": "/\\!\\[\\]\\(https:\\/\\/.*(youtube\\.com|youtu\\.be)\\/(.*).*\\)/",
+        "replace": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/$2\" frameborder=\"0\"></iframe>",
+        "after": true,
+        "inCodeBlocks": true
+      }
+    ],
+    "tags": {
+      "inline": true,
+      "exclude": [],
+      "fields": []
+    },
+    "links": {
+      "internal": true,
+      "unshared": false,
+      "wiki": true,
+      "slugify": true
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "overrideAttachments": [],
+    "keySendFile": [
+      "image"
+    ],
+    "notes": true,
+    "folder": "docs/assets/attachments",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->",
+    "unHandledObsidianExt": [],
+    "sendSimpleLinks": true,
+    "forcePushAttachments": [],
+    "useObsidianFolder": false
+  },
+  "plugin": {
+    "shareKey": "share",
+    "fileMenu": false,
+    "editorMenu": false,
+    "excludedFolder": [
+      "Ξ Thiết lập"
+    ],
+    "copyLink": {
+      "enable": true,
+      "links": "https://kiếmtiền.quảcầu.cc/",
+      "removePart": [
+        "content",
+        "index.md"
+      ],
+      "addCmd": true,
+      "transform": {
+        "toUri": false,
+        "slugify": "disable",
+        "applyRegex": []
+      }
+    },
+    "noticeError": false,
+    "displayModalRepoEditing": true,
+    "setFrontmatterKey": "Set",
+    "migrated": true,
+    "dev": true
+  },
+  "tabsID": "github-configuration",
+  "tabsId": "plugin-settings"
+}

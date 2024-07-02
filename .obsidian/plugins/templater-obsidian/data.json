@@ -1,0 +1,51 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Ξ Thiết lập/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "Ξ Thiết lập/Templates",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "⚔️ Lớp học",
+      "template": "Ξ Thiết lập/Templates/Bài học.md"
+    },
+    {
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/2 Thành quả mong muốn",
+      "template": "Ξ Thiết lập/Templates/Thành quả.md"
+    },
+    {
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/3 Thành phẩm",
+      "template": "Ξ Thiết lập/Templates/Thành phẩm.md"
+    },
+    {
+      "folder": "/",
+      "template": "Ξ Thiết lập/Templates/Ý tưởng.md"
+    },
+    {
+      "folder": "📐 Dự án/Trấn Kỳ/1 Quang cảnh",
+      "template": "Ξ Thiết lập/Templates/Quang cảnh.md"
+    },
+    {
+      "folder": "📐 Dự án/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc/1 Nhu cầu/Nhu cầu công việc",
+      "template": "Ξ Thiết lập/Templates/Nhu cầu công việc.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}
