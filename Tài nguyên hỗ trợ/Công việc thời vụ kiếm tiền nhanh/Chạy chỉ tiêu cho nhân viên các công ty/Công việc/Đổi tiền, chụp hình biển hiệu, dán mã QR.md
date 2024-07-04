@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-30T22:47
+updated: 2024-07-05T01:55
 ---
+- **Liên hệ:** 0777850094 - Lộc Nguyễn
+- **Tiền công:** 250k/4h
 ## Dán mã QR
 Ví dụ, các công ty trung gian thanh toán như Momo, VNPAY, ZaloPay, SmartPay cần người đi chào hàng và dán mã QR. Mình có thể đi một lần và dán tất cả các công ty này cùng lúc để nhận lương của các bên. 
 
@@ -16,6 +18,3 @@ Có thể thay việc này bằng việc [[Quét mã chéo]]
 - **Yêu cầu:** hình chụp cần rõ tên, địa chỉ. Thông tin gửi về có toạ độ vị trí. Khu vực rìa thành phố hoặc ở tỉnh: Củ Chi, Bình Chánh, Thủ Đức, Cần Giờ, Đồng Nai, Bình Dương
 - **Mục đích:** các ví điện tử (VD: Momo, VNPAY, Smartpay) cần các cửa hàng nhận sử dụng dịch vụ của mình để mở rộng thị trường. Các nhân viên kinh doanh của các công ty này được giao chỉ tiêu mỗi tháng phải thu thập thông tin các cửa hàng trên địa bàn hoạt động để lên chiến lược tiếp cận
 
-## Dò sđt cửa hàng trong app 
-- **Yêu cầu:** ghi thông tin cửa hàng ra theo mẫu có sẵn
-50k/h ngày làm 5h, 1h 6 cửa hàng, ngày làm tối thiểu 30 cửa hàng

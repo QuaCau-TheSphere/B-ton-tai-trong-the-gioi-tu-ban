@@ -2,10 +2,12 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2024-06-30T20:21
+updated: 2024-07-05T02:48
 ---
+Tiêu chí lựa chọn"
 - Lợi ích, động cơ của những người tham gia vào guồng quay này
-- Đảm bảo quyền lợi người yếu thế
+- Đảm bảo quyền lợi người yếu thế, người đang phải chật vật kiếm tiền để đảm bảo cuộc sống
+
 Thừa nhận là có nhiều cái 
 
 Vấn đề là nhà đầu tư chỉ quan tâm đến việc tối đa hoá lợi nhuận, chứ không quan tâm đến chất lượng sống của bạn một cách thực chất.

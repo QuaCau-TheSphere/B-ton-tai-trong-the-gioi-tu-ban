@@ -13,27 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md",
-                "mode": "source",
+                "file": "Hiểu biết sâu/Kiếm tiền/Tạo dòng tiền/Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "e41ba2129181445c",
+            "id": "0a0fe964f62ab86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hiểu biết sâu/Chủ nghĩa tân tự do/Thấy việc trả lương là đã đủ để NV phải cống hiến cho mình.md",
+                "file": "Ξ Thiết lập/Sửa gần đây.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2f0ee1cd15ae9db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md",
+                "file": "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md",
+                "file": "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md"
+                "file": "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn.md"
               }
             }
           }
@@ -152,52 +166,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "615b0d05a4b82bca",
+  "active": "2f0ee1cd15ae9db2",
   "lastOpenFiles": [
-    "Hiểu biết sâu/Chủ nghĩa tân tự do/Thấy việc trả lương là đã đủ để NV phải cống hiến cho mình.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/Untitled.md",
-    "Hiểu biết sâu/Chủ nghĩa tân tự do",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/VNPAY tập trung vào những cửa hàng lớn.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/Mở quán mà dưới 100 khách một ngày là dẹp tiệm.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Xử lý tình huống, câu hỏi thường gặp.md",
-    "Hiểu biết sâu/Đạo đức, pháp luật/Lách luật là phạm luật một cách đúng luật.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Viết hợp đồng.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/Sale có 3 tháng đầu để chăm sóc khách hàng, sau đó thì sẽ được bàn giao cho bộ phận chăm sóc khách hàng.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Xử lý mã.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Khác biệt giữa làm nhân viên thực của công ty và làm trong nhóm nhân viên ảo.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/Smartpay/SmartPay làm nhiều lĩnh vực.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/Smartpay",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/Momo có hình thức cộng tác viên. VNPAY không có.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/Momo, VNPAY tiếp cận theo hướng khách sử dụng dịch vụ của nó.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/Smartpay/Máy POS của Smartpay quẹt mỗi tháng hơn 30tr thì không mất phí.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/ASM bị áp lực phải tuyển mới.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/VNPAY dùng GMV và active để hạn chế chạy ảo.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY/Một NV mở sai thanh tra toàn bộ team.md",
-    "Hiểu biết sâu/Bán hàng/Bán hàng bằng sự sợ hãi.md",
-    "Hiểu biết sâu/Bán hàng",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/VNPAY/ASM bị áp lực phải tuyển mới.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/VNPAY/Một NV mở sai thanh tra toàn bộ nhóm.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/VNPAY/Sale có 3 tháng đầu để chăm sóc khách hàng, sau đó thì sẽ được bàn giao cho bộ phận chăm sóc khách hàng.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/VNPAY/Tốt nhất là chuẩn bị hợp đồng từ ngày 25 tháng trước, để đến tháng sau là lên hợp đồng xong thì sẽ có 20 ngày để sử dụng.md",
+    "Tồn tại trong thế giới tư bản.md",
+    "Hiểu biết sâu/Hỗ trợ người yếu thế/Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận. Chính thức hoá khi lập quỹ là chết với luật tín dụng.md",
+    "Hiểu biết sâu/Hỗ trợ người yếu thế/Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ.md",
+    "Hiểu biết sâu/Hỗ trợ người yếu thế/Công đoàn là tổ chức bảo vệ quyền lợi người lao động.md",
+    "Hiểu biết sâu/Hỗ trợ người yếu thế/Có những lúc câu hỏi chất vấn thì người kia lại bận, chỉ tập trung vào những câu người ta quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ.md",
+    "Hiểu biết sâu/Hỗ trợ người yếu thế/Các câu hỏi về việc thành lập quỹ tín dụng, nền kinh tế phi chính thức, bản chất CSR của doanh nghiệp và tâm lý con người về tiền.md",
+    "Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Thấy việc trả lương là đã đủ để NV phải cống hiến cho mình.md",
+    "Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Lách luật là phạm luật một cách đúng luật.md",
+    "Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Con người hay công cụ mới là vấn đề.md",
+    "Hiểu biết sâu/Kiếm tiền/Nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Làm nhân viên ảo.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Viết hợp đồng, thu thập thông tin.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Quét mã chéo.md",
     "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho nhân viên các công ty.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách các công ty/VNPAY",
-    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Kinh tế/Kinh tế phi chính thức/Nền kinh tế phi chính thức.md",
-    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Kinh tế/Kinh tế phi chính thức/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước.md",
-    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Kinh tế/Kinh tế phi chính thức/Nền kinh tế không dùng tiền.md",
-    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Kinh tế/Kinh tế phi chính thức/Nhiều tiền hơn có làm tăng thêm hạnh phúc, nhưng việc có những mối quan hệ chất lượng đem lại nhiều hạnh phúc hơn.md",
-    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Kinh tế/Kinh tế phi chính thức",
-    "Hiểu biết sâu/Kinh tế phi chính thức/Nền kinh tế phi chính thức.md",
-    "Hiểu biết sâu/Kinh tế phi chính thức/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước.md",
-    "Hiểu biết sâu/Kinh tế phi chính thức",
-    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Tối ưu hoá",
-    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Môi trường làm việc",
-    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Kỹ năng, động lực",
-    "Hiểu biết sâu/Kinh tế. Tâm lý học quản lý và lao động/Tâm lý học quản lý và lao động/Giúp đỡ nhau",
+    "Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán.md",
+    "Hiểu biết sâu/Kiếm tiền/Fintech/Khác biệt giữa nhân viên, đại lý, cộng tác viên.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Khác biệt giữa làm nhân viên thực của công ty và làm trong nhóm nhân viên ảo.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/Chính sách nhân sự các công ty trung gian thanh toán.md",
+    "Ξ Thiết lập/Sửa gần đây.md",
+    "Hiểu biết sâu/Kiếm tiền/❓Dòng tiền, thu nhập thụ động, đầu tư là những cái tên khác nhau cho cùng một thứ.md",
+    "Hiểu biết sâu/Kiếm tiền/Tạo dòng tiền/Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể.md",
+    "Hiểu biết sâu/Kiếm tiền/Tạo dòng tiền",
+    "Hiểu biết sâu/Kiếm tiền/Tạo dòng tiên",
+    "Hiểu biết sâu/Kiếm tiền/New folder",
+    "Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do",
+    "Hiểu biết sâu/Kiếm tiền/Mở tiệm",
+    "Hiểu biết sâu/Kiếm tiền/Bán hàng",
+    "Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân",
+    "Hiểu biết sâu/Kiếm tiền/Kiếm tiền trực tuyến (MMO)",
+    "Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/VNPAY",
+    "Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/Smartpay",
     "Ξ Thiết lập/Excalidraw/Các lĩnh vực trong vault.png",
     "Ξ Thiết lập/Ảnh/a.jpg",
     "Ξ Thiết lập/Ảnh/a1.jpg",

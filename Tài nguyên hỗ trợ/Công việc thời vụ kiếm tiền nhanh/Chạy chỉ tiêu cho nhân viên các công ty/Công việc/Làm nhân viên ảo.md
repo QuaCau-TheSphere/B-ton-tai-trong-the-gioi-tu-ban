@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-29T15:16
+updated: 2024-07-05T01:25
 aliases:
   - Làm danh tính khác của nhân viên công ty
 ---
-Nhân viên ảo tức là có nhân viên thật làm dùm. Nói cách khác bạn trở thành một danh tính khác của một nhân viên trong đó. 
+Nhân viên ảo tức là có nhân viên thật làm dùm. Nói cách khác bạn trở thành một danh tính khác của một nhân viên trong đó. [[Nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]] 
 
 # VNPAY
 Lương: 2tr/tháng
@@ -22,7 +22,7 @@ Lương: 2tr/tháng
 ### Làm mỗi ngày
 - Gửi hình và vị trí chấm công qua Zalo vào mỗi sáng lúc 8h30: 10 s
 
-	Có thể dùng Fake GPS để ở nơi khác vẫn tới vị trí chấm công được.
+Có thể dùng Fake GPS để ở nơi khác vẫn tới vị trí chấm công được.
 
 ### Làm mỗi tuần
 - Trả lời tin nhắn: vài phút 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-28T23:32
+updated: 2024-07-05T02:32
 ---
 Vô nhân viên công ty thì phải tới tháng mới có tiền, chịu áp lực KPI
 
@@ -16,3 +16,4 @@ Vô nhân viên công ty thì phải tới tháng mới có tiền, chịu áp l
 | Loại công việc      | Tất cả những đầu việc cần | Chuyên môn hoá một đầu việc                                                   |
 
 Xem thêm:: [[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]
+Xem thêm:: [[Nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]
