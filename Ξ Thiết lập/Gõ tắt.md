@@ -1,6 +1,6 @@
 ---
 created: 2023-05-26T14:51
-updated: 2024-06-19T10:23
+updated: 2024-07-17T00:46
 ---
 Nhu cầu:: 		nc, dy, tl
 Nhu cầu dẫn tới:: 		ncdt, ch, mt
@@ -22,10 +22,13 @@ Mâu thuẫn với:: 		mtv
 Nguồn:: 		ng
 Trích từ:: 		tt
 
-Nhu cầu công việc:: 		nccv
-Nhu cầu công nghệ:: 		nccn
-Lĩnh vực:: 		lv
-Giải pháp kỹ thuật:: 		gpkt
+Nhu cầu người dùng:: 		cnl
+Chi phí và kỹ năng cần có:: 		cp
+Loại chương trình:: 		lct
+Tên chương trình:: 		tct
+Tính năng:: 		tnk
+Xử lý ngôn ngữ:: 		xlnn
+
 # Code nhanh
 ## Bảng
 | Thành quả mong muốn | Giả thiết | Công việc |\n| ------------------- | --------- | --------- |		tqmm

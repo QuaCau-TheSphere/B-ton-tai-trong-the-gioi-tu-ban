@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-05T00:12
+updated: 2024-07-09T12:07
 ---
 au 4 tháng tiến độ làm việc quá chậm
 mục tiêu q2 là 5000 active
@@ -30,4 +30,4 @@ t-2 dưới 50% sẽ được review
 [[Mở quán mà dưới 100 khách một ngày là dẹp tiệm]]
 
 
-[[Bán hàng bằng sự sợ hãi]]
+[[Bán hàng bằng sự sợ hãi, nhưng lại xem đó là giọt mồ hôi quý giá]]

@@ -30,5 +30,7 @@
   "update-time-on-edit",
   "various-complements",
   "obsidian-version-history-diff",
-  "obsidian-editor-shortcuts"
+  "obsidian-editor-shortcuts",
+  "safe-filename-linter",
+  "obsidian-linter"
 ]

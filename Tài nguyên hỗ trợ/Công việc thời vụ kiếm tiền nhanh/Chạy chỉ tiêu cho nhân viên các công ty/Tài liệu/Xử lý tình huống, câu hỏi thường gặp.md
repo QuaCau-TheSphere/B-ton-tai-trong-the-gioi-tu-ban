@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-05T01:57
+updated: 2024-07-06T15:05
 ---
 # Tôi thấy việc làm nhân viên ảo là việc không nên
 Còn bên pru ng chịu thiệt là ko có ai ở đây. Nếu có là ng hưởng lợi cao nhất là tổng giám đốc hoặc các nhà đầu tư chẳng hạn. Một ng ko mấy bị ảnh hưởng bởi số tiền nhỏ
@@ -31,7 +31,7 @@ Bài chi tiết:: [[Một giao dịch khi quẹt qua trung gian thanh toán sẽ
 # Tôi chấp nhận làm nhân viên ảo trong công ty. Chuyện gì sẽ xảy ra nếu tôi bị phát hiện là làm ảo?
 VNPAY sẽ phạt nội bộ NV. Hình phạt cao nhất của việc quẹt dơ là không tính KPI của NV đó, còn tạo cửa hàng ảo thì là đuổi luôn.
 
-Nếu bị lộ thì có thể nói là bạn đang thực hành nhân học trong công ty. Những cửa hàng thấy số lượng giao dịch cao bất thường là bạn đang làm một thử nghiệm xã hội về hành vi giúp đỡ của chủ cửa hàng khi nhận được yêu cầu giúp đỡ. Thử nghiệm  tiến hành như sau:
+Nếu bị lộ thì có thể nói là bạn đang thực hành nhân học trong công ty. Những cửa hàng thấy số lượng giao dịch cao bất thường là bạn đang làm một thử nghiệm xã hội về hành vi giúp đỡ của chủ cửa hàng khi nhận được yêu cầu giúp đỡ. Thử nghiệm tiến hành như sau:
 - Đầu tiên bạn vào quán lúc vắng và ăn như bình thường. Nhân viên nào cũng có quẹt cả
 - Sau đó bạn hỏi là ở quán có bao nhiêu người ăn xin, bán rong mỗi ngày
 - Sau đó bạn gửi tiền cho chủ quán, 

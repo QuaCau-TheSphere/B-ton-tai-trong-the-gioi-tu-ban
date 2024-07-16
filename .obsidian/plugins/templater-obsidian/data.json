@@ -15,28 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "⚔️ Lớp học",
-      "template": "Ξ Thiết lập/Templates/Bài học.md"
-    },
-    {
-      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/2 Thành quả mong muốn",
-      "template": "Ξ Thiết lập/Templates/Thành quả.md"
-    },
-    {
-      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/3 Thành phẩm",
-      "template": "Ξ Thiết lập/Templates/Thành phẩm.md"
-    },
-    {
-      "folder": "/",
-      "template": "Ξ Thiết lập/Templates/Ý tưởng.md"
-    },
-    {
-      "folder": "📐 Dự án/Trấn Kỳ/1 Quang cảnh",
-      "template": "Ξ Thiết lập/Templates/Quang cảnh.md"
-    },
-    {
-      "folder": "📐 Dự án/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc/1 Nhu cầu/Nhu cầu công việc",
-      "template": "Ξ Thiết lập/Templates/Nhu cầu công việc.md"
+      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình",
+      "template": "Ξ Thiết lập/Templates/Tên chương trình.md"
     }
   ],
   "syntax_highlighting": true,

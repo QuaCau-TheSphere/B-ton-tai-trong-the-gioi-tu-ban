@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "livePreview": false
+  "livePreview": false,
+  "attachmentFolderPath": "./"
 }

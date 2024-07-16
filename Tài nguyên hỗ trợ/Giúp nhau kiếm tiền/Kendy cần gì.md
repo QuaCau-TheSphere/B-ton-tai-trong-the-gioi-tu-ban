@@ -3,8 +3,9 @@ share: true
 title: Kendy cần gì?
 description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-06-25T16:39
-alias: Trí cần gì?
+updated: 2024-07-14T00:24
+alias:
+  - Trí cần gì?
 ---
 Cảm ơn bạn đã quan tâm tới Kendy. Thực ra bọn mình nghĩ việc góp tiền cũng làm khó khăn cho bạn, và về lâu dài cũng không bền vững. Trừ phi bạn có thể cho mượn một số tiền lớn với kỳ hạn dài, còn không thì chỉ nên quyên góp vào những thời điểm bí bách.
 
@@ -18,7 +19,7 @@ Việc bọn mình tạo ra Trấn Kỳ cũng như việc tổ chức [[Các bu�
 
 Xem thêm:: [[Kiếm tiền từ Trấn Kỳ]]
 
-Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh doanh một người. Việc này đi một hồi thì cũng là [[Kiếm tiền trực tuyến (MMO)]] để [[Bán hàng loạt]].
+Ngoài ra thì Kendy cũng đã tính đến chuyện xây dựng mô hình kinh doanh một người. Việc này đi một hồi thì cũng là [[Kiếm tiền trực tuyến (MMO)]] để [[Bán số lượng lớn tự động trên các nền tảng]].
 # Xây dựng hệ thống quản lý
 Trấn Kỳ được sinh ra là để giúp Kendy nắm được các hạn trả nợ. Đây là phản hồi của khách hàng đầu tiên:
 
@@ -46,7 +47,7 @@ Liên quan đến chuyện tiền bạc:
 - Rất tin tưởng rằng tất cả những người trong kinh doanh chỉ muốn đạt lợi ích lớn nhất cho mình, và việc đặt mục tiêu từ thiện làm mục tiêu kinh doanh là sai lầm lớn của một người
 - Nhất định phải có lợi ích cho cả hai bên. Nếu thấy người khác giúp mình mà điều đó không giúp được gì cho họ thì sẽ từ chối
 - Không muốn vì mình mà làm liên luỵ người khác, không lan toả sự tiêu cực của mình. Việc bàn về khó khăn của mình là sự tiêu cực, nên cũng không muốn bàn chuyện của mình để người khác không tiêu cực thêm
-- Không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền
+- Không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền, và muốn bảo vệ mình khỏi bị người khác vòi tiền
 - Rất chú trọng việc giữ uy tín. Nếu đã vay thì tới hạn sẽ cố gắng trả cho bạn, dù bạn đã nói là cứ giữ tiền đó vì bạn không cần có tiền ngay lúc đó. Mọi thứ luôn phải có lộ trình và kỷ luật, chứ không tự phát được
 - Khi cần nói về lãi thì cần ngồi vào xem hệ thống chứ không nói suông được
 

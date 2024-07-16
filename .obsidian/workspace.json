@@ -4,42 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "5d00f76149a9fb5f",
+        "id": "d2f6ee26f83581a3",
         "type": "tabs",
         "children": [
           {
-            "id": "615b0d05a4b82bca",
+            "id": "10184563475b79e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hiểu biết sâu/Kiếm tiền/Tạo dòng tiền/Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể.md",
-                "mode": "preview",
+                "file": "Ξ Thiết lập/Templates/Vấn đề.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "0a0fe964f62ab86b",
+            "id": "7ff2a3553bb219b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ξ Thiết lập/Sửa gần đây.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2f0ee1cd15ae9db2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn.md",
+                "file": "Ξ Thiết lập/Templates/Phiếu phỏng vấn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn.md",
+                "file": "Ξ Thiết lập/Templates/Phiếu phỏng vấn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn.md",
+                "file": "Ξ Thiết lập/Templates/Phiếu phỏng vấn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn.md"
+                "file": "Ξ Thiết lập/Templates/Phiếu phỏng vấn.md"
               }
             }
           }
@@ -175,44 +162,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f0ee1cd15ae9db2",
+  "active": "7ff2a3553bb219b8",
   "lastOpenFiles": [
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/VNPAY/ASM bị áp lực phải tuyển mới.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Nói mình là nhân viên Momo nhưng gắn mã công ty khác sẽ dễ hơn.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/VNPAY/Một NV mở sai thanh tra toàn bộ nhóm.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/VNPAY/Sale có 3 tháng đầu để chăm sóc khách hàng, sau đó thì sẽ được bàn giao cho bộ phận chăm sóc khách hàng.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/VNPAY/Tốt nhất là chuẩn bị hợp đồng từ ngày 25 tháng trước, để đến tháng sau là lên hợp đồng xong thì sẽ có 20 ngày để sử dụng.md",
-    "Tồn tại trong thế giới tư bản.md",
-    "Hiểu biết sâu/Hỗ trợ người yếu thế/Luật pháp chỉ hiểu về kinh doanh, chứ ko phải là phi lợi nhuận. Chính thức hoá khi lập quỹ là chết với luật tín dụng.md",
-    "Hiểu biết sâu/Hỗ trợ người yếu thế/Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ.md",
-    "Hiểu biết sâu/Hỗ trợ người yếu thế/Công đoàn là tổ chức bảo vệ quyền lợi người lao động.md",
-    "Hiểu biết sâu/Hỗ trợ người yếu thế/Có những lúc câu hỏi chất vấn thì người kia lại bận, chỉ tập trung vào những câu người ta quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ.md",
-    "Hiểu biết sâu/Hỗ trợ người yếu thế/Các câu hỏi về việc thành lập quỹ tín dụng, nền kinh tế phi chính thức, bản chất CSR của doanh nghiệp và tâm lý con người về tiền.md",
-    "Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Thấy việc trả lương là đã đủ để NV phải cống hiến cho mình.md",
-    "Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Lách luật là phạm luật một cách đúng luật.md",
-    "Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Con người hay công cụ mới là vấn đề.md",
-    "Hiểu biết sâu/Kiếm tiền/Nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Làm nhân viên ảo.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Viết hợp đồng, thu thập thông tin.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Quét mã chéo.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho nhân viên các công ty.md",
-    "Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán.md",
-    "Hiểu biết sâu/Kiếm tiền/Fintech/Khác biệt giữa nhân viên, đại lý, cộng tác viên.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Khác biệt giữa làm nhân viên thực của công ty và làm trong nhóm nhân viên ảo.md",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/Chính sách nhân sự các công ty trung gian thanh toán.md",
-    "Ξ Thiết lập/Sửa gần đây.md",
-    "Hiểu biết sâu/Kiếm tiền/❓Dòng tiền, thu nhập thụ động, đầu tư là những cái tên khác nhau cho cùng một thứ.md",
-    "Hiểu biết sâu/Kiếm tiền/Tạo dòng tiền/Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể.md",
-    "Hiểu biết sâu/Kiếm tiền/Tạo dòng tiền",
-    "Hiểu biết sâu/Kiếm tiền/Tạo dòng tiên",
-    "Hiểu biết sâu/Kiếm tiền/New folder",
-    "Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do",
-    "Hiểu biết sâu/Kiếm tiền/Mở tiệm",
-    "Hiểu biết sâu/Kiếm tiền/Bán hàng",
-    "Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân",
-    "Hiểu biết sâu/Kiếm tiền/Kiếm tiền trực tuyến (MMO)",
-    "Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/VNPAY",
-    "Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/Smartpay",
+    "Ξ Thiết lập/Templates/Tên chương trình.md",
+    "Ξ Thiết lập/Templates/Vấn đề.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/App quản lý chi tiêu/PiPu.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Xử lý ngôn ngữ/Tiếp cận theo thống kê.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Trấn Kỳ.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Kế toán/Trấn Kỳ.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Kế toán/Beancount.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Kế toán/Misa.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Kế toán",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/New folder",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Misa.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/CLI/Beancount.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/CLI/Trấn Kỳ.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/CLI",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/App quản lý chi tiêu/Momo.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/App quản lý chi tiêu",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Sơ đồ giữa các chương trình về quản lý chi tiêu cá nhân.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Loại chương trình/App quản lý chi tiêu.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/SaveDi.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Beancount.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách phân loại/Phân loại tự động.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Loại chương trình/Template thu chi trên Excel.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách phân loại/Có thể tự phân loại bằng tay.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách nhập liệu/Điều khiển dễ dàng bằng bàn phím.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Loại chương trình/Chương trình kế toán văn bản thuần.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách nhập liệu/Nhập liệu được trên Google Keep.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách nhập liệu/Nhập liệu được trên Telegram.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách nhập liệu/Sử dụng terminal.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Nhu cầu người dùng/b2 Có thể sử dụng hệ thống phân loại của người khác.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/PiPu.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách lưu dữ liệu",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/New folder",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách phân loại",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách nhập liệu",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Xử lý ngôn ngữ",
     "Ξ Thiết lập/Excalidraw/Các lĩnh vực trong vault.png",
     "Ξ Thiết lập/Ảnh/a.jpg",
     "Ξ Thiết lập/Ảnh/a1.jpg",

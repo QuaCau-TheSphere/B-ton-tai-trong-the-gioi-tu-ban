@@ -1,3 +1,31 @@
 
-[log] [GitHub Publisher](monkeyPatchConsole):
- Console monkey patched
+[logs - Enveloppe.onload] [Obsidian Enveloppe] v.7.2.11 (lang: en) loaded.
+* You can hide HTTP logs in the console with checking the "Hide network" in the console settings.
+* See here: https://developer.chrome.com/docs/devtools/console/reference#network
+[logs - checkRepositoryValidity] TypeError: Cannot read properties of undefined (reading 'length')
+[logs - verifyRateLimitAPI] You are not rate limited. You can make 5000 requests before the limit is reset at 1:18:16 AM.
+[logs - Enveloppe.onload] [Obsidian Enveloppe] v.7.2.11 (lang: en) loaded.
+* You can hide HTTP logs in the console with checking the "Hide network" in the console settings.
+* See here: https://developer.chrome.com/docs/devtools/console/reference#network
+[logs - checkRepositoryValidity] TypeError: Cannot read properties of undefined (reading 'length')
+[logs - verifyRateLimitAPI] You are not rate limited. You can make 5000 requests before the limit is reset at 1:47:37 AM.
+[logs - Enveloppe.onload] [Obsidian Enveloppe] v.7.2.11 (lang: en) loaded.
+* You can hide HTTP logs in the console with checking the "Hide network" in the console settings.
+* See here: https://developer.chrome.com/docs/devtools/console/reference#network
+[logs - checkRepositoryValidity] TypeError: Cannot read properties of undefined (reading 'length')
+[logs - verifyRateLimitAPI] You are not rate limited. You can make 5000 requests before the limit is reset at 1:49:04 AM.
+[logs - Enveloppe.onload] [Obsidian Enveloppe] v.7.2.11 (lang: en) loaded.
+* You can hide HTTP logs in the console with checking the "Hide network" in the console settings.
+* See here: https://developer.chrome.com/docs/devtools/console/reference#network
+[logs - checkRepositoryValidity] TypeError: Cannot read properties of undefined (reading 'length')
+[logs - verifyRateLimitAPI] You are not rate limited. You can make 5000 requests before the limit is reset at 1:55:17 AM.
+[logs - Enveloppe.onload] [Obsidian Enveloppe] v.7.2.11 (lang: en) loaded.
+* You can hide HTTP logs in the console with checking the "Hide network" in the console settings.
+* See here: https://developer.chrome.com/docs/devtools/console/reference#network
+[logs - checkRepositoryValidity] TypeError: Cannot read properties of undefined (reading 'length')
+[logs - verifyRateLimitAPI] You are not rate limited. You can make 5000 requests before the limit is reset at 1:59:06 AM.
+[logs - Enveloppe.onload] [Obsidian Enveloppe] v.7.2.11 (lang: en) loaded.
+* You can hide HTTP logs in the console with checking the "Hide network" in the console settings.
+* See here: https://developer.chrome.com/docs/devtools/console/reference#network
+[logs - checkRepositoryValidity] TypeError: Cannot read properties of undefined (reading 'length')
+[logs - verifyRateLimitAPI] You are not rate limited. You can make 4999 requests before the limit is reset at 2:03:27 AM.

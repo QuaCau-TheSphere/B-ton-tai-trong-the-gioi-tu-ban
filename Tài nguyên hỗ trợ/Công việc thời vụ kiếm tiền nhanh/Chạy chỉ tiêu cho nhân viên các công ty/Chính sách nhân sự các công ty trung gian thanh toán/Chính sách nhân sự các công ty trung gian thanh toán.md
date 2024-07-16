@@ -1,15 +1,16 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-05T02:32
+updated: 2024-07-07T00:40
 ---
 Ngày trả lương cho nhân viên và tiền công cho cộng tác viên đều là vào đầu tháng.
 
-|                                                                       | Momo                          | VNPAY | Smartpay | Zalopay | Ecopay |
-| --------------------------------------------------------------------- | ----------------------------- | ----- | -------- | ------- | ------ |
-| [[Khác biệt giữa nhân viên, đại lý, cộng tác viên\|Có cộng tác viên]] | ✔                             | ❌    | ❌       | ❌      | ❌     |
-| Chỉ tiêu nhân viên hàng tháng                                         | 120 cửa hàng được FO/AI duyệt |       |          |         |        |
-| Lương cứng                                                            | 8 tr                          |       |          |         |        |
+|                               | Momo                          | VNPAY                              | Smartpay | Zalopay | Ecopay |
+| ----------------------------- | ----------------------------- | ---------------------------------- | -------- | ------- | ------ |
+| Có cộng tác viên              | ✔                             | ❌                                 | ❌       | ❌      | ❌     |
+| Chỉ tiêu nhân viên hàng tháng | 120 cửa hàng được FO/AI duyệt |                                    |          |         |        |
+| Lương cứng                    | 8 tr                          |                                    |          |         |        |
+| Báo cáo cửa hàng tiềm năng    |                               | 10 cửa hàng/ngày trong 30 ngày đầu |          |         |        |
 
 # Momo
 Các cửa hàng được chia thành 3 cấp độ:
@@ -21,4 +22,4 @@ Các cửa hàng được chia thành 3 cấp độ:
 | 3   | Cửa hàng chất lượng | 5 giao dịch có tổng trên 2tr                                                                           | 30k       |
 
 CTV thì bị trừ 10%. 
-[[Khác biệt giữa làm nhân viên thực của công ty và làm trong nhóm nhân viên ảo]]
+[[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]
