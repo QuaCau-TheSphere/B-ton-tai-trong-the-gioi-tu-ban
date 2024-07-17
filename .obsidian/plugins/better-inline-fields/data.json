@@ -2,27 +2,35 @@
   "autocomplete": [
     {
       "field": "Nhu cầu người dùng",
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Nhu cầu người dùng"
+      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/1 Nhu cầu người dùng"
     },
     {
-      "field": "Chi phí và kỹ năng cần có",
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Chi phí và kỹ năng cần có"
+      "field": "Phù hợp cho nhu cầu",
+      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/1 Nhu cầu người dùng"
     },
     {
-      "field": "Loại chương trình",
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Loại chương trình"
+      "field": "Đáp ứng yêu cầu",
+      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/2 Yêu cầu đầu vào"
     },
     {
-      "field": "Tên chương trình",
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình"
+      "field": "Yêu cầu đầu vào",
+      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/2 Yêu cầu đầu vào"
     },
     {
       "field": "Tính năng",
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng"
+      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng"
     },
     {
-      "field": "Xử lý ngôn ngữ",
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Xử lý ngôn ngữ"
+      "field": "Đồng thời có thêm tính năng",
+      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng"
+    },
+    {
+      "field": "Loại chương trình",
+      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình"
+    },
+    {
+      "field": "Tên chương trình",
+      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình"
     }
   ],
   "regexpTrigger": "/",

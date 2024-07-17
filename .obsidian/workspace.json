@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d2f6ee26f83581a3",
+        "id": "5519a36a06d163f6",
         "type": "tabs",
         "children": [
           {
-            "id": "10184563475b79e6",
+            "id": "ed76d7a21ee8a3ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ξ Thiết lập/Templates/Vấn đề.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7ff2a3553bb219b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ξ Thiết lập/Templates/Phiếu phỏng vấn.md",
-                "mode": "source",
+                "file": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình ghi chép thu chi cá nhân.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,11 +66,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 319.0086555480957
+    "width": 319.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "0f3696c70a5f5648",
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ξ Thiết lập/Templates/Phiếu phỏng vấn.md",
+                "file": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình ghi chép thu chi cá nhân.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ξ Thiết lập/Templates/Phiếu phỏng vấn.md",
+                "file": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình ghi chép thu chi cá nhân.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ξ Thiết lập/Templates/Phiếu phỏng vấn.md"
+                "file": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình ghi chép thu chi cá nhân.md"
               }
             }
           }
@@ -162,48 +150,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ff2a3553bb219b8",
+  "active": "ed76d7a21ee8a3ea",
   "lastOpenFiles": [
-    "Ξ Thiết lập/Templates/Tên chương trình.md",
-    "Ξ Thiết lập/Templates/Vấn đề.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/App quản lý chi tiêu/PiPu.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Xử lý ngôn ngữ/Tiếp cận theo thống kê.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Trấn Kỳ.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Kế toán/Trấn Kỳ.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Kế toán/Beancount.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Kế toán/Misa.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Kế toán",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/New folder",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Misa.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/CLI/Beancount.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/CLI/Trấn Kỳ.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/CLI",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/App quản lý chi tiêu/Momo.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/App quản lý chi tiêu",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Sơ đồ giữa các chương trình về quản lý chi tiêu cá nhân.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Loại chương trình/App quản lý chi tiêu.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/SaveDi.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/Beancount.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách phân loại/Phân loại tự động.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Loại chương trình/Template thu chi trên Excel.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách phân loại/Có thể tự phân loại bằng tay.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách nhập liệu/Điều khiển dễ dàng bằng bàn phím.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Loại chương trình/Chương trình kế toán văn bản thuần.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách nhập liệu/Nhập liệu được trên Google Keep.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách nhập liệu/Nhập liệu được trên Telegram.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách nhập liệu/Sử dụng terminal.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Nhu cầu người dùng/b2 Có thể sử dụng hệ thống phân loại của người khác.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tên chương trình/PiPu.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách lưu dữ liệu",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/New folder",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách phân loại",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng/Cách nhập liệu",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Tính năng",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Xử lý ngôn ngữ",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình kế toán.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Tổ chức cho vay/Tổ chức cho vay.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình phân loại dữ liệu tự động.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Cách nhập liệu/Nhập được trên máy tính.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Cách nhập liệu/Điều khiển dễ dàng bằng bàn phím.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/Kế toán/Beancount.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Khác/Là phần mềm tự do.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/Kế toán/Misa.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình kế toán văn bản thuần.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/Chương trình quản lý tiền.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/Trấn Kỳ.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình ghi chép thu chi cá nhân.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Chính sách giá/500k mỗi tháng.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Plugin cho phần mềm khác.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Template thu chi trên Excel.md",
+    "Ξ Thiết lập/Templates/Quang cảnh thị trường/4 Loại chương trình.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Cách phân loại/Phân loại tự động theo quy luật.md",
+    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/Chính sách nhân sự các công ty trung gian thanh toán.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Vay/Ngân hàng CIMB tạo thẻ tín dụng hạn mức 100tr, chỉ cần trả 3tr∕tháng trong mấy năm hay gì đó là đc.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Vay/TNEX → Viettel Money → Easycredit → Mcredit.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Tổ chức cho vay/CEP khai thu nhâp 7tr, sinh hoạt phí 5tr thì đc vay tối đa 6tr trong 5 tháng.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Tổ chức cho vay/Ghi chú về các app ngân hàng.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Vay/Khi bị app từ chối duyệt thì phải đợi mấy tháng mới cho nộp lại.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Vay/Ngân hàng chính sách xã hội.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Vay/momo, zalopay, tải viettel money, fundiin, tnex, kredivo, shopee, shopeepay, lazada, rồi lần lượt đăng ký lại với sđt kia.md",
+    "Hiểu biết sâu/Vay tiền/Ngân hàng, điểm tín dụng/Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng.md",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Tổ chức cho vay",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Khác",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/New folder",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Chính sách giá",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/1 Nhu cầu người dùng/Cách lên kế hoạch sử dụng tiền",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/1 Nhu cầu người dùng/New folder",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Số lượng trường phân loại",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/1 Nhu cầu người dùng/Kết quả cần có",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Thiết bị nhập",
+    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Khả năng tích hợp",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240627210342.png",
     "Ξ Thiết lập/Excalidraw/Các lĩnh vực trong vault.png",
     "Ξ Thiết lập/Ảnh/a.jpg",
     "Ξ Thiết lập/Ảnh/a1.jpg",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240627210342.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20240627210332.png",
     "Pasted image 20240627153206.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20240620101103.png",

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2024-07-10T10:45
+updated: 2024-07-17T21:47
 ---
 # Mỗi mã QR cần được quét 13 lần
 - Mỗi giao dịch phải ít nhất 20k. Mỗi cửa hàng cần tối thiểu 13 giao dịch để được công nhận là đang hoạt động
@@ -40,7 +40,7 @@ Tốn thời gian nhất là phải chuyển app. Chứ quẹt xong mã này nó
 > - **Shinhan**, **TP**, **VP** không ghi rõ tên giao dịch với cửa hàng nào khi quẹt VNPAY, dù vẫn chuyển được
 > - **Kiên Long**, **MSB** không quẹt được VNPAY, dù quẹt TK ngân hàng bình thường khác vẫn được
 > 
-> Xem thêm:: [[Ghi chú về các ngân hàng]]
+> Xem thêm:: [[Ghi chú về các app ngân hàng]]
 
 ![](https://i.imgur.com/Q7KcLn6.png)
 
