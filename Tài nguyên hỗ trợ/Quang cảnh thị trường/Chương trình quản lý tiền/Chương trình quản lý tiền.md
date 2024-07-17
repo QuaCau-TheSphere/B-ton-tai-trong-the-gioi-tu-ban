@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-17T23:20
+updated: 2024-07-18T01:11
 description: Điểm giống và khác nhau giữa các chương trình quản lý tiền. Quang cảnh và sơ đồ giữa chúng.
 alias:
   - Điểm giống và khác nhau giữa các chương trình quản lý tiền

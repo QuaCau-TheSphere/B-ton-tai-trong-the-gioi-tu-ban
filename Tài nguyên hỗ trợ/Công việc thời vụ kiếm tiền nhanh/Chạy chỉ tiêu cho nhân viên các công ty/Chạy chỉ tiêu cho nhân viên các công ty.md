@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-28T23:05
-updated: 2024-06-28T23:25
+updated: 2024-07-18T01:11
 ---
 
 Ví dụ như đây là yêu cầu công việc của một nhân viên bán hành trong VNPAY:

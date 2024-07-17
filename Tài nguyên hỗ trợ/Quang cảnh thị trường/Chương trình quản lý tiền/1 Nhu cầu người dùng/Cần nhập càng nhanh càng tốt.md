@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-17T15:14
+updated: 2024-07-18T01:11
 ---
 Nhu cầu người dùng:: [[Cần nhập lúc đi đường]]
 Tính năng:: [[Nhập liệu được trên Google Keep]], [[Nhập liệu được trên Telegram]]

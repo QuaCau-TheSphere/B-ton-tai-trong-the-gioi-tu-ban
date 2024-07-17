@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-01T15:49
+updated: 2024-07-18T01:11
 ---
 Khái niệm:: [[Marketing]], [[Động lực]], [[Cạnh tranh]]
 Lý do:: [[Sự hiệu quả của loại cạnh tranh tạo động lực cải tiến sản phẩm hoàn toàn phụ thuộc vào sự truyền miệng]]

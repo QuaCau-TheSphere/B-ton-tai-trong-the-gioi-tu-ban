@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-18T00:01
+updated: 2024-07-18T01:11
 cssClass: wide-table
 ---
 Tên chương trình:: [[Misa]], [[Beancount]]

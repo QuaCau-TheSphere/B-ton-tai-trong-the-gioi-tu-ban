@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-01T15:49
+updated: 2024-07-18T01:11
 ---
 Khái niệm:: 
 “Tưởng tượng bạn đang tham gia bắt thăm trúng thưởng, bạn chỉ có 2 lựa chọn

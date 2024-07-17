@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-21T16:31
+updated: 2024-07-18T01:11
 ---
 Để một cá nhân, tổ chức cần thuê ngoài cần hội đủ các điều kiện sau đây:
 - Khách hàng cần phân loại, gắn nhãn, biến dữ liệu phi cấu trúc thành dữ liệu có cấu trúc

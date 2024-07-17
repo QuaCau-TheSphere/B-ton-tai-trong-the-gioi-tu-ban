@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-14T20:53
-updated: 2024-07-01T15:49
+updated: 2024-07-18T01:11
 ---
 Nguồn::
 [[Sự đau chi phối sự diễn giải của ta]]

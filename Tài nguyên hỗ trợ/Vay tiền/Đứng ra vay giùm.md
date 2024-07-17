@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-09T12:42
+updated: 2024-07-19T13:25
 ---
 - Người sáng lập Quả Cầu, 1 tổ chức hoạt động vì con người, a có thu nhập thông qua các tổ chức + mở các team tham gia code bán các sản phẩm trên Patreon
 - **Thu nhập:** tầm 15 → 25tr/ tháng, có em là nhân viên và nhi là đồng sự

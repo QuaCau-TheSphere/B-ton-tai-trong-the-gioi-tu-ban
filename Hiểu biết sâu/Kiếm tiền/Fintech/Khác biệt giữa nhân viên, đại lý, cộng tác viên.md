@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-06T14:47
+updated: 2024-07-18T01:11
 ---
 ## Cộng tác viên cho công ty
 | Loại hình                                    | Hình thức trả tiền                             | Bảo hiểm xã hội | Ưu đãi khác | Phải đảm bảo doanh số mỗi tháng |

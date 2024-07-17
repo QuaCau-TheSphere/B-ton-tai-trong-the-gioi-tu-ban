@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-05T09:20
+updated: 2024-07-18T01:11
 ---
 Nếu cửa hàng đã có Momo rồi thì thường họ sẽ không có nhu cầu gắn thêm mã khác. Nếu muốn họ gắn mã khác thì có thể nói là 
 ```

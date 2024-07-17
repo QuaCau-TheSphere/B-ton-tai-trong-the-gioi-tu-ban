@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-05T00:12
+updated: 2024-07-18T01:11
 ---
 - Momo: chỉ cần 1 giao dịch trên 50k
 - Smartpay: chỉ quan tâm điểm mở mới, không áp GMV hoặc giao dịch. Có thể là vì [[Nhà đầu tư cho các công ty tài chính cần tiền được lưu thông]]

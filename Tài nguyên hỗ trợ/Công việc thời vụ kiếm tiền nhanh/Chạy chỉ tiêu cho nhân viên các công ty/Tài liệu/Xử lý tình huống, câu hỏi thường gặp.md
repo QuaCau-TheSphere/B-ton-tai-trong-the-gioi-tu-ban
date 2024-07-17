@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-06T15:05
+updated: 2024-07-18T01:11
 ---
 # Tôi thấy việc làm nhân viên ảo là việc không nên
 Còn bên pru ng chịu thiệt là ko có ai ở đây. Nếu có là ng hưởng lợi cao nhất là tổng giám đốc hoặc các nhà đầu tư chẳng hạn. Một ng ko mấy bị ảnh hưởng bởi số tiền nhỏ

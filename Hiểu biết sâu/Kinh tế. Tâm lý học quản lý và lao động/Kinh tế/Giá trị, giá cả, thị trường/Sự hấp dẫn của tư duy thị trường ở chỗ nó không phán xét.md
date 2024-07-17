@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-01T15:49
+updated: 2024-07-18T01:11
 ---
 [[Thị trường không chỉ phân bố hàng hoá mà còn bộc lộ, khuyến khích con người có những thái độ nhất định với các loại hàng hoá]]
 

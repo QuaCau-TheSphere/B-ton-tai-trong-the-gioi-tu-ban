@@ -33,6 +33,10 @@
     {
       "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình",
       "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/5 Tên chương trình.md"
+    },
+    {
+      "folder": "Hiểu biết sâu",
+      "template": "Ξ Thiết lập/Templates/Ý tưởng.md"
     }
   ],
   "syntax_highlighting": true,

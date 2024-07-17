@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-25T15:33
-updated: 2024-06-23T22:10
+updated: 2024-07-18T01:11
 ---
 [[Nhiều tiền hơn có làm tăng thêm hạnh phúc, nhưng việc có những mối quan hệ chất lượng đem lại nhiều hạnh phúc hơn]]. Nếu sự giảm nợ hoặc gia hạn nợ đem cho họ những mối quan hệ chất lượng hơn thì có thể họ sẽ chấp nhận.
 

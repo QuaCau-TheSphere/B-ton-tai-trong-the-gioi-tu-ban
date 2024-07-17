@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-01T15:49
+updated: 2024-07-18T01:11
 ---
 Người ta thường cho là tiền tệ được phát minh để bù đắp cho những yếu kém của đổi chác. Những công trình khảo cổ và sử học hoàn toàn phủ nhận trình tự này.  
   

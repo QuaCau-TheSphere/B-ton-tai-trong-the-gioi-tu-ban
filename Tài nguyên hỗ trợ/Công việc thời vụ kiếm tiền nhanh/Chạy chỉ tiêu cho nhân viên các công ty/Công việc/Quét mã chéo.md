@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2024-07-17T21:47
+updated: 2024-07-18T01:11
 ---
 # Mỗi mã QR cần được quét 13 lần
 - Mỗi giao dịch phải ít nhất 20k. Mỗi cửa hàng cần tối thiểu 13 giao dịch để được công nhận là đang hoạt động

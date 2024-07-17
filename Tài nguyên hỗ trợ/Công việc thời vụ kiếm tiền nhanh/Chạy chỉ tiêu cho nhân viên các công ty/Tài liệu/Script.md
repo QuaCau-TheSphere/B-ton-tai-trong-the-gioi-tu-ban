@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-29T17:48
+updated: 2024-07-18T01:11
 ---
 # Thêm số thứ tự vào các hình hàng loạt
 Hữu ích cho việc phân biệt mã nào mình đã làm rồi, mã nào chưa

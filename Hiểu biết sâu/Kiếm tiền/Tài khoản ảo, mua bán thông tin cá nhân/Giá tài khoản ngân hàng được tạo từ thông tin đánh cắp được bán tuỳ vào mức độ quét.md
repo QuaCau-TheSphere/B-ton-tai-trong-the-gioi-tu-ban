@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-05T00:12
+updated: 2024-07-18T01:11
 ---
 Ví dụ với bank onl, giá tầm 700k thì không lo bị ngân hàng quét, hạn mức tối đa 500tr/ngày. Nó dành cho những người chuyên đánh bài, cá độ 1 risk nhận 0.9 return, thì tiền lời 1 lần dư mua 1 bank middle để nhận tiền.
 

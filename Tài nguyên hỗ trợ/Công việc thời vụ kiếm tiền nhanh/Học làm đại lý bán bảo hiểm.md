@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-26T22:27
+updated: 2024-07-18T01:11
 ---
 Một buổi được tính là một buổi sáng hoặc chiều, 2-5 tiếng. Một ngày gồm 2 buổi sáng chiều.
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-04T23:52
-updated: 2024-07-13T21:58
+updated: 2024-07-18T01:11
 ---
 ## Khác biệt về sản phẩm
 | Sản phẩm | Ví điện tử | Máy cà thẻ (POS) | Khác                          |
