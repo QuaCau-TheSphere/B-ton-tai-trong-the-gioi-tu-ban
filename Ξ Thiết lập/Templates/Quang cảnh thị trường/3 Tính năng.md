@@ -1,16 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-17T17:28
+updated: 2024-07-27T18:33
 ---
-Yêu cầu đầu vào:: 
-Đồng thời có thêm tính năng::
-Loại chương trình:: 
+Đáp ứng cho nhu cầu: `=filter(this.file.inlinks, (i) => contains(i.file.folder, "1 Nhu cầu người dùng"))`
+Các chương trình có tính năng này: `=filter(this.file.inlinks, (i) => contains(i.file.folder, "5 Tên chương trình"))`
 
-Đáp ứng cho nhu cầu hoặc tính năng:
-```dataview
-list
-from "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền" 
-where contains(file.outlinks,[[]])
-where file.name != "Chương trình quản lý tiền" 
-```
+Đáp ứng yêu cầu:: 
+Đồng thời có thêm tính năng::
+
+Loại chương trình:: 

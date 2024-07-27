@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed76d7a21ee8a3ea",
+            "id": "e278873dad1dfd77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tài nguyên hỗ trợ/Vay tiền/CEP khai thu nhâp 7tr, sinh hoạt phí 5tr thì đc vay tối đa 6tr trong 5 tháng.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "48e1a2752ace934c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tài nguyên hỗ trợ/Vay tiền/Quỹ Tình Thân.md",
-                "mode": "source",
+                "file": "📐 Dự án/Giúp nhau/Tạo sinh kế, thu nhập, dòng tiền.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "etsy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tài nguyên hỗ trợ/Vay tiền/Quỹ Tình Thân.md",
+                "file": "📐 Dự án/Giúp nhau/Tạo sinh kế, thu nhập, dòng tiền.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tài nguyên hỗ trợ/Vay tiền/Quỹ Tình Thân.md",
+                "file": "📐 Dự án/Giúp nhau/Tạo sinh kế, thu nhập, dòng tiền.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tài nguyên hỗ trợ/Vay tiền/Quỹ Tình Thân.md"
+                "file": "📐 Dự án/Giúp nhau/Tạo sinh kế, thu nhập, dòng tiền.md"
               }
             }
           }
@@ -162,37 +148,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48e1a2752ace934c",
+  "active": "e278873dad1dfd77",
   "lastOpenFiles": [
-    "Tài nguyên hỗ trợ/Vay tiền/Quang cảnh thị trường.md",
-    "Tài nguyên hỗ trợ/Vay tiền/Quỹ Tình Thân.md",
-    "Tài nguyên hỗ trợ/Vay tiền/CEP khai thu nhâp 7tr, sinh hoạt phí 5tr thì đc vay tối đa 6tr trong 5 tháng.md",
-    "Tài nguyên hỗ trợ/Vay tiền/Đứng ra vay giùm.md",
-    "Tài nguyên hỗ trợ/Vay tiền/Xù ngân hàng.md",
-    "Tài nguyên hỗ trợ/Vay tiền/Vay nóng chỉ cho nhận 1tr lần đầu.md",
-    "Tài nguyên hỗ trợ/Vay tiền/Vay dưới 10tr dễ được duyệt hơn.md",
-    "Tài nguyên hỗ trợ/Vay tiền/TNEX tiêu trước trả sau lãi 35%. Vay tiêu dùng 12 tháng lãi 45%.md",
-    "Tài nguyên hỗ trợ/Vay tiền/Ghi chú về các app ngân hàng.md",
-    "Tài nguyên hỗ trợ/Vay tiền",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Tổ chức cho vay/Tổ chức cho vay.md",
-    "Tài nguyên hỗ trợ/Tổ chức cho vay/Đứng ra vay giùm.md",
-    "Tài nguyên hỗ trợ/Tổ chức cho vay/Xù ngân hàng.md",
-    "Tài nguyên hỗ trợ/Tổ chức cho vay/Vay nóng chỉ cho nhận 1tr lần đầu.md",
-    "Tài nguyên hỗ trợ/Tổ chức cho vay/Vay dưới 10tr dễ được duyệt hơn.md",
-    "Tài nguyên hỗ trợ/Tổ chức cho vay/Tổ chức cho vay.md",
-    "Tài nguyên hỗ trợ/Tổ chức cho vay/TNEX tiêu trước trả sau lãi 35%. Vay tiêu dùng 12 tháng lãi 45%.md",
-    "Tài nguyên hỗ trợ/Tổ chức cho vay/Ghi chú về các app ngân hàng.md",
-    "Tài nguyên hỗ trợ/Tổ chức cho vay/CEP khai thu nhâp 7tr, sinh hoạt phí 5tr thì đc vay tối đa 6tr trong 5 tháng.md",
-    "Tài nguyên hỗ trợ/Tổ chức cho vay",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Tổ chức cho vay/Đứng ra vay giùm.md",
-    "Ξ Thiết lập/Templates/Ý tưởng.md",
-    "Hiểu biết sâu/Vay tiền/Chỉ có người thân được bảo lãnh, chứ bạn bè thì không.md",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Tổ chức cho vay/CEP khai thu nhâp 7tr, sinh hoạt phí 5tr thì đc vay tối đa 6tr trong 5 tháng.md",
-    "Tài nguyên hỗ trợ/Tài nguyên hỗ trợ.md",
-    "Hiểu biết sâu/Vay tiền/Vay tiền.md",
-    "Hiểu biết sâu/Vay tiền/Ngân hàng, điểm tín dụng/Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng.md",
-    "Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Việc khai thác điểm yếu của con người đem lại lợi nhuận.md",
-    "Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Truyền thông/Tạo tệp Excel tự động để nhập khẩu vào các phần mềm kế toán.md",
+    "📐 Dự án/Giúp nhau/Tạo sinh kế, thu nhập, dòng tiền.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/App quản lý chi tiêu/App của Huy.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình kế toán.md",
+    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho nhân viên các công ty.md",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Truyền thông/Lời mời tham gia đầu tư vào Trấn Kỳ.md",
+    "📐 Dự án/Trấn Kỳ/Trấn Kỳ.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/Trấn Kỳ (quang cảnh thị trường).md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ.md",
+    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Phân loại dữ liệu cho người có nhiều dữ liệu.md",
+    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/BPO.md",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Kế hoạch/Kế hoạch xây dựng cộng đồng phát triển Trấn Kỳ.md",
+    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Chạy sự kiện, hậu cần, truyền thông.md",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Kế hoạch/Untitled.md",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Kế hoạch/Kế hoạch tạo lợi nhuận từ Trấn Kỳ/Kế hoạch bán cho người cần có sự kỷ luật tài chính.md",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Chiến lược/Kế hoạch phát triển Trấn Kỳ.md",
+    "📐 Dự án/Trấn Kỳ/9 Blog/Kiếm tiền từ Trấn Kỳ.md",
+    "📐 Dự án/Giúp nhau/Untitled.md",
+    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Quét mã chéo.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Kiếm tiền trực tuyến (MMO)/Kiếm tiền trực tuyến (MMO).md",
+    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Làm nhân viên ảo.md",
+    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Công việc thời vụ kiếm tiền nhanh.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Số lượng trường phân loại/Chỉ có vài trường cơ bản.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Số lượng trường phân loại/Thêm được nhiều trường phân loại.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình ghi chép thu chi cá nhân.md",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Kết quả/Duy Phong.md",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết/Kết quả",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Kết quả",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Quỹ/Nhà đầu tư",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Tổ chức nhỏ",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Kế hoạch/Kế hoạch tạo lợi nhuận từ Trấn Kỳ",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Quỹ",
+    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Đội ngũ",
     "Ξ Thiết lập/Ảnh/Pasted image 20240627210342.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20240627210332.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20240620101103.png",
@@ -202,13 +195,6 @@
     "Ξ Thiết lập/Ảnh/Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc.jpg",
     "Ξ Thiết lập/Ảnh/growth.png",
     "Ξ Thiết lập/Ảnh/a1.jpg",
-    "Ξ Thiết lập/Ảnh/a.jpg",
-    "Ξ Thiết lập/Templates/Quang cảnh thị trường",
-    "Ξ Thiết lập/Ảnh",
-    "Ξ Thiết lập/Templates",
-    "Ξ Thiết lập",
-    "Tài nguyên hỗ trợ/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chính sách nhân sự các công ty trung gian thanh toán/VNPAY",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/Kế toán",
-    "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/App quản lý chi tiêu"
+    "Ξ Thiết lập/Ảnh/a.jpg"
   ]
 }

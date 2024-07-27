@@ -15,27 +15,27 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/1 Nhu cầu người dùng",
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/1 Nhu cầu người dùng",
       "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/1 Nhu cầu người dùng.md"
     },
     {
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/2 Yêu cầu đầu vào",
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/2 Yêu cầu đầu vào",
       "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/2 Yêu cầu đầu vào.md"
     },
     {
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng",
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng",
       "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/3 Tính năng.md"
     },
     {
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình",
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình",
       "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/4 Loại chương trình.md"
     },
     {
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình",
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình",
       "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/5 Tên chương trình.md"
     },
     {
-      "folder": "Hiểu biết sâu",
+      "folder": "/",
       "template": "Ξ Thiết lập/Templates/Ý tưởng.md"
     }
   ],

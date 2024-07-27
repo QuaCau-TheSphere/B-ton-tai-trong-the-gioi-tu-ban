@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-17T23:09
+updated: 2024-07-27T18:33
 cssClass: wide-table
 ---
 Tên chương trình:: 
@@ -21,7 +21,7 @@ from outgoing([[]])
 Tính năng:
 ```dataview
 list 
-from "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền" 
+from "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền" 
 where contains(file.outlinks,[[]])
 where file.name != "Chương trình quản lý tiền" 
 ```
