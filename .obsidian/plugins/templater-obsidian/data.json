@@ -37,6 +37,10 @@
     {
       "folder": "/",
       "template": "Ξ Thiết lập/Templates/Ý tưởng.md"
+    },
+    {
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng",
+      "template": "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền/3 Ý tưởng kiếm tiền.md"
     }
   ],
   "syntax_highlighting": true,

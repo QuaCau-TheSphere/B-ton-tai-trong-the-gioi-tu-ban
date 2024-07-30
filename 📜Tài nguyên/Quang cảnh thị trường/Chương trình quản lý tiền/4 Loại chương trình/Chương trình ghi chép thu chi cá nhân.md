@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-27T18:33
+updated: 2024-07-28T17:06
 cssClass: wide-table
 ---
-Tên chương trình:: [[Momo]], [[App của Huy]], [[MoneyLover]], [[PiPu]]
+Tên chương trình:: [[Momo]], [[Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ]], [[MoneyLover]], [[PiPu]]
 ```dataview
 table 
 	filter(tính-năng, (i)=>contains(i.file.folder, "Cách nhập liệu")) as "Cách nhập liệu",

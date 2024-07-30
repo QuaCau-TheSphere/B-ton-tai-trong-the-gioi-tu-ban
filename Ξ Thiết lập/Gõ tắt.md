@@ -1,6 +1,6 @@
 ---
 created: 2023-05-26T14:51
-updated: 2024-07-27T18:33
+updated: 2024-07-30T13:22
 ---
 Nhu cầu:: 		nc, dy, tl
 Nhu cầu dẫn tới:: 		ncdt, ch, mt
@@ -22,15 +22,16 @@ Mâu thuẫn với:: 		mtv
 Nguồn:: 		ng
 Trích từ:: 		tt
 
-Nhu cầu người dùng:: 		cnl
-Phù hợp cho nhu cầu:: 		cnl
-Đáp ứng yêu cầu:: 		cnl
-Yêu cầu đầu vào:: 		cnl
-Chi phí và kỹ năng cần có:: 		cp
+Nhu cầu người dùng:: 		nl
+Phù hợp cho nhu cầu:: 		nl
+Đáp ứng yêu cầu:: 		nl
+Yêu cầu đầu vào:: 		yc
 Loại chương trình:: 		lct
 Tên chương trình:: 		tct
 Đồng thời có thêm tính năng:: 		tn
 Tính năng:: 		tn
+
+Hình thức:: 		ht
 # Code nhanh
 ## Bảng
 | Thành quả mong muốn | Giả thiết | Công việc |\n| ------------------- | --------- | --------- |		tqmm

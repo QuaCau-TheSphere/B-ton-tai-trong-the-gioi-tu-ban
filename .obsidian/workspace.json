@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e278873dad1dfd77",
+            "id": "3b8ab72fe65058e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐 Dự án/Giúp nhau/Tạo sinh kế, thu nhập, dòng tiền.md",
+                "file": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "etsy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📐 Dự án/Giúp nhau/Tạo sinh kế, thu nhập, dòng tiền.md",
+                "file": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📐 Dự án/Giúp nhau/Tạo sinh kế, thu nhập, dòng tiền.md",
+                "file": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📐 Dự án/Giúp nhau/Tạo sinh kế, thu nhập, dòng tiền.md"
+                "file": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md"
               }
             }
           }
@@ -148,44 +148,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e278873dad1dfd77",
+  "active": "3b8ab72fe65058e9",
   "lastOpenFiles": [
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Truyền thông/Tạo tệp Excel tự động để nhập khẩu vào các phần mềm kế toán.md",
-    "📐 Dự án/Giúp nhau/Tạo sinh kế, thu nhập, dòng tiền.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/App quản lý chi tiêu/App của Huy.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán phần mềm/Bán bộ sưu tập từ điển chuyên ngành.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Buôn bán nhỏ.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/Ý tưởng kiếm tiền.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/Tạo sinh kế, thu nhập, dòng tiền.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Xem tử vi tự động.md",
+    "📐 Dự án/Trấn Kỳ/Chương trình quản lý chi tiêu cá nhân/Đặc tả yêu cầu cho webapp.md",
+    "📐 Dự án/Trấn Kỳ/Cũ/4 Thành phẩm/Đội ngũ/Nhật.md",
+    "📐 Dự án/Giúp nhau thoát nợ/Kendy/Kendy cần gì.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo kiến thức, kỹ năng/Có kiến thức về hệ thống.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo kiến thức, kỹ năng/Có tên tuổi, uy tín, chứng nhận.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Làm ngoài đường.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Huấn luyện lập trình 1-1.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/2 Hình thức/Gia công giải pháp.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Gia công giải pháp.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Viết plugin tích hợp vào các chương trình kế toán.md",
     "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình kế toán.md",
-    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho nhân viên các công ty.md",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Truyền thông/Lời mời tham gia đầu tư vào Trấn Kỳ.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán SaaS/Viết app quản lý chi tiêu cá nhân.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Tạo báo cáo tiếp thị quản lý được theo từng cấp.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán số lượng lớn tự động trên các nền tảng.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Tài khoản ngân hàng ảo dùng được vài tiếng là vì kyc bằng AI.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/App quản lý chi tiêu/Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ.md",
     "📐 Dự án/Trấn Kỳ/Trấn Kỳ.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/Trấn Kỳ (quang cảnh thị trường).md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ.md",
-    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Phân loại dữ liệu cho người có nhiều dữ liệu.md",
-    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/BPO.md",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Kế hoạch/Kế hoạch xây dựng cộng đồng phát triển Trấn Kỳ.md",
-    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Chạy sự kiện, hậu cần, truyền thông.md",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Kế hoạch/Untitled.md",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Kế hoạch/Kế hoạch tạo lợi nhuận từ Trấn Kỳ/Kế hoạch bán cho người cần có sự kỷ luật tài chính.md",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Chiến lược/Kế hoạch phát triển Trấn Kỳ.md",
-    "📐 Dự án/Trấn Kỳ/9 Blog/Kiếm tiền từ Trấn Kỳ.md",
-    "📐 Dự án/Giúp nhau/Untitled.md",
-    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Quét mã chéo.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Kiếm tiền trực tuyến (MMO)/Kiếm tiền trực tuyến (MMO).md",
-    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty/Công việc/Làm nhân viên ảo.md",
-    "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Công việc thời vụ kiếm tiền nhanh.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Số lượng trường phân loại/Chỉ có vài trường cơ bản.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng/Số lượng trường phân loại/Thêm được nhiều trường phân loại.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình ghi chép thu chi cá nhân.md",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Kết quả/Duy Phong.md",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết/Kết quả",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Kết quả",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Quỹ/Nhà đầu tư",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Tổ chức nhỏ",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Kế hoạch/Kế hoạch tạo lợi nhuận từ Trấn Kỳ",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Người dùng/Người dùng cá nhân",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Quỹ",
-    "📐 Dự án/Trấn Kỳ/4 Thành phẩm/Đội ngũ",
+    "📐 Dự án/Trấn Kỳ/Chương trình quản lý chi tiêu cá nhân/Chương trình quản lý chi tiêu cá nhân.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo kiến thức, kỹ năng",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/New folder",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo thời gian",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán SaaS",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán phần mềm",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư",
+    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ",
     "Ξ Thiết lập/Ảnh/Pasted image 20240627210342.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20240627210332.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20240620101103.png",

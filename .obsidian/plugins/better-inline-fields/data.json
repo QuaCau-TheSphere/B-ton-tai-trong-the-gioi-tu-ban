@@ -2,19 +2,27 @@
   "autocomplete": [
     {
       "field": "Tính năng",
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng"
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng"
     },
     {
       "field": "Đồng thời có thêm tính năng",
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng"
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng"
     },
     {
       "field": "Loại chương trình",
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình"
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình"
     },
     {
       "field": "Tên chương trình",
-      "folder": "Tài nguyên hỗ trợ/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình"
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình"
+    },
+    {
+      "field": "Yêu cầu đầu vào",
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào"
+    },
+    {
+      "field": "Hình thức",
+      "folder": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/2 Hình thức"
     }
   ],
   "regexpTrigger": "/",
