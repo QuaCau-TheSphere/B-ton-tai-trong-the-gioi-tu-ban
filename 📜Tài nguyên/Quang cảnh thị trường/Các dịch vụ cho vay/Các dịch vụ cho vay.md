@@ -1,17 +1,14 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-07-29T13:33
+updated: 2024-08-05T16:48
 ---
 ## Vì người yếu thế
 |                             | Số tiền rút lần đầu | Lãi | Thời hạn | Điều kiện                                                      |
 | --------------------------- | ------------------- | --- | -------- | -------------------------------------------------------------- |
 | [[Quỹ Tình Thân]]           | 2tr                 |     |          | Trưởng nhóm bảo lãnh                                           |
-| CEP                         |                     |     |          | Là thành viên công đoàn hoặc có xác nhận cư trú của địa phương |
+| [[CEP]]                     |                     |     |          | Là thành viên công đoàn hoặc có xác nhận cư trú của địa phương |
 | Ngân hàng chính sách xã hội |                     |     |          |                                                                |
-[[CEP khai thu nhâp 7tr, sinh hoạt phí 5tr thì đc vay tối đa 6tr trong 5 tháng]]
-[[Cho mượn theo nhóm đảm bảo không bị quịt hơn]]
-
 
 ## Ví trả sau
 |           | Số tiền rút lần đầu | Điều kiện |
@@ -23,20 +20,23 @@ updated: 2024-07-29T13:33
 | Lazada    |                     |           |
 
 ## App cho vay
-|            | Số tiền rút lần đầu | Lãi | Thời hạn |
-| ---------- | ------------------- | --- | -------- |
-| Fundiin    |                     |     |          |
-| Tnex       |                     |     |          |
-| Kredivo    |                     |     |          |
-| EasyCredit |                     |     |          |
-| Mcredit    |                     |     |          |
-| Cake       |                     |     |          |
-| HDSaison   |                     |     |          |
-| F88        |                     |     |          |
+|             | Số tiền rút lần đầu | Lãi | Thời hạn |
+| ----------- | ------------------- | --- | -------- |
+| Fundiin     |                     |     |          |
+| Tnex        |                     |     |          |
+| Kredivo     |                     |     |          |
+| EasyCredit  |                     |     |          |
+| Mcredit     |                     |     |          |
+| Cake        |                     |     |          |
+| HDSaison    |                     |     |          |
+| Home Credit |                     |     |          |
+| FE Credit            |                     |     |          |
 
 - Khi bị app từ chối duyệt thì phải đợi mấy tháng mới cho nộp lại
 - Viettel Money chỉ là cái app để chuyển sang các app cho vay khác. [[Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel]]
 - Vay dưới 10tr dễ được duyệt hơn
+- Home Credit bắt phải có 2 giấy tờ bổ sung
+- Tnex ko đổi đc sđt 
 
 [[Bên cho vay lãi quá rẻ thực ra là để mình chịu làm kyc để người khác tạo tài khoản ảo bằng tên của mình]]
 
@@ -59,6 +59,8 @@ Ngân hàng CIMB tạo thẻ tín dụng hạn mức 100tr, chỉ cần trả 3t
 Jeff chỉ là cái app để chuyển sang các app cho vay khác
 Vay nóng nếu không trả
 
+## Tiệm cầm đồ
+F88 giống tiệm cầm đồ, dùng cà vẹt xe để vay
 
 Thông tin khác:
 ```dataview

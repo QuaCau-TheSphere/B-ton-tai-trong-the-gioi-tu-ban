@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-28T17:06
+updated: 2024-08-07T15:50
 cssClass: wide-table
 ---
-Tên chương trình:: [[Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ]], [[Momo]], [[Misa]], [[Trấn Kỳ]]
+Tên chương trình:: [[Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ]], [[Momo]], [[Misa]], [[Trấn Kỳ (quang cảnh thị trường)]]
 
 ```dataview
 table 

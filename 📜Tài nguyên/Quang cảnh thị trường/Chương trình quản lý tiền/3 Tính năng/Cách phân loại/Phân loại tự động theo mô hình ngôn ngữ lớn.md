@@ -1,16 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-27T18:33
+updated: 2024-08-02T22:30
 ---
-Yêu cầu đầu vào:: [[Dữ liệu có văn cảnh lớn]], [[Dữ liệu có văn cảnh nhỏ]]
-Đồng thời có thêm tính năng::
-Loại chương trình:: [[Chương trình phân loại dữ liệu tự động]]
+Đáp ứng cho nhu cầu: `=filter(this.file.inlinks, (i) => contains(i.file.folder, "1 Nhu cầu người dùng"))`
+Các chương trình có tính năng này: `=filter(this.file.inlinks, (i) => contains(i.file.folder, "5 Tên chương trình"))`
 
-Đáp ứng cho nhu cầu hoặc tính năng:
-```dataview
-list
-from "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền" 
-where contains(file.outlinks,[[]])
-where file.name != "Chương trình quản lý tiền" 
-```
+Yêu cầu đầu vào:: [[Dữ liệu có văn cảnh lớn]], [[Dữ liệu có văn cảnh nhỏ]]
+Đồng thời có thêm tính năng:: [[Nhận diện typo]]
+
+Loại chương trình:: [[Chương trình phân loại dữ liệu tự động]]

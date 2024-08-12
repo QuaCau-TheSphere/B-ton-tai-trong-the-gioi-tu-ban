@@ -1,10 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-30T13:55
+updated: 2024-08-01T16:07
 ---
-Yêu cầu đầu vào:: [[Ẩn danh]]
+Yêu cầu đầu vào:: [[Biết cách ẩn danh]]
+Yêu cầu đầu vào:: [[Biết lập trình]]
 Yêu cầu đầu vào:: [[Có nguồn nguyên liệu lớn với giá rẻ]]
+Yêu cầu đầu vào:: [[Vốn]]
+
 Hình thức:: [[Tự kinh doanh, đầu tư]]
 
 Thực chất là nuôi tài khoản ảo số lượng lớn. Cần mua:

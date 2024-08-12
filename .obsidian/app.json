@@ -1,7 +1,39 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
+  "newFileLocation": "current",
   "livePreview": false,
-  "attachmentFolderPath": "Ξ Thiết lập",
-  "newFileLocation": "current"
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:insert-embed",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:set-heading",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:attach-file",
+    "editor:configure-toolbar"
+  ],
+  "attachmentFolderPath": "Ξ Thiết lập/Ảnh",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useTab": false,
+  "trashOption": "local"
 }

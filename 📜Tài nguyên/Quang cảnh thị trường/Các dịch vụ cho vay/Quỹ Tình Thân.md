@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-07-28T14:07
+updated: 2024-08-05T16:47
 ---
 URL:: https://www.facebook.com/profile.php?id=100077601589557
 
@@ -10,3 +10,5 @@ URL:: https://www.facebook.com/profile.php?id=100077601589557
 Điều kiện:: Người có HIV, hoặc người ở khu vực Q8, Q10, Bình Quới 
 
 [Chuyện kể từ Tình thân](https://nguoidothi.net.vn/chuyen-ke-tu-tinh-than-44244.html)
+
+[[Cho mượn theo nhóm đảm bảo không bị quịt hơn]]

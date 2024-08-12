@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-28T23:05
-updated: 2024-07-30T13:48
+updated: 2024-08-06T17:22
 alias:
   - Quản lý nhóm nhân viên ảo
 ---
@@ -40,3 +40,4 @@ Một số việc ở đây có tính hơi ăn gian, luồn lách quy định c�
 
 Không sợ các công ty tìm cách chống lại nhóm, vì mọi cách chống lại nhóm đều gây thiệt hại cho những người không muốn gian lận công ty. Cách duy nhất để chống lại là cải thiện cách đối xử với nhân viên bán hàng: giảm chỉ tiêu hoặc tăng lương. Nếu các công ty có thể làm nhóm này chết đi, thì đó là thành công của nhóm này. Nó được sinh ra với mục tiêu duy nhất là không còn cần phải tồn tại nữa.
 
+![IMG_20240806_162245_916](_res/IMG_20240806_162245_916.jpg)

@@ -1,7 +1,5 @@
 ---
 share: true
-created: 2023-12-31T12:03
-updated: 2024-07-27T18:33
 ---
 # Mục tiêu phỏng vấn
 Hiểu được:

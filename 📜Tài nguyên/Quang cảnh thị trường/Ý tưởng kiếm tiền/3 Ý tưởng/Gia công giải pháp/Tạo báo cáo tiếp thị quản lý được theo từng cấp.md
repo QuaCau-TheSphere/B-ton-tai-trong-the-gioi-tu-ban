@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-30T13:57
+updated: 2024-08-01T16:06
 ---
-Yêu cầu đầu vào:: [[Có người lập trình]]
+Yêu cầu đầu vào:: [[Biết lập trình]]
 Hình thức:: [[📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/2 Hình thức/Gia công giải pháp]]
 
 Biết được vì sao [[Web dev, GA, Ads, SEO, MMO]], [[📐 Dự án/Ξ Kết quả truyền thông/Nơi đăng/Nhóm Facebook/Nghề nghiệp/Marketing|Marketing]] không ai quan tâm không?

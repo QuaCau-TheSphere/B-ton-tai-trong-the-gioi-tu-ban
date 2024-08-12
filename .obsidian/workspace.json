@@ -1,40 +1,57 @@
 {
   "main": {
-    "id": "a508927f6499be4f",
+    "id": "8bf0e571c91c50a9",
     "type": "split",
     "children": [
       {
-        "id": "5519a36a06d163f6",
+        "id": "65b65ed11396be90",
         "type": "tabs",
         "children": [
           {
-            "id": "3b8ab72fe65058e9",
+            "id": "01eb26d2f37e9456",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "976ae0d2253b8132",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
-                "mode": "preview",
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/90% người bán hàng ở Momo là cộng tác viên, ko phải nhân viên.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "01bd3f28a3740f7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e72f796b71189a27",
+    "id": "2d8f307e38e31876",
     "type": "split",
     "children": [
       {
-        "id": "fc31a3218f8ce711",
+        "id": "48b0ccac391536af",
         "type": "tabs",
         "children": [
           {
-            "id": "046ffe9b83aeea28",
+            "id": "776a43425fc4ec1e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +61,12 @@
             }
           },
           {
-            "id": "aefc807f2fe8084f",
+            "id": "0ef979fa3da220f9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "row",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +76,7 @@
             }
           },
           {
-            "id": "4444ef266105f1ae",
+            "id": "a13cf94dec68cc87",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,23 +87,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.0086555480957
+    "width": 300
   },
   "right": {
-    "id": "0f3696c70a5f5648",
+    "id": "058d2be84526927e",
     "type": "split",
     "children": [
       {
-        "id": "e6d8e5d42d84951b",
+        "id": "728331c0ed2f1d97",
         "type": "tabs",
         "children": [
           {
-            "id": "83b65cb44fff1d17",
+            "id": "dcec014384cb2a9e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/90% người bán hàng ở Momo là cộng tác viên, ko phải nhân viên.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +115,19 @@
             }
           },
           {
-            "id": "6bdfae42ea48041c",
+            "id": "b0d685f03805e1d1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/90% người bán hàng ở Momo là cộng tác viên, ko phải nhân viên.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "783910c6f304d82a",
+            "id": "30b982237b07c592",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,12 +138,12 @@
             }
           },
           {
-            "id": "9e951330282e08f7",
+            "id": "3654ebe218592e69",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md"
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/90% người bán hàng ở Momo là cộng tác viên, ko phải nhân viên.md"
               }
             }
           }
@@ -139,62 +156,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "3b8ab72fe65058e9",
+  "active": "976ae0d2253b8132",
   "lastOpenFiles": [
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán phần mềm/Bán bộ sưu tập từ điển chuyên ngành.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Buôn bán nhỏ.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/Ý tưởng kiếm tiền.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/Tạo sinh kế, thu nhập, dòng tiền.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Xem tử vi tự động.md",
-    "📐 Dự án/Trấn Kỳ/Chương trình quản lý chi tiêu cá nhân/Đặc tả yêu cầu cho webapp.md",
-    "📐 Dự án/Trấn Kỳ/Cũ/4 Thành phẩm/Đội ngũ/Nhật.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Kendy/Kendy cần gì.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo kiến thức, kỹ năng/Có kiến thức về hệ thống.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo kiến thức, kỹ năng/Có tên tuổi, uy tín, chứng nhận.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Làm ngoài đường.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Huấn luyện lập trình 1-1.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/2 Hình thức/Gia công giải pháp.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Gia công giải pháp.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Viết plugin tích hợp vào các chương trình kế toán.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình/Chương trình kế toán.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán SaaS/Viết app quản lý chi tiêu cá nhân.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Tạo báo cáo tiếp thị quản lý được theo từng cấp.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán số lượng lớn tự động trên các nền tảng.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Tài khoản ngân hàng ảo dùng được vài tiếng là vì kyc bằng AI.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình/App quản lý chi tiêu/Chương trình quản lý chi tiêu cá nhân từ Trấn Kỳ.md",
-    "📐 Dự án/Trấn Kỳ/Trấn Kỳ.md",
-    "📐 Dự án/Trấn Kỳ/Chương trình quản lý chi tiêu cá nhân/Chương trình quản lý chi tiêu cá nhân.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo kiến thức, kỹ năng",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/New folder",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo thời gian",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán SaaS",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán phần mềm",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư",
-    "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240627210342.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240627210332.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240620101103.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240619195617.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240619191052.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240221020431.png",
-    "Ξ Thiết lập/Ảnh/Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc.jpg",
-    "Ξ Thiết lập/Ảnh/growth.png",
-    "Ξ Thiết lập/Ảnh/a1.jpg",
-    "Ξ Thiết lập/Ảnh/a.jpg"
+    "⚡Hiểu biết sâu/Kiếm tiền/Fintech/Tỉ lệ sử dụng tiền mặt ở VN khoảng 12%.md",
+    "📜Tài nguyên/Quang cảnh thị trường/Các dịch vụ cho vay/TNEX.md",
+    "Tồn tại trong thế giới tư bản.md",
+    "📜Tài nguyên/Untitled.md",
+    "📜Tài nguyên/Untitled 1.md",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Bản thể luận/Vật thể/Sử dụng nhiều ẩn dụ khác nhau sẽ cho ta thấy vật thể tốt hơn.md",
+    "📜Tài nguyên/Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó.md",
+    "📐 Dự án/C Obsidian, quản lý dự án và công cụ nghĩ/9 Blog/Mọi người hay thảo luận ở đâu？.md",
+    "⚡Hiểu biết sâu/Công nghệ thông tin/Hiểu biết liên ngành trong CNTT/AI. Dữ liệu lớn/Tiềm năng để kiếm tiền từ AI đến từ mảng học có giám sát nhiều hơn ở mảng tạo sinh.md",
+    "📐 Dự án/Công cụ cho hệ sinh thái/Truyền thông/Email/Nguyễn Cảnh Bình.md",
+    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu/Những vị trí tiêu đề xuất hiện.md",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Khoa học nhận thức/Ẩn dụ/Ẩn dụ tô đậm những tính chất chung và ẩn đi những tính chất không chung.md",
+    "⚡Hiểu biết sâu/Công nghệ thông tin/Hiểu biết liên ngành trong CNTT/Khoa học nhận thức/Việc web dùng ẩn dụ trang giấy giới hạn cách nghĩ của ta về web.md",
+    "⚡Hiểu biết sâu/Công nghệ thông tin/Hiểu biết liên ngành trong CNTT/AI. Dữ liệu lớn/AI giống như công nghệ tua bin. Gắn nó với xe hơi thì không sử dụng được. Nhưng nếu có thể có thêm những công nghệ mới thì có thể thành máy bay.md",
+    "⚡Hiểu biết sâu/Công nghệ thông tin/Khoa học dữ liệu/Phân tích xu hướng, NLP/Nhân văn số sử dụng mô hình chủ đề rất nhiều.md",
+    "⚡Hiểu biết sâu/Công nghệ thông tin/Hiểu biết liên ngành trong CNTT/AI. Dữ liệu lớn/Sự không phân biệt giữa AI học có giám sát và AI tạo sinh mà chỉ gộp chung vào AI làm nhiều người nhầm lẫn giữa điểm mạnh và điểm yếu của AI.md",
+    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu/Đánh số thư mục.md",
+    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu/Đánh số phiên bản.md",
+    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu/Cách sắp xếp thư mục cho các tập tin bổ trợ.md",
+    "🌟 Mở đầu.md",
+    "📐 Dự án/C Obsidian, quản lý dự án và công cụ nghĩ/9 Blog/Nơi này là nơi nào？.md",
+    "📐 Dự án/Công cụ cho hệ sinh thái/Truyền thông/Email/Lê Nguyễn Tường Vân.md",
+    "⚡Hiểu biết sâu/Nhân học/❓Nhân văn chỉ quan tâm đến việc lưu trữ, hiểu dữ liệu và tạo ra câu chuyện hay.md",
+    "📐 Dự án/Công cụ cho hệ sinh thái/Truyền thông/Email/Hanoi Grapevine.md",
+    "⚡Hiểu biết sâu/Công nghệ thông tin/Khoa học dữ liệu/Phân tích xu hướng, NLP/Ngoài việc sử dụng mô hình chủ đề và tạo cơ sở dữ liệu, các dự án nhân văn số dường như không sử dụng các lĩnh vực khác của công nghệ thông tin.md",
+    "📐 Dự án/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc/9 Blog/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc.md",
+    "📐 Dự án/Công cụ cho hệ sinh thái/Truyền thông/Email",
+    "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Học tập, hiểu biết/~syncthing~Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó.md.tmp",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Khoa học nhận thức/Trí nhớ",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Khoa học nhận thức/New folder",
+    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu",
+    "📜Tài nguyên/Giải pháp kỹ thuật/New folder",
+    "⚡Hiểu biết sâu/Ξ Nguồn/Tài liệu/Khai thác một từ khoá.pdf",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Học tập, hiểu biết/~syncthing~Lúc mới học thì cần chất lượng hơn là nhanh.md.tmp",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/~syncthing~Tiếng Anh càng làm mình muốn đọc lướt hơn.md.tmp",
+    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/~syncthing~321f1ccf0cbaf1d9a558cd4b5bfee9069a13d6760b6b9259788a8aa8f69590b2.tmp",
+    "Untitled.canvas",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm.png",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm (neato).png",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm (dot).png",
+    "Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Nam.jpg",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Thuý Hoà.jpg",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Nam.jpg",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Keep to Fibery.png",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Mai Quang.jpg",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/plugin/chalkboard/img/whiteboard.png",
+    "Slides/Đáp ứng nhu cầu doanh nghiệp/plugin/chalkboard/img/sponge.png"
   ]
 }

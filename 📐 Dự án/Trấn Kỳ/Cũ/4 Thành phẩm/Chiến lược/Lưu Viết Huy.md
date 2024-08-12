@@ -1,6 +1,6 @@
 ---
 created: 2023-09-05T16:17
-updated: 2024-07-28T16:43
+updated: 2024-08-01T20:26
 ---
 
 Mình là Huy, hiện tại có 1 anh Tùng PM hiện tại đang làm dự án về quản lý chi tiêu
@@ -11,7 +11,7 @@ Sản phẩm sẽ xoay quanh việc ghi chép chi tiêu và điểm nổi bật 
 - Xử lý các case user ko nhớ đã chi tiêu gì
 - Hệ thống hoá dữ liệu khi ghi chép theo các quỹ/hũ tương ứng > cá nhân hoá quản lý cho phép user sửa đổi 
 - (Điểm chưa có trên thị trường) đưa ra kết luận và đánh giá sau khi user ghi chép
-- Đưa cho user những next step để quản lý trong tương lai. Set mục tiêu: mua nhà, tìm hiểu về đầu tư,... 
+- Đưa cho user những next step để quản lý trong tương lai. Set mục tiêu: mua nhà, tìm hiểu về đầu tư,… 
 
 CVP bên mình là: 
 - giúp user có thể dễ dàng ghi chép thu chi
@@ -37,7 +37,7 @@ Gặp nhau trong khoá học UX và lập team. Mục tiêu của cả hai là c
 - Muốn có người thực sự hiểu code. Thuê ngoài thì ko ổn định về code. 
 - Tự bỏ tiền nên cũng không có quá nhiều tiền
 
-# Mức độ kiểm soát vấn đề (về công sức bỏ ra, thời gian,...) và ảnh hưởng sau khi giải quyết
+# Mức độ kiểm soát vấn đề (về công sức bỏ ra, thời gian,…) và ảnh hưởng sau khi giải quyết
 Đã nghĩ về việc này trong vòng nửa năm, mấy đứa BE bạn đai học thì nó bảo khả thi nhưng lâu rồi cũng chưa hỏi lại
 
 # Bạn đang ở giai đoạn nào trong phát triển sản phẩm 

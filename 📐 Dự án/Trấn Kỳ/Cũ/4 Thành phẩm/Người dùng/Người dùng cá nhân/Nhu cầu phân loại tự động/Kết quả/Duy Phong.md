@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-28T16:43
+updated: 2024-08-01T20:42
 ---
 # Hành vi phân loại
 ## Trong tháng vừa qua bạn đã phân loại dữ liệu bao nhiêu lần?
@@ -51,19 +51,19 @@ tam đoạn luận. Nếu muốn kiếm trên metadata thì ở dươis
 
 Wikipedia thì chỉ chọn lọc những cái significance, còn mình làm tiểu tự sự 
 
-evereen note: mở 2 khung, với whiteboard, rồi  như code có frontend
+evereen note: mở 2 khung, với whiteboard, rồi như code có frontend
 ## Có thể cho mình tiếp cận dữ liệu của bạn được không?
 
 # Việc phải phân loại dữ liệu thủ công đã ảnh hưởng đến những việc ở cấp độ cao hơn như lập kế hoạch, sáng tạo nội dung như thế nào?
 ## Mỗi lần phân loại tốn bao nhiêu thời gian?
-Sau khi trừ thời gian đi học  và những thứ khác thì còn lại đều làm. Có thể nói là mỗi ngày, mỗi lần tiếng hoặc 1/3 ngày
+Sau khi trừ thời gian đi học và những thứ khác thì còn lại đều làm. Có thể nói là mỗi ngày, mỗi lần tiếng hoặc 1/3 ngày
 Scan thành bản pdf cũng ko dưới 1 tiếng đồng hồ.
 
 ## Việc phân loại giúp ích được những gì cho bạn?
 Phát triển wiki, pkm về phim, có thể vẽ bản đồ của kiến thức, từ đó đi dạy cho mọi người được về điện ảnh.
 slash một cái thì thấy được tên luôn thì dễ
 
-##  Thứ bạn có được sau khi phân loại xong giúp ích được những gì cho bạn?
+## Thứ bạn có được sau khi phân loại xong giúp ích được những gì cho bạn?
 pkm thay cho search, kết nối map tốt hơn
 trong quá trình làm nghiên cứu, google giúp tìm nguồn khá tốt, nhưng ko rõ bạn đã làm thế như thế nào, flow như thế nào, hướng đi của bạn như thế nào. 
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-30T13:11
+updated: 2024-08-07T15:45
 ---
 Như trưa nay cho ý kiến đóng góp TVC quảng cáo về thương hiệu Panasonic 
 Ngồi trả lời phỏng vấn tầm 1 tiếng là nhận ngay 300k á

@@ -15,32 +15,24 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/1 Nhu cầu người dùng",
-      "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/1 Nhu cầu người dùng.md"
-    },
-    {
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/2 Yêu cầu đầu vào",
-      "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/2 Yêu cầu đầu vào.md"
-    },
-    {
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng",
-      "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/3 Tính năng.md"
-    },
-    {
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình",
-      "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/4 Loại chương trình.md"
-    },
-    {
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình",
-      "template": "Ξ Thiết lập/Templates/Quang cảnh thị trường/5 Tên chương trình.md"
-    },
-    {
       "folder": "/",
       "template": "Ξ Thiết lập/Templates/Ý tưởng.md"
     },
     {
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/3 Ý tưởng",
-      "template": "Ξ Thiết lập/Templates/Ý tưởng kiếm tiền/3 Ý tưởng kiếm tiền.md"
+      "folder": "📜Tài nguyên/Nhu cầu công việc",
+      "template": "Ξ Thiết lập/Templates/Nhu cầu công việc.md"
+    },
+    {
+      "folder": "📜Tài nguyên/Nhu cầu công nghệ",
+      "template": "Ξ Thiết lập/Templates/Nhu cầu công nghệ.md"
+    },
+    {
+      "folder": "⚡Hiểu biết sâu/Ξ Khái niệm",
+      "template": "Ξ Thiết lập/Templates/Khái niệm.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,

@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-30T13:11
+updated: 2024-08-01T16:06
 ---
+Yêu cầu đầu vào:: [[Biết lập trình]]
 ## Mô tả chung
 Nhu cầu: người khuyết tật khi có nhu cầu di chuyển chi phí tốn kém
 Giải pháp: viết app kết nối họ và người sẵn sàng hỗ trợ, tương tự như Grab

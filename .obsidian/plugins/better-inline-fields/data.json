@@ -1,28 +1,56 @@
 {
   "autocomplete": [
     {
-      "field": "Tính năng",
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng"
+      "field": "Thành phẩm",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/3 Thành phẩm"
     },
     {
-      "field": "Đồng thời có thêm tính năng",
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/3 Tính năng"
+      "field": "Nhu cầu",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/1 Nhu cầu"
     },
     {
-      "field": "Loại chương trình",
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/4 Loại chương trình"
+      "field": "Thành quả cần có",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/2 Thành quả mong muốn"
     },
     {
-      "field": "Tên chương trình",
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Chương trình quản lý tiền/5 Tên chương trình"
+      "field": "Thành quả hỗ trợ",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/2 Thành quả mong muốn"
     },
     {
-      "field": "Yêu cầu đầu vào",
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào"
+      "field": "Giả thuyết",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/6 Giả thuyết"
     },
     {
-      "field": "Hình thức",
-      "folder": "📜Tài nguyên/Quang cảnh thị trường/Ý tưởng kiếm tiền/2 Hình thức"
+      "field": "Đối tượng thụ hưởng",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/5 Các bên liên quan/Loại đối tượng"
+    },
+    {
+      "field": "Người chơi",
+      "folder": "📐 Dự án hỗ trợ người mới học Obsidian/5 Các bên liên quan/Cá nhân cụ thể"
+    },
+    {
+      "field": "Nguồn",
+      "folder": "⚡Hiểu biết sâu/Ξ Nguồn"
+    },
+    {
+      "field": "Khái niệm",
+      "folder": "⚡Hiểu biết sâu/Ξ Khái niệm"
+    },
+    {
+      "field": "Lý do",
+      "folder": "⚡Hiểu biết sâu"
+    },
+    {
+      "field": "Giải pháp kỹ thuật",
+      "folder": "📜Tài nguyên/Giải pháp kỹ thuật"
+    },
+    {
+      "field": "Nhu cầu công nghệ",
+      "folder": "📜Tài nguyên/Nhu cầu công nghệ"
+    },
+    {
+      "field": "Lĩnh vực",
+      "folder": "📜Tài nguyên/Lĩnh vực"
     }
   ],
   "regexpTrigger": "/",

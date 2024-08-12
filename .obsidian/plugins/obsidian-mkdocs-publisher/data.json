@@ -37,7 +37,7 @@
           "commitMessage": "[skip netlify] PUBLISHER"
         },
         "verifiedRepo": false,
-        "rateLimit": 5000
+        "rateLimit": 4998
       }
     ],
     "verifiedRepo": true,
@@ -45,7 +45,7 @@
   },
   "upload": {
     "behavior": "obsidian",
-    "defaultName": "content",
+    "defaultName": "docs",
     "rootFolder": "docs",
     "yamlFolderKey": "category",
     "frontmatterTitle": {
@@ -58,11 +58,10 @@
       "includeAttachments": true,
       "enable": true,
       "excluded": [
-        "docs/assets/js",
-        "docs/assets/meta",
-        "docs/assets/css",
-        "tags.md",
-        "graph.md"
+        "docs/assets/favicon.svg",
+        "docs/assets/favicon.ico",
+        "docs/_data.yaml",
+        "docs/_includes/og_image.jsx"
       ]
     },
     "folderNote": {
@@ -81,8 +80,8 @@
     "dataview": true,
     "censorText": [
       {
-        "entry": "/\\!\\[\\]\\(https:\\/\\/.*(youtube\\.com|youtu\\.be)\\/(.*).*\\)/",
-        "replace": "<iframe id=\"ytplayer\" type=\"text/html\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/$2\" frameborder=\"0\"></iframe>",
+        "entry": "/\\!\\[.*\\]\\(https:\\/\\/.*(youtube\\.com|youtu\\.be)\\/(.*).*\\)/",
+        "replace": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/$2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
         "after": true,
         "inCodeBlocks": true
       }
@@ -96,7 +95,7 @@
       "internal": true,
       "unshared": false,
       "wiki": true,
-      "slugify": true
+      "slugify": "disable"
     }
   },
   "embed": {
@@ -132,7 +131,12 @@
       "transform": {
         "toUri": false,
         "slugify": "disable",
-        "applyRegex": []
+        "applyRegex": [
+          {
+            "regex": "%",
+            "replacement": "％"
+          }
+        ]
       }
     },
     "noticeError": false,
@@ -142,5 +146,5 @@
     "dev": true
   },
   "tabsID": "github-configuration",
-  "tabsId": "github-configuration"
+  "tabsId": "plugin-settings"
 }
