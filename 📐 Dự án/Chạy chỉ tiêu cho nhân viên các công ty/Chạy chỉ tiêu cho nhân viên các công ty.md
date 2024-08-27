@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-06-28T23:05
-updated: 2024-08-06T17:22
+updated: 2024-08-22T19:24
 alias:
   - Quản lý nhóm nhân viên ảo
 ---
@@ -20,11 +20,11 @@ Khó khăn:
 - Tìm được các chủ cửa hàng chấp nhận trả tiền cho mình
 - Tìm được nhiều tài khoản ngân hàng khác chủ
 
-**Liên hệ:** 0777850094 – Nguyễn Hữu Lộc
+Liên hệ:: [[Nguyễn Hữu Lộc|Nguyễn Hữu Lộc – 0783865410]]
 
 ```dataview
 LIST rows.file.link
-FROM "📜Tài nguyên/Công việc thời vụ kiếm tiền nhanh/Chạy chỉ tiêu cho nhân viên các công ty" 
+FROM "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty" 
 WHERE file.name!=this.file.name
 GROUP BY split(file.folder, "/")[3]
 ```

@@ -37,7 +37,7 @@
           "commitMessage": "[skip netlify] PUBLISHER"
         },
         "verifiedRepo": false,
-        "rateLimit": 4998
+        "rateLimit": 4999
       }
     ],
     "verifiedRepo": true,
@@ -134,7 +134,7 @@
         "applyRegex": [
           {
             "regex": "%",
-            "replacement": "％"
+            "replacement": ""
           }
         ]
       }

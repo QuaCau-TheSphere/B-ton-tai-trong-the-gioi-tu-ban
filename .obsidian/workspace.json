@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01eb26d2f37e9456",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "976ae0d2253b8132",
+            "id": "3ca063ca2c1183f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/90% người bán hàng ở Momo là cộng tác viên, ko phải nhân viên.md",
+                "file": "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -29,11 +21,29 @@
             }
           },
           {
-            "id": "01bd3f28a3740f7c",
+            "id": "802ab8416bb901b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8b0de3ea348561a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo/Cathay.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -87,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "058d2be84526927e",
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/90% người bán hàng ở Momo là cộng tác viên, ko phải nhân viên.md",
+                "file": "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/90% người bán hàng ở Momo là cộng tác viên, ko phải nhân viên.md",
+                "file": "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡Hiểu biết sâu/Kiếm tiền/Fintech/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/90% người bán hàng ở Momo là cộng tác viên, ko phải nhân viên.md"
+                "file": "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md"
               }
             }
           }
@@ -158,63 +169,64 @@
     "hiddenItems": {
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "open-vscode:VSCode": false
     }
   },
-  "active": "976ae0d2253b8132",
+  "active": "802ab8416bb901b4",
   "lastOpenFiles": [
-    "⚡Hiểu biết sâu/Kiếm tiền/Fintech/Tỉ lệ sử dụng tiền mặt ở VN khoảng 12%.md",
-    "📜Tài nguyên/Quang cảnh thị trường/Các dịch vụ cho vay/TNEX.md",
-    "Tồn tại trong thế giới tư bản.md",
-    "📜Tài nguyên/Untitled.md",
-    "📜Tài nguyên/Untitled 1.md",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Bản thể luận/Vật thể/Sử dụng nhiều ẩn dụ khác nhau sẽ cho ta thấy vật thể tốt hơn.md",
-    "📜Tài nguyên/Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó.md",
-    "📐 Dự án/C Obsidian, quản lý dự án và công cụ nghĩ/9 Blog/Mọi người hay thảo luận ở đâu？.md",
-    "⚡Hiểu biết sâu/Công nghệ thông tin/Hiểu biết liên ngành trong CNTT/AI. Dữ liệu lớn/Tiềm năng để kiếm tiền từ AI đến từ mảng học có giám sát nhiều hơn ở mảng tạo sinh.md",
-    "📐 Dự án/Công cụ cho hệ sinh thái/Truyền thông/Email/Nguyễn Cảnh Bình.md",
-    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu/Những vị trí tiêu đề xuất hiện.md",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Khoa học nhận thức/Ẩn dụ/Ẩn dụ tô đậm những tính chất chung và ẩn đi những tính chất không chung.md",
-    "⚡Hiểu biết sâu/Công nghệ thông tin/Hiểu biết liên ngành trong CNTT/Khoa học nhận thức/Việc web dùng ẩn dụ trang giấy giới hạn cách nghĩ của ta về web.md",
-    "⚡Hiểu biết sâu/Công nghệ thông tin/Hiểu biết liên ngành trong CNTT/AI. Dữ liệu lớn/AI giống như công nghệ tua bin. Gắn nó với xe hơi thì không sử dụng được. Nhưng nếu có thể có thêm những công nghệ mới thì có thể thành máy bay.md",
-    "⚡Hiểu biết sâu/Công nghệ thông tin/Khoa học dữ liệu/Phân tích xu hướng, NLP/Nhân văn số sử dụng mô hình chủ đề rất nhiều.md",
-    "⚡Hiểu biết sâu/Công nghệ thông tin/Hiểu biết liên ngành trong CNTT/AI. Dữ liệu lớn/Sự không phân biệt giữa AI học có giám sát và AI tạo sinh mà chỉ gộp chung vào AI làm nhiều người nhầm lẫn giữa điểm mạnh và điểm yếu của AI.md",
-    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu/Đánh số thư mục.md",
-    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu/Đánh số phiên bản.md",
-    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu/Cách sắp xếp thư mục cho các tập tin bổ trợ.md",
-    "🌟 Mở đầu.md",
-    "📐 Dự án/C Obsidian, quản lý dự án và công cụ nghĩ/9 Blog/Nơi này là nơi nào？.md",
-    "📐 Dự án/Công cụ cho hệ sinh thái/Truyền thông/Email/Lê Nguyễn Tường Vân.md",
-    "⚡Hiểu biết sâu/Nhân học/❓Nhân văn chỉ quan tâm đến việc lưu trữ, hiểu dữ liệu và tạo ra câu chuyện hay.md",
-    "📐 Dự án/Công cụ cho hệ sinh thái/Truyền thông/Email/Hanoi Grapevine.md",
-    "⚡Hiểu biết sâu/Công nghệ thông tin/Khoa học dữ liệu/Phân tích xu hướng, NLP/Ngoài việc sử dụng mô hình chủ đề và tạo cơ sở dữ liệu, các dự án nhân văn số dường như không sử dụng các lĩnh vực khác của công nghệ thông tin.md",
-    "📐 Dự án/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc/9 Blog/Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc.md",
-    "📐 Dự án/Công cụ cho hệ sinh thái/Truyền thông/Email",
+    "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu.md",
+    "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
+    "📜Tài nguyên/Các dịch vụ cho vay/Cho vay nóng không cần điểm tín dụng/Cho vay nóng không cần điểm tín dụng.md",
+    "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/App đen thực chất là mấy thằng trung quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
+    "📜Tài nguyên/Các dịch vụ cho vay/Cho vay nóng không cần điểm tín dụng/Cayvang.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Học làm đại lý bán bảo hiểm.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo/Cathay.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo/Làm nhân viên ảo.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Đối với công ty, nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/2 Hình thức/Vị trí chính thức của một công ty.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo/VNPAY.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo/Học làm đại lý bán bảo hiểm.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo/VNPAY.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo/Cathy Life.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo/Làm nhân viên ảo.md",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Ghi chú về các app ngân hàng.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/VNPAY.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/New folder",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo.md",
+    "📜Tài nguyên/Quà tặng/Các nhóm tặng đồ.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Tạo SaaS/Viết app quản lý chi tiêu cá nhân.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Tạo SaaS/Làm web phim lậu.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán phần mềm/Bán bộ thẻ học GRE cho Anki.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán phần mềm/Bán bộ sưu tập từ điển chuyên ngành.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Viết hợp đồng, thu thập thông tin.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Tạo SaaS",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán phần mềm",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện",
+    "Ξ Thiết lập/Ảnh/Hợp đồng bảo hiểm được tặng.png",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/_res/IMG_20240806_162245_916.jpg",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240627210342.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240627210332.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240620101103.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240619195617.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240619191052.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240221020431.png",
+    "Ξ Thiết lập/Ảnh/Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc.jpg",
+    "Ξ Thiết lập/Ảnh/growth.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Học tập, hiểu biết/~syncthing~Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó.md.tmp",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Khoa học nhận thức/Trí nhớ",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Khoa học nhận thức/New folder",
-    "📜Tài nguyên/Giải pháp kỹ thuật/Tổ chức, sắp xếp dữ liệu",
-    "📜Tài nguyên/Giải pháp kỹ thuật/New folder",
-    "⚡Hiểu biết sâu/Ξ Nguồn/Tài liệu/Khai thác một từ khoá.pdf",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Học tập, hiểu biết/~syncthing~Lúc mới học thì cần chất lượng hơn là nhanh.md.tmp",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/~syncthing~Tiếng Anh càng làm mình muốn đọc lướt hơn.md.tmp",
-    "⚡Hiểu biết sâu/Nghĩ về việc nghĩ/Môi trường nghĩ, nhận thức tăng cường/Đọc và viết/Ghi chú thông tin/~syncthing~321f1ccf0cbaf1d9a558cd4b5bfee9069a13d6760b6b9259788a8aa8f69590b2.tmp",
-    "Untitled.canvas",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm.png",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm (neato).png",
-    "⚡Hiểu biết sâu/Ξ Khái niệm/Quản lý tổ chức/93 Thống nhất nội hàm, khái niệm/93.01 Đồ thị nội hàm các khái niệm (dot).png",
-    "Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Nam.jpg",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Thuý Hoà.jpg",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Trần Nam.jpg",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Keep to Fibery.png",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/Ξ Thiết lập/Ảnh/Trấn Kỳ/Mai Quang.jpg",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/plugin/chalkboard/img/whiteboard.png",
-    "Slides/Đáp ứng nhu cầu doanh nghiệp/plugin/chalkboard/img/sponge.png"
+    "Untitled.canvas"
   ]
 }

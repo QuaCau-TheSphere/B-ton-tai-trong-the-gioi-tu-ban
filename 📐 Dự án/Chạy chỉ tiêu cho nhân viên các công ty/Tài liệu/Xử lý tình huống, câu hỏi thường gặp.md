@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-29T16:41
+updated: 2024-08-27T14:39
 ---
 # Tôi thấy việc làm nhân viên ảo là việc không nên
 Còn bên pru ng chịu thiệt là ko có ai ở đây. Nếu có là ng hưởng lợi cao nhất là tổng giám đốc hoặc các nhà đầu tư chẳng hạn. Một ng ko mấy bị ảnh hưởng bởi số tiền nhỏ
@@ -17,7 +17,7 @@ Ng dạy em họ thừa biết là em fake
 Tổng thể cty ng ta ngầm đồng ý như v
 Còn cái này em ko thấy có sự đồng ý của anh lead
 Quan trọng hơn là ảnh trực tiếp làm việc với em nữa chứ
-[[Nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]
+[[Đối với công ty, nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]
 # Tôi là người cho mượn tài khoản ngân hàng để các bạn quẹt. Chuyện gì sẽ xảy ra nếu các bạn bị phát hiện?
 Vì là trung gian thanh toán, nên các ví điện tử đứng ra bảo lãnh cho người quẹt. Chuyển khoản thì còn không biết đang làm gì, chứ dùng trung gian thanh toán thì xác định là mua hàng. Ngân hàng sẽ thấy là sạch, và điểm tín dụng sẽ cao hơn. Hoặc chẳng qua nó nhắm mắt làm ngơ, vì bọn mình chưa đủ lớn để truy tố hay thả lưới. Nếu bọn mình làm lớn thì chắc đã không phải nhờ tới các bạn rồi.
 

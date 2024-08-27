@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-27T18:33
+updated: 2024-08-27T14:39
 ---
 ## Cộng tác viên cho công ty
 | Loại hình                                    | Hình thức trả tiền                             | Bảo hiểm xã hội | Ưu đãi khác | Phải đảm bảo doanh số mỗi tháng |
@@ -23,4 +23,4 @@ Gọi là đại lý bảo hiểm, công việc là quảng bá bảo hiểm, kh
 | Mô hình tổ chức     | Phân cấp                     | Phẳng                    |
 | Loại công việc      | Tất cả những gì công ty giao | Chỉ cần làm một đầu việc |
 
-Xem thêm:: [[Nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]
+Xem thêm:: [[Đối với công ty, nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ]]

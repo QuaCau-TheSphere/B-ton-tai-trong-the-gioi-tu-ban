@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-29T16:41
+updated: 2024-08-14T21:26
 ---
-# Thêm số thứ tự vào các hình hàng loạt
+## Thêm số thứ tự vào các hình hàng loạt
 Hữu ích cho việc phân biệt mã nào mình đã làm rồi, mã nào chưa
 ```PowerShell
 $i=1; Get-ChildItem -file | ForEach-Object {
