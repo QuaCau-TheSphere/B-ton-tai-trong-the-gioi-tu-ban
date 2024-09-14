@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65b65ed11396be90",
+        "id": "cfdd1cf1c9f85011",
         "type": "tabs",
         "children": [
           {
-            "id": "3ca063ca2c1183f9",
+            "id": "229bafbcebfb8122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu.md",
+                "file": "⚡Hiểu biết sâu/Mô hình nhân sự/Các công ty tài chính đa phần đều thiên về lương khoán.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,33 +21,19 @@
             }
           },
           {
-            "id": "802ab8416bb901b4",
+            "id": "9fcedbb77ef06d2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8b0de3ea348561a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo/Cathay.md",
+                "file": "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Chạy chỉ tiêu tuyển dụng cho quản lý.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "058d2be84526927e",
@@ -114,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
+                "file": "⚡Hiểu biết sâu/Mô hình nhân sự/Các công ty tài chính đa phần đều thiên về lương khoán.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
+                "file": "⚡Hiểu biết sâu/Mô hình nhân sự/Các công ty tài chính đa phần đều thiên về lương khoán.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md"
+                "file": "⚡Hiểu biết sâu/Mô hình nhân sự/Các công ty tài chính đa phần đều thiên về lương khoán.md"
               }
             }
           }
@@ -175,48 +160,51 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "802ab8416bb901b4",
+  "active": "229bafbcebfb8122",
   "lastOpenFiles": [
-    "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu.md",
-    "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màng cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
-    "📜Tài nguyên/Các dịch vụ cho vay/Cho vay nóng không cần điểm tín dụng/Cho vay nóng không cần điểm tín dụng.md",
-    "⚡Hiểu biết sâu/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/App đen thực chất là mấy thằng trung quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
-    "📜Tài nguyên/Các dịch vụ cho vay/Cho vay nóng không cần điểm tín dụng/Cayvang.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Học làm đại lý bán bảo hiểm.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo/Cathay.md",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Chạy chỉ tiêu tuyển dụng cho quản lý.md",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Chạy chỉ tiêu tuyển dụng cho quản lý.sync-conflict-20240914-230302-LDHXXXZ.md",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/~syncthing~Chạy chỉ tiêu tuyển dụng cho quản lý.sync-conflict-20240914-230302-LDHXXXZ.md.tmp",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Học đại lý bán bảo hiểm/Cathay.md",
+    "📐 Dự án/Người chơi/Hồng Thị Tuyết Nhi.md",
+    "📐 Dự án/Người chơi/Đỗ Hàng Minh Trí.md",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Untitled.md",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/~syncthing~Untitled.md.tmp",
+    "⚡Hiểu biết sâu/Ngành tài chính/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/Vay nóng nếu không trả sẽ bị bêu xấu với mọi người.md",
     "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo/Làm nhân viên ảo.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Đối với công ty, nhân viên có cộng tác viên riêng, nhân viên ảo, người đại diện nhóm, bán việc là những cái tên khác nhau cho cùng một thứ.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/2 Hình thức/Vị trí chính thức của một công ty.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Đổi tiền, chụp hình biển hiệu, dán mã QR.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo/VNPAY.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo/Học làm đại lý bán bảo hiểm.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo/VNPAY.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo/Cathy Life.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo/Làm nhân viên ảo.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Tài liệu/Ghi chú về các app ngân hàng.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/VNPAY.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/New folder",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Làm nhân viên ảo.md",
-    "📜Tài nguyên/Quà tặng/Các nhóm tặng đồ.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Tạo SaaS/Viết app quản lý chi tiêu cá nhân.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Tạo SaaS/Làm web phim lậu.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán phần mềm/Bán bộ thẻ học GRE cho Anki.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán phần mềm/Bán bộ sưu tập từ điển chuyên ngành.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty/Viết hợp đồng, thu thập thông tin.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Tạo SaaS",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Bán phần mềm",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên cho nhân viên công ty",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho nhân viên của công ty trung gian thanh toán/Chạy chỉ tiêu cho nhân viên của công ty trung gian thanh toán.md",
+    "⚡Hiểu biết sâu/Ngành tài chính/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
+    "⚡Hiểu biết sâu/Ngành tài chính/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màn cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
+    "📜Tài nguyên/Các dịch vụ cho vay/App vay nóng không cần điểm tín dụng/App vay nóng không cần điểm tín dụng.md",
+    "📜Tài nguyên/Các dịch vụ cho vay/Các dịch vụ cho vay.md",
+    "⚡Hiểu biết sâu/Ngành tài chính/Vay tiền/Dịch vụ cho vay khác/Vay có điểm tín dụng/Bên cho vay sẽ có bảo hiểm cho vay.md",
+    "⚡Hiểu biết sâu/Ngành tài chính/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu.md",
+    "📐 Dự án/Giúp nhau thoát nợ/Xù nợ app đen.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Những bên cho vay lãi quá rẻ thực ra là để mình chịu làm kyc để người khác tạo tài khoản ảo bằng tên của mình.md",
+    "📐 Dự án/Giúp nhau thoát nợ/Xù nợ ngân hàng.md",
+    "📐 Dự án/Tạo cửa hàng/Tạo cửa hàng.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Học đại lý bán bảo hiểm/Học làm đại lý bán bảo hiểm.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thị trường bảo hiểm/Bảo Việt, Prudential tập trung vào bán hợp đồng. Cathay tập trung vào tuyển dụng, đào tạo.md",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Cathay.md",
+    "⚡Hiểu biết sâu/Mô hình nhân sự/Khác biệt giữa nhân viên, đại lý, cộng tác viên.md",
+    "⚡Hiểu biết sâu/Mô hình nhân sự/Các công ty tài chính đa phần đều thiên về lương khoán.md",
+    "⚡Hiểu biết sâu/Mô hình nhân sự/Đại lý là đại diện của công ty và chỉ được làm một công ty. Môi giới là đại diện của bên mua và làm cho nhiều công ty khác nhau.md",
+    "⚡Hiểu biết sâu/Ngành tài chính/Bảo hiểm/Công ty, đại lý, hợp đồng/Hợp đồng mất hiệu lực vẫn khôi phục lại được. Huỷ hợp đồng là mất luôn.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thị trường bảo hiểm",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm",
+    "📜Tài nguyên/Chính sách công ty/New folder",
     "Ξ Thiết lập/Ảnh/Hợp đồng bảo hiểm được tặng.png",
+    "⚡Hiểu biết sâu/Mô hình nhân sự",
+    "⚡Hiểu biết sâu/Ngành tài chính/Bảo hiểm/Tính toán bảo hiểm",
+    "📐 Dự án/Mạng kết nối nhu cầu",
+    "⚡Hiểu biết sâu/Ngành tài chính/Bảo hiểm/Thị trường bảo hiểm",
+    "Ξ Thiết lập/Ảnh/Excalidraw/Nguyên tắc hoạt động.excalidraw.png",
+    "Ξ Thiết lập/Ảnh/growth.png",
     "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/_res/IMG_20240806_162245_916.jpg",
     "Ξ Thiết lập/Ảnh/Pasted image 20240627210342.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20240627210332.png",
@@ -224,8 +212,6 @@
     "Ξ Thiết lập/Ảnh/Pasted image 20240619195617.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20240619191052.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20240221020431.png",
-    "Ξ Thiết lập/Ảnh/Người giàu nghĩ gì về quan điểm tiền không mua được hạnh phúc.jpg",
-    "Ξ Thiết lập/Ảnh/growth.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

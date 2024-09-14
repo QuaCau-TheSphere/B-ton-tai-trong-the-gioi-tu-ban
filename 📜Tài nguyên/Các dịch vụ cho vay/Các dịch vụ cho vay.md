@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-08-27T14:10
+updated: 2024-08-27T16:46
 ---
 ## Vì người yếu thế
 - [[Quỹ Tình Thân]]           
@@ -47,7 +47,7 @@ Ngân hàng CIMB tạo thẻ tín dụng hạn mức 100tr, chỉ cần trả 3t
 [[Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng]]
 
 ## App cho vay nóng
-[[Cho vay nóng không cần điểm tín dụng]]
+[[App vay nóng không cần điểm tín dụng]]
 
 ## Tiệm cầm đồ
 F88 giống tiệm cầm đồ, dùng cà vẹt xe để vay

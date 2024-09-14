@@ -37,7 +37,7 @@
           "commitMessage": "[skip netlify] PUBLISHER"
         },
         "verifiedRepo": false,
-        "rateLimit": 4999
+        "rateLimit": 5000
       }
     ],
     "verifiedRepo": true,
@@ -146,5 +146,5 @@
     "dev": true
   },
   "tabsID": "github-configuration",
-  "tabsId": "plugin-settings"
+  "tabsId": "github-configuration"
 }

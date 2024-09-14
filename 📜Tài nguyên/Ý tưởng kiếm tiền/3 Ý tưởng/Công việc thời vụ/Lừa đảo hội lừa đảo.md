@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T14:10
+updated: 2024-08-27T20:08
 ---
 Yêu cầu đầu vào:: [[Biết cách ẩn danh]]
 Hình thức:: [[Việc làm thời vụ, theo dự án]]
@@ -13,3 +13,6 @@ Những hình thức lừa đảo trên telegram xưa giờ là không mới. G�
 ![Image](https://media.discordapp.net/attachments/1227113112273162290/1227113112495194112/Screenshot_20240409_090524_Telegram.jpg?ex=6673b024&is=66725ea4&hm=e71a1db9d0477b361fddf2396a3a9bdfee7d41fa96ec2141321b3a91d8c5b6c8&=&format=webp&width=455&height=437)
 ![Image](https://media.discordapp.net/attachments/1227113112273162290/1227113112805703680/Screenshot_20240408_165218.jpg?ex=6673b024&is=66725ea4&hm=42718d7b0ae7812ec4cbaf6f06dc1395a6fb41ea238f3cefbf05f8616fafa27a&=&format=webp&width=227&height=216)
 ![Image](https://media.discordapp.net/attachments/1227113112273162290/1227113113132994571/Screenshot_20240408_165333_Telegram.jpg?ex=6673b024&is=66725ea4&hm=1e685ded6b5c8eb0f6040c0792880abae1b62ba242d8d271c3366430e3114673&=&format=webp&width=227&height=216)
+
+[Tuyển dụng online lừa đảo người tìm việc - Kỳ 1: Mất hơn trăm triệu vẫn không có việc - Tuổi Trẻ Online](https://tuoitre.vn/tuyen-dung-online-lua-dao-nguoi-tim-viec-ky-1-mat-hon-tram-trieu-van-khong-co-viec-20230829101044997.htm)
+[Bẫy tuyển dụng online lừa đảo người tìm việc - Kỳ 2: Chiêu trò lừa đảo trên Telegram - Tuổi Trẻ Online](https://tuoitre.vn/bay-tuyen-dung-online-lua-dao-nguoi-tim-viec-ky-2-chieu-tro-lua-dao-tren-telegram-2023083010523942.htm)

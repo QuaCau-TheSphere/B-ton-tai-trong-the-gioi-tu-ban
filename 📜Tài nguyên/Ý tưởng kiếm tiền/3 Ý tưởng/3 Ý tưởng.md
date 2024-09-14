@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2024-08-27T16:07
+updated: 2024-09-14T20:01
 alias:
   - Kiếm tiền nhanh Kiếm dự án thuê ngoài Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện Làm nhân viên ăn lương Đầu tư kinh doanh bán hàng Tạo lợi nhuận
   - Một số ý tưởng kiếm tiền
   - Kiếm tiền từ các hoạt động của Quả Cầu
+  - Tạo sinh kế, thu nhập, dòng tiền
 description: Kiếm tiền từ các hoạt động của Quả Cầu
 ---
 ## Công việc thời vụ

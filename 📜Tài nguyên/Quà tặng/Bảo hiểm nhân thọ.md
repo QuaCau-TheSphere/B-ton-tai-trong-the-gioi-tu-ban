@@ -1,19 +1,22 @@
 ---
 share: true
 created: 2024-08-14T12:10
-updated: 2024-08-27T13:31
+updated: 2024-09-14T20:26
 alias:
   - Tặng bảo hiểm nhân thọ
   - Hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
 description: "Quyền lợi: ung thư, bệnh hiểm nghèo, tai nạn, tử vong và tiết kiệm dài"
 ---
 # Tặng hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
-Liên hệ:: [[Nguyễn Hữu Lộc]]
-Được miễn phí vì nhân viên công ty muốn chạy chỉ tiêu nên sẵn sàng mua cho bạn. 5-7 ngày giao hợp đồng đến nhà  
+Lý do:: [[Chạy chỉ tiêu cho nhân viên của công ty trung gian thanh toán]]
 
-Thông tin hợp đồng:
-![[Hợp đồng bảo hiểm được tặng.png]]
+5-7 ngày giao hợp đồng đến nhà  
 
+<button type="button"><a href="📐 Dự án/Người chơi/Nguyễn Hữu Lộc" target="blank">Liên hệ: Nguyễn Hữu Lộc – 0783865410</a></button>
+
+---
+
+Thông tin hợp đồng: [[Hợp đồng bảo hiểm được tặng.png|Ảnh màn hình tài khoản]], [PDF toàn bộ hợp đồng](https://github.com/QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/blob/main/docs/assets/attachments/fwd.pdf)
 ## Quyền lợi bảo hiểm
 ### Quyền lợi bảo vệ
 - Ung thư giai đoạn sau: 212.000.000 ₫
@@ -47,5 +50,6 @@ Thông tin hợp đồng:
 ## Thông tin công ty
 Kênh bảo hiểm:  
 ![Ứng dụng công nghệ thông minh nâng cao trải nghiệm Khách hàng | FWD Việt Nam - YouTube](https://youtu.be/vRmmNxQ5hFg)
+
 Ngân hàng phân phối:
 ![FWD x Vietcombank - Vững tin sống đầy 2020 - YouTube](https://youtu.be/JtOSw8uegVI)

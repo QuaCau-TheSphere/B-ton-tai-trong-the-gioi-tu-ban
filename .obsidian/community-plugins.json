@@ -1,7 +1,6 @@
 [
   "advanced-toolbar",
   "table-editor-obsidian",
-  "alx-folder-note",
   "obsidian-another-quick-switcher",
   "obsidian-auto-link-title",
   "better-inline-fields",
@@ -10,7 +9,6 @@
   "dataview",
   "obsidian-divide-and-conquer",
   "file-diff",
-  "folder-note-core",
   "obsidian-front-matter-title-plugin",
   "obsidian-mkdocs-publisher",
   "obsidian-heading-shifter",
@@ -33,5 +31,7 @@
   "obsidian-html-tags-autocomplete",
   "darlal-switcher-plus",
   "hot-reload",
-  "open-vscode"
+  "open-vscode",
+  "obsidian-excalidraw-plugin",
+  "folder-notes"
 ]

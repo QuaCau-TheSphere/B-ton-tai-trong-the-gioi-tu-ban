@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-28T17:03
+updated: 2024-09-13T22:30
 ---
 Đề bài:
 > Ngành hàng nào dùng loa sẽ ra được 500 giao dịch/tháng?
