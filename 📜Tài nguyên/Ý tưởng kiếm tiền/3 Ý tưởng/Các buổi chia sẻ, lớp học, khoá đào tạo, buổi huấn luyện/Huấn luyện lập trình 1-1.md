@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-30T13:32
-updated: 2024-09-15T10:01
+updated: 2024-09-15T21:06
 ---
 Yêu cầu đầu vào:: [[Có tên tuổi, uy tín, chứng nhận]]
 Yêu cầu đầu vào:: [[Biết lập trình]]
@@ -22,3 +22,5 @@ Hình thức:: [[Chia sẻ, đào tạo, huấn luyện]]
 - Xác định các chủ đề có trong ngữ liệu
 - Xây dựng hệ thống quản lý, báo cáo nhu cầu các bên
 - Tạo liên kết UTM rút gọn nhanh chóng
+
+Bài chi tiết: [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc – Quả Cầu](https://doi-thoai.deno.dev/cac-buoi-dap-ung-nhu-cau-hoc-cach-su-dung-cong-cu-va-tu-duy-lap-trinh-cho-nhu-cau-ca-nhan-hoac-nghien-cuu.4M.2)

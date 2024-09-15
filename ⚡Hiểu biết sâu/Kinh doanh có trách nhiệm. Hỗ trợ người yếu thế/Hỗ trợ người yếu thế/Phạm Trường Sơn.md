@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-27T18:33
+updated: 2024-09-15T15:43
 ---
 Khái niệm:: 
 
@@ -11,7 +11,7 @@ Khái niệm::
 [[Các câu hỏi về việc thành lập quỹ tín dụng, nền kinh tế phi chính thức, bản chất CSR của doanh nghiệp và tâm lý con người về tiền]]
 
 [[Không có tổ chức nào có đối tượng thụ hưởng là người đang nợ]]
-## Nếu [[Cho vay ngang hàng kết nối trực tiếp người đi vay với người cho vay mà không thông qua các tổ chức trung gian tài chính]], [[Cho mượn theo nhóm đảm bảo không bị quịt hơn]], tại sao các doanh nghiệp, ngân hàng không áp dụng?
+## Nếu [[Cho vay ngang hàng kết nối trực tiếp người đi vay với người cho vay mà không thông qua các tổ chức trung gian tài chính]], [[Cho vay theo nhóm đảm bảo không bị quịt hơn]], tại sao các doanh nghiệp, ngân hàng không áp dụng?
 mô hình vay nhóm chỉ áp dụng cho người nghèo, còn kinh doanh thì có nhiều hình thức khác. Người nghèo hầu như không có theo nhóm được
 ## Các chương trình hỗ trợ người lao động của chính phủ gặp vấn đề gì mà không phát triển được?
 Viện trợ nước ngoài cho VN là nhằm mục đích xoá đói giảm nghèo, hết bệnh. Cho mượn là lồng ghép để thoát nghèo thôi

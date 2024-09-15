@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T14:39
+updated: 2024-09-15T16:01
 ---
 Gọi A là người nộp đơn xin việc vào một công ty và đậu phỏng vấn, và B là người không làm điều đó. Điều này khiến cho A là nhân viên của công ty còn B thì không.
 
@@ -46,3 +46,4 @@ Từ tất cả những điều trên, nếu tất cả những gì công ty c�
 Có thể tìm hiểu thêm về khái niệm *nét họ hàng giống nhau (family resemblance)* của Wittgenstein để hiểu được việc ranh giới giữa các khái niệm có thể bị lu mờ thế nào.
 
 Xem thêm:: [[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]
+[[Đối với nhân viên, người làm cộng tác viên cho mình, dịch vụ thuê ngoài, trợ lý riêng là những cái tên khác nhau cho cùng một thứ]]

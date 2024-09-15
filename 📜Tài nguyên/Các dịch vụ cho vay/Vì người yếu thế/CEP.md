@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T14:10
+updated: 2024-09-15T15:43
 ---
 
 URL:: https://cep.org.vn
@@ -32,4 +32,4 @@ Nếu không phải là thành viên công đoàn:
 ![Fetching Title#e2zg](https://www.youtube.com/watch?v=cSImIy8wKkc)
 
 ![[Pasted image 20240620101103.png]]
-[[Cho mượn theo nhóm đảm bảo không bị quịt hơn]]
+[[Cho vay theo nhóm đảm bảo không bị quịt hơn]]

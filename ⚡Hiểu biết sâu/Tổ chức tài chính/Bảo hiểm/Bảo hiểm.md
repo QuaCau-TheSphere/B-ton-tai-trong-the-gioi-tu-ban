@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-27T14:20
-updated: 2024-09-13T09:04
+updated: 2024-09-15T21:11
 ---
 ## Mô tả công việc
 ### Làm một lần
@@ -21,7 +21,7 @@ Làm 3 tháng: 10tr/tháng
 ### Làm mỗi tuần
 Sáng t7 có các hoạt động vui chơi dành cho trẻ em, có thể tham gia hoặc không. Hỗ trợ anh chị chuẩn bị mọi thứ và vui chơi cùng mấy bé. Cho làm bánh, làm thủ công, vẽ, v.v. Khá là vui nếu thích con nít.
 
-Xem thêm:: [[Học làm đại lý bán bảo hiểm]]
+Xem thêm:: [[Làm đại lý bảo hiểm ảo]]
 
 
 Liên hệ:: [[Hồng Thị Tuyết Nhi|Hồng Thị Tuyết Nhi – 0336 408 666]]
