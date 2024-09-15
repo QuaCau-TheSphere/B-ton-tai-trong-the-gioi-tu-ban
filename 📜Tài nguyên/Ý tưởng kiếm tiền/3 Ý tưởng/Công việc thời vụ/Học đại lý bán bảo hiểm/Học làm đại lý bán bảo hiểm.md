@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-14T21:04
+updated: 2024-09-15T10:48
 ---
 Yêu cầu đầu vào:: [[Sắp xếp theo lịch được cho trước]]
 Hình thức:: [[Việc làm thời vụ, theo dự án]]
@@ -10,10 +10,9 @@ Trong ngành bảo hiểm, [[Ngành bảo hiểm không có nhân viên bán hà
 
 Làm đại lý ảo thì có bảo hiểm công ty mua cho (không phải bảo hiểm xã hội). Khi có đủ doanh số thì có được những quyền lợi khác.
 
-Mỗi khoá học có 2 giai đoạn: học cơ bản và học sản phẩm. Học cơ bản thì phải đi học, chịu khó học để thi đậu ở Cục giám sát, và có điểm danh. Sau khi thi đậu thì học sản phẩm. Cái này thì học lúc nào cũng được, nhưng vẫn phải lên học để điểm danh.
+Mỗi khoá học có 2 giai đoạn: học cơ bản và học sản phẩm. Học cơ bản là để thi đậu chứng chỉ đại lý của Bộ Tài chính. Sau khi thi đậu thì học sản phẩm theo chương trình của mỗi công ty. Tất cả các buổi học đều có điểm danh.
 
-
-> [!attention] Chỉ được học ở một công ty. Khi muốn học ở công ty khác thì phải cắt code ở công ty cũ
+> [!attention] Chỉ được học ở một công ty. Khi muốn học ở công ty khác thì phải cắt code ở công ty cũ. Muốn làm lại code mới thì phải đi thi lại.
 
 ```dataview
 LIST

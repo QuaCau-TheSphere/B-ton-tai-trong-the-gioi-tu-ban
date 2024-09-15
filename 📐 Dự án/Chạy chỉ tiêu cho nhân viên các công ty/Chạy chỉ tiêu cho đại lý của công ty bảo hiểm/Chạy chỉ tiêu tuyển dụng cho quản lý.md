@@ -1,8 +1,13 @@
 ---
 share: true
 created: 2024-09-14T22:58
-updated: 2024-09-14T23:02
+updated: 2024-09-15T10:56
 ---
+|              | Công việc                     | Lợi ích    | Lý do |
+| ------------ | ----------------------------- | ---------- | ----- |
+| Đại lý ảo    | Chịu khó đi học, đi thi       | 2tr        |       |
+| Quản lý ảo   | Tuyển được 2 đại lý mỗi tháng | 10tr/tháng |       |
+| Quản lý thật | Kiếm hợp đồng                 |            |       |
 kích thích cá nhân hoàn thành target trước thời hạn thông qua  thưởng
 ex target 3 hợp đồng, nhưng week 2th, a ra chương trình ai hoàn thành sớm sẽ được tặng 1tr chẳn hạn thì nó sẽ boost động lực sớm
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-27T14:25
-updated: 2024-08-27T14:39
+updated: 2024-09-15T10:15
 ---
 Lương: 2tr/tháng
 ## Mô tả công việc
@@ -23,7 +23,7 @@ Có thể dùng Fake GPS để ở nơi khác vẫn tới vị trí chấm công
 - Trả lời tin nhắn: vài phút 
 - Họp nhóm trên công ty: 3 tiếng 
 
-Mỗi sáng t2, t5 các [[ASM]] họp. Lịch họp nhóm thì tuỳ nhóm, thường là chiều t2 hoặc sáng t3
+Mỗi sáng t2, t5 các [[Quản lý trực tiếp (ASM)]] họp. Lịch họp nhóm thì tuỳ nhóm, thường là chiều t2 hoặc sáng t3
 ## Liên kết
 [\[VNNG\] Sales Checklist - Google Trang tính](https://docs.google.com/spreadsheets/d/1OYAC1TGoBtUZNt3wjc3KM8yjTNNV-xdlX0TcDIz7BgM/edit#gid=906803463 "[VNNG] Sales Checklist - Google Trang tính")
 [\[MNA - HCM9\] Tracking BD 2024](https://lookerstudio.google.com/u/0/reporting/69e85f7b-a4cd-4667-92c5-bdc5a866d9a7/page/p_vesr063xed "[MNA - HCM9] Tracking BD 2024")

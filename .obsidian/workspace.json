@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Mô hình nhân sự/Các công ty tài chính đa phần đều thiên về lương khoán.md",
+                "file": "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Chiến lược/Bảo Việt, Prudential tập trung vào bán hợp đồng. Cathay tập trung vào tuyển dụng, đào tạo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,7 +21,20 @@
             }
           },
           {
-            "id": "9fcedbb77ef06d2e",
+            "id": "5903db1c85b223d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Bởi vì các công ty không sẵn sàng nói ra điều mình muốn là gì, nên việc học sản phẩm chỉ là mô tả nó, chứ không nói về ý đồ thiết kế ra nó.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a717613b3614b075",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚡Hiểu biết sâu/Mô hình nhân sự/Các công ty tài chính đa phần đều thiên về lương khoán.md",
+                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Bởi vì các công ty không sẵn sàng nói ra điều mình muốn là gì, nên việc học sản phẩm chỉ là mô tả nó, chứ không nói về ý đồ thiết kế ra nó.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚡Hiểu biết sâu/Mô hình nhân sự/Các công ty tài chính đa phần đều thiên về lương khoán.md",
+                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Bởi vì các công ty không sẵn sàng nói ra điều mình muốn là gì, nên việc học sản phẩm chỉ là mô tả nó, chứ không nói về ý đồ thiết kế ra nó.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚡Hiểu biết sâu/Mô hình nhân sự/Các công ty tài chính đa phần đều thiên về lương khoán.md"
+                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Bởi vì các công ty không sẵn sàng nói ra điều mình muốn là gì, nên việc học sản phẩm chỉ là mô tả nó, chứ không nói về ý đồ thiết kế ra nó.md"
               }
             }
           }
@@ -164,45 +178,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "229bafbcebfb8122",
+  "active": "5903db1c85b223d3",
   "lastOpenFiles": [
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Lợi ích, động cơ của các bên/Quản lý trực tiếp (ASM)/Quản lý trực tiếp (ASM).md",
     "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Chạy chỉ tiêu tuyển dụng cho quản lý.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Chạy chỉ tiêu tuyển dụng cho quản lý.sync-conflict-20240914-230302-LDHXXXZ.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/~syncthing~Chạy chỉ tiêu tuyển dụng cho quản lý.sync-conflict-20240914-230302-LDHXXXZ.md.tmp",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Học đại lý bán bảo hiểm/Cathay.md",
-    "📐 Dự án/Người chơi/Hồng Thị Tuyết Nhi.md",
-    "📐 Dự án/Người chơi/Đỗ Hàng Minh Trí.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Untitled.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/~syncthing~Untitled.md.tmp",
-    "⚡Hiểu biết sâu/Ngành tài chính/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/Vay nóng nếu không trả sẽ bị bêu xấu với mọi người.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Làm nhân viên ảo/Làm nhân viên ảo.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho nhân viên của công ty trung gian thanh toán/Chạy chỉ tiêu cho nhân viên của công ty trung gian thanh toán.md",
-    "⚡Hiểu biết sâu/Ngành tài chính/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/App đen thực chất là mấy thằng Trung Quốc đặt sever bên Campuchia với Lào ép về cho vay.md",
-    "⚡Hiểu biết sâu/Ngành tài chính/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/DoctorDong là bên mở màn cho thị trường này tại Việt Nam. Bây giờ là Cayvang.md",
-    "📜Tài nguyên/Các dịch vụ cho vay/App vay nóng không cần điểm tín dụng/App vay nóng không cần điểm tín dụng.md",
-    "📜Tài nguyên/Các dịch vụ cho vay/Các dịch vụ cho vay.md",
-    "⚡Hiểu biết sâu/Ngành tài chính/Vay tiền/Dịch vụ cho vay khác/Vay có điểm tín dụng/Bên cho vay sẽ có bảo hiểm cho vay.md",
-    "⚡Hiểu biết sâu/Ngành tài chính/Vay tiền/Dịch vụ cho vay khác/Vay không điểm tín dụng/App đen có người trong các công ty viễn thông nên biết được sim đã xài trong bao lâu.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Xù nợ app đen.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Những bên cho vay lãi quá rẻ thực ra là để mình chịu làm kyc để người khác tạo tài khoản ảo bằng tên của mình.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Xù nợ ngân hàng.md",
-    "📐 Dự án/Tạo cửa hàng/Tạo cửa hàng.md",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho nhân viên các công ty.md",
+    "Tồn tại trong thế giới tư bản.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Học đại lý bán bảo hiểm/Bảo Việt.md",
     "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Học đại lý bán bảo hiểm/Học làm đại lý bán bảo hiểm.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thị trường bảo hiểm/Bảo Việt, Prudential tập trung vào bán hợp đồng. Cathay tập trung vào tuyển dụng, đào tạo.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Cathay.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/Khác biệt giữa nhân viên, đại lý, cộng tác viên.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Hướng dẫn tìm hiểu các lĩnh vực.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Tìm người sẵn sàng trả tiền để được hướng dẫn.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Gom lịch vào Google Calendar.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Săn khảo sát, phỏng vấn người dùng.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Chạy sự kiện, shipper, telesale, BPO.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Huấn luyện lập trình 1-1.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Chiến lược/Bảo Việt, Prudential tập trung vào bán hợp đồng. Cathay tập trung vào tuyển dụng, đào tạo.md",
+    "Ξ Thiết lập/Templates/Ghi chú thư mục.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Chiến lược/Nhận người làm quản lý trên 26 tuổi và có bằng đại học.md",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Untitled.md",
+    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho đại lý của công ty bảo hiểm/Chạy chỉ tiêu tuyển dụng cho quản lý.sync-conflict-20240914-230302-LDHXXXZ.md",
+    "⚡Hiểu biết sâu/Kinh tế/Kinh tế vĩ mô, toàn cầu hoá/Tỉ lệ sử dụng tiền mặt ở VN khoảng 12%.md",
     "⚡Hiểu biết sâu/Mô hình nhân sự/Các công ty tài chính đa phần đều thiên về lương khoán.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/Đại lý là đại diện của công ty và chỉ được làm một công ty. Môi giới là đại diện của bên mua và làm cho nhiều công ty khác nhau.md",
-    "⚡Hiểu biết sâu/Ngành tài chính/Bảo hiểm/Công ty, đại lý, hợp đồng/Hợp đồng mất hiệu lực vẫn khôi phục lại được. Huỷ hợp đồng là mất luôn.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thị trường bảo hiểm",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm",
-    "📜Tài nguyên/Chính sách công ty/New folder",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Xem tử vi tự động.md",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Trung gian thanh toán.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Ngân hàng, điểm tín dụng/Việc cấp tín dụng phụ thuộc vào bảo hiểm xã hội, không phải là bảng lương.md",
+    "⚡Hiểu biết sâu/Ξ Khái niệm/Thẻ tín dụng.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Dịch vụ cho vay khác/Vay có điểm tín dụng/Thẻ tín dụng yêu cầu phải có thu nhập. Mua trước trả sau thì không.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Trung gian thanh toán/Dùng loa thông báo sẽ đỡ phải kiểm tra xem tiền khách chuyển vào có tới được chưa.md",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Chiến lược/VNPAY",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Chiến lược/Smartpay",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Chiến lược",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Chiến lược",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thị trường",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Sự khác biệt giữa các công ty/VNPAY",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Sự khác biệt giữa các công ty/Smartpay",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Sự khác biệt giữa các công ty",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/VNPAY",
+    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Sự khác biệt giữa các công ty trung gian thanh toán/Smartpay",
     "Ξ Thiết lập/Ảnh/Hợp đồng bảo hiểm được tặng.png",
-    "⚡Hiểu biết sâu/Mô hình nhân sự",
-    "⚡Hiểu biết sâu/Ngành tài chính/Bảo hiểm/Tính toán bảo hiểm",
-    "📐 Dự án/Mạng kết nối nhu cầu",
-    "⚡Hiểu biết sâu/Ngành tài chính/Bảo hiểm/Thị trường bảo hiểm",
     "Ξ Thiết lập/Ảnh/Excalidraw/Nguyên tắc hoạt động.excalidraw.png",
     "Ξ Thiết lập/Ảnh/growth.png",
     "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/_res/IMG_20240806_162245_916.jpg",

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-27T14:10
+updated: 2024-09-15T10:01
 ---
 Yêu cầu đầu vào:: [[Hiểu về hệ thống]]
 Hình thức:: [[Tự kinh doanh, đầu tư]]
