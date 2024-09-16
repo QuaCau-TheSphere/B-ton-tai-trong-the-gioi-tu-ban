@@ -40,8 +40,8 @@
         "rateLimit": 5000
       }
     ],
-    "verifiedRepo": true,
-    "rateLimit": 4998
+    "verifiedRepo": false,
+    "rateLimit": 58
   },
   "upload": {
     "behavior": "obsidian",
@@ -146,5 +146,5 @@
     "dev": true
   },
   "tabsID": "github-configuration",
-  "tabsId": "github-configuration"
+  "tabsId": "upload-configuration"
 }

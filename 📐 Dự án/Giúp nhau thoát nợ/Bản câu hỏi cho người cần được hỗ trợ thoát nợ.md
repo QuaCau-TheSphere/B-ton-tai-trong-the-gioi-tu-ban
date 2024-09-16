@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-14T21:17
+updated: 2024-09-16T11:46
 ---
 - Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
 - Tình hình nợ này ảnh hưởng đến cuộc sống của bạn thế nào?
@@ -11,5 +11,5 @@ updated: 2024-09-14T21:17
 - Bạn có chấp nhận [[Xù nợ ngân hàng]] không? Vì sao?
 - Ai sẽ là người bạn cảm thấy thoải mái khi họ biết được những gì bạn ghi ở đây? Vì sao?
 
-[[Tặng đồ, thức ăn]]
+[[Tặng đồ đạc, thức ăn]]
 **Mục tiêu: cắt hết lãi**

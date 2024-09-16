@@ -4,42 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "cfdd1cf1c9f85011",
+        "id": "ee5b4c12d0e572e2",
         "type": "tabs",
         "children": [
           {
-            "id": "ee27c31dbe3dc778",
+            "id": "ce0d5c972c4ac77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên, trợ lý/Làm đại lý bảo hiểm ảo.md",
-                "mode": "preview",
+                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "954a86af2a7f6c81",
+            "id": "16401d0bc181f30f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho nhân viên các công ty.md",
-                "mode": "preview",
+                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "6ce22a7eb0fc9ab8",
+            "id": "40c51d75d260f399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Huấn luyện lập trình 1-1.md",
+                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch tổ chức sự kiện.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên, trợ lý/Làm đại lý bảo hiểm ảo.md",
+                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên, trợ lý/Làm đại lý bảo hiểm ảo.md",
+                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên, trợ lý/Làm đại lý bảo hiểm ảo.md"
+                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md"
               }
             }
           }
@@ -165,66 +165,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee27c31dbe3dc778",
+  "active": "ce0d5c972c4ac77a",
   "lastOpenFiles": [
-    "📜Tài nguyên/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo thời gian/Mỗi tuần lên công ty một buổi.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Cathay.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch tổ chức sự kiện.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/3 tháng đầu vốn là để vét cạn các mối quan hệ.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tuyển dụng quản lý ảo.md",
     "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên, trợ lý/Làm đại lý bảo hiểm ảo.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty bảo hiểm/Tuyển dụng quản lý ảo.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Chạy chỉ tiêu cho nhân viên các công ty.md",
     "📜Tài nguyên/Quà tặng/Bảo hiểm nhân thọ.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/Khác biệt giữa nhân viên, đại lý, cộng tác viên.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Huấn luyện lập trình 1-1.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty bảo hiểm/Prudential.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên, trợ lý/Tìm người có nhu cầu được hướng dẫn, huấn luyện.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Hướng dẫn tìm hiểu các lĩnh vực.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/2 Hình thức/Chia sẻ, đào tạo, huấn luyện.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện/Các buổi chia sẻ, lớp học, khoá đào tạo, buổi huấn luyện.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Nhóm thuê ngoài cho nhân viên.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/2 Hình thức/Untitled.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên, trợ lý/Tìm người cần được hướng dẫn.md",
-    "⚡Hiểu biết sâu/Mô hình nhân sự/Các trang freelance toàn agency làm.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty trung gian thanh toán/Công ty trung gian thanh toán.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty trung gian thanh toán/Quẹt dơ/Xử lý tình huống, câu hỏi thường gặp.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty trung gian thanh toán/VNPAY.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty bảo hiểm/Cathay.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty bảo hiểm/Bảo Việt.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty trung gian thanh toán/Bảo hiểm/Prudential.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty trung gian thanh toán/Bảo hiểm/Cathay.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty trung gian thanh toán/Bảo hiểm/Bảo Việt.md",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty trung gian thanh toán/Bảo hiểm",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Tài liệu/VNPAY.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Tài liệu/Bảo hiểm",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Tài liệu/Làm nhân viên ảo",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Tài liệu/Học đại lý bán bảo hiểm",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/Tài liệu",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/New folder",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty trung gian thanh toán/Quẹt dơ",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/Công ty trung gian thanh toán/New folder",
-    "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/~syncthing~Chạy chỉ tiêu cho nhân viên các công ty.md.tmp",
-    "📜Tài nguyên/Chính sách công ty/Trung gian thanh toán/Chiến lược/VNPAY",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/Làm một người lạc quan thấy được tầm quan trọng của bảo hiểm giống như làm một người mê mạo hiểm hiểu được tầm quan trọng của lái xe an toàn.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/Tỉ lệ tai nạn/6 tháng đầu năm 2024 có hơn 5 ngàn người chết, gần 10 ngàn người bị thương do tai nạn giao thông.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/Tỉ lệ tai nạn/½ vụ tai nạn là ở giao lộ. ⅓ vụ tai nạn làm chấn thương chân.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nguyên tắc hoạt động/Sau khi hoàn tất tất cả các chi phí thì mới được bồi thường.md",
+    "1",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nguyên tắc hoạt động/Bồi thường là trả tiền trên hoá đơn thực tế. Khoán là do người mua tự định giá của sinh mạng mình ngay từ đầu.md",
+    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai.md",
+    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/6 tháng đầu năm 2024 có hơn 5 ngàn người chết, gần 10 ngàn người bị thương do tai nạn giao thông.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/Tỉ lệ tai nạn",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/New folder",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Giá tài khoản ngân hàng được tạo từ thông tin đánh cắp được bán tuỳ vào mức độ quét.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nguyên tắc hoạt động/Chỉ có người thân mới được mua bảo hiểm cho nhau để tránh trường hợp trục lợi.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nguyên tắc hoạt động/Bảo hiểm cũng giống như mua vé số vì chúng đều theo nguyên tắc lấy số đông bù số ít, với sự kiện xảy ra một cách ngẫu nhiên.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nguyên tắc hoạt động/Nguyên tắc hoạt động.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Thông tin cá nhân con.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Thông tin bán được sẽ được dùng để tạo tài khoản ngân hàng ảo.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/Người muốn phòng hờ rủi ro sẽ cần mua bảo hiểm, nhưng chỉ người có tiền và có sức khoẻ mới được mua.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Sản phẩm liên kết đầu tư chiếm 85% tổng doanh thu phí bảo hiểm trên toàn thị trường năm 2022.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Nhân thọ.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Tuổi, tiết kiệm, vay nợ, thu nhập, giáo dục là các yếu tố có tác động đến quyết định mua bảo hiểm nhân thọ.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/New folder",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/New folder",
+    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn",
+    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên",
+    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sự trì hoãn",
+    "Ξ Thiết lập/Ảnh/Bảo hiểm/Lịch đào tạo Prudential.png",
+    "Ξ Thiết lập/Ảnh/Bảo hiểm/Lịch đào tạo Bảo Việt.png",
+    "Ξ Thiết lập/Ảnh/Bảo hiểm/Hợp đồng FWD (tóm tắt).png",
+    "Ξ Thiết lập/Ảnh/Lịch đào tạo Bảo Việt.png",
     "Ξ Thiết lập/Ảnh/Hợp đồng bảo hiểm được tặng.png",
     "Ξ Thiết lập/Ảnh/Excalidraw/Nguyên tắc hoạt động.excalidraw.png",
     "Ξ Thiết lập/Ảnh/growth.png",
     "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/_res/IMG_20240806_162245_916.jpg",
     "Ξ Thiết lập/Ảnh/Pasted image 20240627210342.png",
     "Ξ Thiết lập/Ảnh/Pasted image 20240627210332.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240620101103.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240619195617.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240619191052.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240221020431.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

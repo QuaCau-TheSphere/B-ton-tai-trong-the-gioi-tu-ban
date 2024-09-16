@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-15T15:53
+updated: 2024-09-16T00:13
 ---
 Yêu cầu đầu vào:: [[Vốn]]
 Hình thức:: [[Tự kinh doanh, đầu tư]]

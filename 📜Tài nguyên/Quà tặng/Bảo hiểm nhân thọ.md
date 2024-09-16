@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2024-08-14T12:10
-updated: 2024-09-15T15:02
+updated: 2024-09-18T13:49
 alias:
   - Tặng bảo hiểm nhân thọ
   - Hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
 description: "Quyền lợi: ung thư, bệnh hiểm nghèo, tai nạn, tử vong và tiết kiệm dài"
 ---
 # Tặng hợp đồng bảo hiểm nhân thọ, miễn phí năm đầu
-Lý do:: [[Chạy chỉ tiêu cho nhân viên các công ty]]
+Lý do:: [[Chạy chỉ tiêu]]
 
 5-7 ngày giao hợp đồng đến nhà  
 
@@ -16,7 +16,7 @@ Lý do:: [[Chạy chỉ tiêu cho nhân viên các công ty]]
 
 ---
 
-Thông tin hợp đồng: [[Hợp đồng bảo hiểm được tặng.png|Ảnh màn hình tài khoản]], [PDF toàn bộ hợp đồng](https://github.com/QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/blob/main/docs/assets/attachments/fwd.pdf)
+Thông tin hợp đồng: [[Hợp đồng FWD (tóm tắt).png|Ảnh màn hình tài khoản]], [PDF toàn bộ hợp đồng](https://github.com/QuaCau-TheSphere/BW-ton-tai-trong-the-gioi-tu-ban/blob/main/docs/assets/attachments/fwd.pdf)
 ## Quyền lợi bảo hiểm
 ### Quyền lợi bảo vệ
 - Ung thư giai đoạn sau: 212.000.000 ₫

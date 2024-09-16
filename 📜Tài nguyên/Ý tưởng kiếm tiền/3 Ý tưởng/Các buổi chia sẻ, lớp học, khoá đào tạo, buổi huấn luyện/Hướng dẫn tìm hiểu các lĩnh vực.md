@@ -1,10 +1,12 @@
 ---
 share: true
 created: 2024-07-30T13:32
-updated: 2024-08-27T16:44
+updated: 2024-09-16T20:48
 ---
 Yêu cầu đầu vào:: [[Có tên tuổi, uy tín, chứng nhận]]
 Hình thức:: [[Chia sẻ, đào tạo, huấn luyện]]
+
+Nếu bạn kiếm được người sẵn sàng trả tiền để được có người cùng thảo luận những chủ đề này thì bạn sẽ được nhận toàn bộ số tiền họ trả.
 
 - Công cụ nghĩ, nhận thức tăng cường
 - Hệ thống niềm tin
