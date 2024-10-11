@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2024-08-09T20:45
-updated: 2024-09-15T14:19
+updated: 2024-10-11T14:53
 ---
+Có thể dùng linkedin của Nhật cũng được
+
 # Nguyễn Hữu Lộc
 📞 0777 85 00 94
 🏠 Bình Dương

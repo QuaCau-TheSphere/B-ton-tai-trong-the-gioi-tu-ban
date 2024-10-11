@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee5b4c12d0e572e2",
+        "id": "b5644ea78bab623e",
         "type": "tabs",
         "children": [
           {
-            "id": "ce0d5c972c4ac77a",
+            "id": "eb687f5ac698a7c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md",
+                "file": "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Các dòng sản phẩm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,32 +21,20 @@
             }
           },
           {
-            "id": "16401d0bc181f30f",
+            "id": "d6c9cec5dc6ba226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "40c51d75d260f399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch tổ chức sự kiện.md",
+                "file": "📐 Dự án/Chạy chỉ tiêu/Mẫu CV ảo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "row",
+                "query": "fyp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "058d2be84526927e",
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md",
+                "file": "📐 Dự án/Chạy chỉ tiêu/Mẫu CV ảo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md",
+                "file": "📐 Dự án/Chạy chỉ tiêu/Mẫu CV ảo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md"
+                "file": "📐 Dự án/Chạy chỉ tiêu/Mẫu CV ảo.md"
               }
             }
           }
@@ -171,60 +160,60 @@
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce0d5c972c4ac77a",
+  "active": "d6c9cec5dc6ba226",
   "lastOpenFiles": [
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Cathay.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kiếm khách.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch tổ chức sự kiện.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/3 tháng đầu vốn là để vét cạn các mối quan hệ.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tuyển dụng quản lý ảo.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ/Cộng tác viên, trợ lý/Làm đại lý bảo hiểm ảo.md",
-    "📜Tài nguyên/Quà tặng/Bảo hiểm nhân thọ.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/Làm một người lạc quan thấy được tầm quan trọng của bảo hiểm giống như làm một người mê mạo hiểm hiểu được tầm quan trọng của lái xe an toàn.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/Tỉ lệ tai nạn/6 tháng đầu năm 2024 có hơn 5 ngàn người chết, gần 10 ngàn người bị thương do tai nạn giao thông.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/Tỉ lệ tai nạn/½ vụ tai nạn là ở giao lộ. ⅓ vụ tai nạn làm chấn thương chân.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nguyên tắc hoạt động/Sau khi hoàn tất tất cả các chi phí thì mới được bồi thường.md",
-    "1",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nguyên tắc hoạt động/Bồi thường là trả tiền trên hoá đơn thực tế. Khoán là do người mua tự định giá của sinh mạng mình ngay từ đầu.md",
-    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai.md",
-    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn/Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/6 tháng đầu năm 2024 có hơn 5 ngàn người chết, gần 10 ngàn người bị thương do tai nạn giao thông.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/Tỉ lệ tai nạn",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/New folder",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Giá tài khoản ngân hàng được tạo từ thông tin đánh cắp được bán tuỳ vào mức độ quét.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nguyên tắc hoạt động/Chỉ có người thân mới được mua bảo hiểm cho nhau để tránh trường hợp trục lợi.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nguyên tắc hoạt động/Bảo hiểm cũng giống như mua vé số vì chúng đều theo nguyên tắc lấy số đông bù số ít, với sự kiện xảy ra một cách ngẫu nhiên.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nguyên tắc hoạt động/Nguyên tắc hoạt động.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Thông tin cá nhân con.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Tài khoản ảo, mua bán thông tin cá nhân/Thông tin bán được sẽ được dùng để tạo tài khoản ngân hàng ảo.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Nhu cầu khách hàng và đại lý/Người muốn phòng hờ rủi ro sẽ cần mua bảo hiểm, nhưng chỉ người có tiền và có sức khoẻ mới được mua.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Sản phẩm liên kết đầu tư chiếm 85% tổng doanh thu phí bảo hiểm trên toàn thị trường năm 2022.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Nhân thọ.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Tuổi, tiết kiệm, vay nợ, thu nhập, giáo dục là các yếu tố có tác động đến quyết định mua bảo hiểm nhân thọ.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/New folder",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/New folder",
-    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên/Sự trì hoãn",
-    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sắp xếp độ ưu tiên",
-    "⚡Hiểu biết sâu/Tâm lý học quản lý và lao động/Sự trì hoãn",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/An Khang Hạnh Phúc thì nhiều quyền lợi hơn. An Phát Cát Tường thời gian đóng phí ngắn hơn.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Các dòng sản phẩm.md",
+    "📐 Dự án/Chạy chỉ tiêu/Tài liệu/Mẫu CV ảo.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Tìm người mua bảo hiểm xe máy.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Kiếm khách.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Danh sách các khách hàng tiềm năng cần tiếp cận.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Cần giữ kín việc cắt máu, vì luật cấm trích hoa hồng để giảm giá.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Tuyển ảo.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Tránh bị phát hiện.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Prudential.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Cathay.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Bảo Việt.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển dụng.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Ξ Kết quả truyền thông.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân viên.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Chạy chỉ tiêu.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng/Xác định những cách mà người quản lý làm để tăng lòng trung thành của nhân viên.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng/Nghiên cứu người dùng.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng/Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng/Phỏng vấn người làm phi lợi nhuận.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/Kế hoạch.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/Kế hoạch tuyển người mới.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/Kế hoạch bán bảo hiểm cho doanh nghiệp.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Giả thiết/Bảo hiểm/Giả thiết về nguồn tuyển dụng.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Giả thiết/Bảo hiểm/Giả thiết về tỉ lệ chuyển đổi.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Giả thiết/Bảo hiểm/Giả thiết về nguồn khách hàng tiềm năng.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Giả thiết/Bảo hiểm",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Giả thiết",
+    "📐 Dự án/Chạy chỉ tiêu/Mã QR ví điện tử/Quẹt dơ",
+    "📐 Dự án/Chạy chỉ tiêu/Mã QR ví điện tử",
+    "Ξ Thiết lập/Ảnh/Excalidraw/Bảo hiểm/Nguyên tắc hoạt động.excalidraw.png",
+    "Ξ Thiết lập/Ảnh/Excalidraw/Nguyên tắc hoạt động.excalidraw.png",
+    "Ξ Thiết lập/Ảnh/4675729081308532669.jpeg",
     "Ξ Thiết lập/Ảnh/Bảo hiểm/Lịch đào tạo Prudential.png",
     "Ξ Thiết lập/Ảnh/Bảo hiểm/Lịch đào tạo Bảo Việt.png",
     "Ξ Thiết lập/Ảnh/Bảo hiểm/Hợp đồng FWD (tóm tắt).png",
     "Ξ Thiết lập/Ảnh/Lịch đào tạo Bảo Việt.png",
     "Ξ Thiết lập/Ảnh/Hợp đồng bảo hiểm được tặng.png",
-    "Ξ Thiết lập/Ảnh/Excalidraw/Nguyên tắc hoạt động.excalidraw.png",
     "Ξ Thiết lập/Ảnh/growth.png",
     "📐 Dự án/Chạy chỉ tiêu cho nhân viên các công ty/_res/IMG_20240806_162245_916.jpg",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240627210342.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20240627210332.png",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

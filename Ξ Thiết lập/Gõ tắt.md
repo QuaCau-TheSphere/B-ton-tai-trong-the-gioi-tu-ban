@@ -19,8 +19,11 @@ Liên quan:: 		lq
 Câu hỏi:: 		ch
 Xem thêm:: 		xt
 Mâu thuẫn với:: 		mtv
+
 Nguồn:: 		ng
 Trích từ:: 		tt
+Hỏi thêm:: 		ht
+Tham khảo:: 		tk
 
 Nhu cầu người dùng:: 		nl
 Phù hợp cho nhu cầu:: 		nl

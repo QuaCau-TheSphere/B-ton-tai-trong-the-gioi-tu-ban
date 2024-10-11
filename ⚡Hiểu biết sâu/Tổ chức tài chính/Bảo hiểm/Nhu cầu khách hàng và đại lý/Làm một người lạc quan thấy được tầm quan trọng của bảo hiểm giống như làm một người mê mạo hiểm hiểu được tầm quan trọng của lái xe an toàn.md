@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-18T13:16
-updated: 2024-09-18T13:44
+updated: 2024-10-01T21:13
 ---
 Khái niệm:: 
 Kể cả khi họ hiểu được tầm quan trọng của lái xe an toàn, thì cái tính của họ sẽ làm họ nhức đầu khi phải chạy chậm

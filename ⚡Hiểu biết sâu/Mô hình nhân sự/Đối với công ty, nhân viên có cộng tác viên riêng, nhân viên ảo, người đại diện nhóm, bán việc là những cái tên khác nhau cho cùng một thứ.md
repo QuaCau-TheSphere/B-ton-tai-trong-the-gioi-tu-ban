@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-15T16:01
+updated: 2024-09-22T00:55
 ---
 Gọi A là người nộp đơn xin việc vào một công ty và đậu phỏng vấn, và B là người không làm điều đó. Điều này khiến cho A là nhân viên của công ty còn B thì không.
 

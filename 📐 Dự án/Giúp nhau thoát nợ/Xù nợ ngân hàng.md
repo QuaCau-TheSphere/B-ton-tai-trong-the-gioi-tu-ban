@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-31T13:30
-updated: 2024-09-14T21:17
+updated: 2024-09-20T19:56
 ---
 Khái niệm:: 
 khoản vay bên đối tác moenyveo đã trễ hạn, tổng tiền 1,304,600 hôm nay cần xử lí trước 16h để tránh chuyển hs sang đối tác liên hệ nhắn nợ về người thân và công ty phản hồi để được hỗ trợ
@@ -41,7 +41,7 @@ nên nói chuyện với ngân hàng
 cần biết cụ thể mỗi tháng bao nhiêu lãi. Khó khăn: 
 - khi đang bị áp lực trả nợ thì cũng không có thời gian để nói cho người khác biết tình hình nợ của mình 
 - không muốn cho người khác biết tình hình nợ vì sợ bị nghĩ là mình vòi tiền
-[[Điểm tín dụng (CIC) là cách để các ngân hàng đánh giá khả năng trả nợ của mình]]
+[[Điểm tín dụng là cách để các ngân hàng đánh giá khả năng trả nợ của mình]]
 
 [[Vay nóng nếu không trả sẽ bị bêu xấu với mọi người]]
 [[Xù nợ ngân hàng]]

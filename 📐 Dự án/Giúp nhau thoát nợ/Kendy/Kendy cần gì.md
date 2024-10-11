@@ -3,7 +3,7 @@ share: true
 title: Kendy cần gì?
 description: Cần giảm áp lực trả nợ, tạo dòng tiền, xây dựng hệ thống quản lý, giảm tiền cho các nhu cầu
 created: 2023-09-05T16:17
-updated: 2024-07-30T14:43
+updated: 2024-09-30T23:52
 alias:
   - Trí cần gì?
 ---

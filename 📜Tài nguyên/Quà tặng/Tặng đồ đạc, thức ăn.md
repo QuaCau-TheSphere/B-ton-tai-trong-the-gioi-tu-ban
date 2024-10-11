@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-14T21:27
-updated: 2024-09-16T00:10
+updated: 2024-10-04T11:31
 ---
 ## Tặng thức ăn
 - [FoodShare](https://foodshare.id.vn/foods/tat-ca-thuc-pham)
@@ -10,3 +10,6 @@ updated: 2024-09-16T00:10
 
 ## Tặng đồ 
 - [BẠN CẦN - TÔI TẶNG (SAIGONGIVE) | Facebook](https://www.facebook.com/groups/362234617663903)
+
+## Nơi thảo luận
+[![](https://i.imgur.com/956NcmT.png)](https://discord.com/channels/898550123007709204/1257889099436523652)

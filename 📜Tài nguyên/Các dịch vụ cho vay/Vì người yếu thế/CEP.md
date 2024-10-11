@@ -1,9 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-15T15:43
+updated: 2024-10-04T13:45
 ---
-
 URL:: https://cep.org.vn
 Nếu vay 20tr thì lãi 500k/tháng 
 nếu khai thu nhâp 7tr, sinh hoạt phí 5tr thì đc vay tối đa 6tr trong 5 tháng
@@ -30,6 +29,8 @@ Nếu không phải là thành viên công đoàn:
 ![2024 - Giới thiệu sản phẩm dịch vụ CEP dành cho Nhân dân lao động - YouTube](https://www.youtube.com/watch?v=6DSN40IRjYE)
 
 ![Fetching Title#e2zg](https://www.youtube.com/watch?v=cSImIy8wKkc)
+[Trợ vốn giúp người nghèo: Những món tiền nhỏ đẩy lùi nạn cho vay nặng lãi - Tuổi Trẻ Online](https://tuoitre.vn/tro-von-giup-nguoi-ngheo-nhung-mon-tien-nho-day-lui-nan-cho-vay-nang-lai-20220612094859913.htm)
 
 ![[Pasted image 20240620101103.png]]
 [[Cho vay theo nhóm đảm bảo không bị quịt hơn]]
+[[Tài chính vi mô]]

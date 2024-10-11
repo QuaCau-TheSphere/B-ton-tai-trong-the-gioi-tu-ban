@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2024-09-16T20:52
+updated: 2024-10-05T13:30
 alias:
   - Kiếm tiền nhanh Kiếm dự án thuê ngoài Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện Làm nhân viên ăn lương Đầu tư kinh doanh bán hàng Tạo lợi nhuận
   - Một số ý tưởng kiếm tiền
@@ -13,7 +13,7 @@ description: Kiếm tiền từ các hoạt động của Quả Cầu
 ## Công việc thời vụ
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"
-FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ" 
+FROM "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên" 
 WHERE file.name != this.file.name
 ```
 
@@ -44,4 +44,4 @@ SORT yêu-cầu-đầu-vào desc
 
 ## Nơi thảo luận
 Tất cả các chủ đề có nhãn "💸Tiền bạc":
-![](https://i.imgur.com/4rJvMNB.png)
+[![](https://i.imgur.com/4rJvMNB.png)](https://discord.com/channels/898550123007709204/1219199843583524934)

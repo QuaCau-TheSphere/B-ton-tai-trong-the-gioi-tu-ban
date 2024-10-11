@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2024-06-25T13:20
-updated: 2024-09-15T15:35
+updated: 2024-10-11T14:53
 ---
 Một hình thức ít rủi ro hơn là đi [[Đổi tiền, chụp hình biển hiệu, dán mã QR#Đổi tiền|đổi tiền]].
 ## Yêu cầu
 - Tìm được các chủ cửa hàng chấp nhận trả tiền cho mình
-- Có nhiều tài khoản ngân hàng khác chủ
+- [[Có nhiều tài khoản ngân hàng khác chủ]] 
 
 ## Quy trình
 ### Mỗi mã QR cần được quét 13 lần

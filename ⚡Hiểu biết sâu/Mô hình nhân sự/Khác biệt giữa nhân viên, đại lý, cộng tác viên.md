@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-17T11:35
+updated: 2024-09-29T15:16
 ---
 | Loại hình                            | Nhân viên                        | Đại lý                              | Cộng tác viên cho công ty        | Cộng tác viên cho nhân viên/đại lý |
 | ------------------------------------ | -------------------------------- | ----------------------------------- | -------------------------------- | ---------------------------------- |
-| Hình thức trả tiền                   | Lương cứng + thưởng              | Làm bao nhiêu ăn bấy nhiêu + thưởng | Làm bao nhiêu ăn bấy nhiêu       | Làm bao nhiêu ăn bấy nhiêu         |
+| Hình thức trả tiền                   | Lương cứng/Lương khoán + thưởng              | Làm bao nhiêu ăn bấy nhiêu + thưởng | Làm bao nhiêu ăn bấy nhiêu       | Làm bao nhiêu ăn bấy nhiêu         |
 | Thời điểm nhận tiền                  | Cuối tháng                       | Cuối tháng                          | Sau khi hết việc                 | Sau khi hết việc                   |
 | Loại công việc                       | Làm tất cả đầu việc có liên quan | Làm tất cả đầu việc có liên quan    | Làm tất cả đầu việc có liên quan | Chỉ cần làm một đầu việc           |
 | Bảo hiểm xã hội                      | ✔                                | ❌                                  | ❌                               | ❌                                 |

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-16T00:05
+updated: 2024-09-22T14:10
 ---
 Khái niệm:: [[Chuyên nghiệp]]
 Nguồn:: [[Paul Graham]], [What Business Can Learn from Open Source](http://www.paulgraham.com/opensource.html)

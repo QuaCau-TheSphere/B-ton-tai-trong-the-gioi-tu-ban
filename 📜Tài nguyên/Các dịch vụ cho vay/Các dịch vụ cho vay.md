@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-08-27T16:46
+updated: 2024-10-05T15:13
 ---
 ## Vì người yếu thế
 - [[Quỹ Tình Thân]]           
@@ -36,7 +36,6 @@ updated: 2024-08-27T16:46
 - Home Credit bắt phải có 2 giấy tờ bổ sung
 - Tnex ko đổi đc sđt 
 
-
 ## Ngân hàng
 |      | Số tiền rút lần đầu | Lãi | Thời hạn | Điều kiện |
 | ---- | ------------------- | --- | -------- | --------- |
@@ -52,12 +51,7 @@ Ngân hàng CIMB tạo thẻ tín dụng hạn mức 100tr, chỉ cần trả 3t
 ## Tiệm cầm đồ
 F88 giống tiệm cầm đồ, dùng cà vẹt xe để vay
 
-Thông tin khác:
-```dataview
-LIST 
-FROM "📜Tài nguyên/Vay tiền" 
-WHERE file.name!=this.file.name
-```
+Dự án: [[Giúp nhau thoát nợ]]
 
 ## ⚡Hiểu biết sâu
 ```dataview

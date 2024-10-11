@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-09-15T15:43
+updated: 2024-10-09T20:47
 ---
 URL:: https://www.facebook.com/profile.php?id=100077601589557
 
@@ -15,3 +15,6 @@ URL:: https://www.facebook.com/profile.php?id=100077601589557
 ```yaml
 Lần 1: 2tr
 ```
+
+[[Tài chính vi mô]]
+[CHƠI HỤI CỘNG ĐỒNG | Chung Sống 2024](https://www.chungsong.vn/choi-hui-cong-dong/)
