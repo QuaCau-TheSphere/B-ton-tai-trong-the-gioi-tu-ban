@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-14T09:07
-updated: 2024-10-01T20:47
+updated: 2024-11-03T21:35
 ---
 Khái niệm:: 
 thấy mình có trách nhiệm và có khả năng mất trách nhiệm
@@ -9,4 +9,4 @@ thấy mình có trách nhiệm và có khả năng mất trách nhiệm
 [[Tuổi, tiết kiệm, vay nợ, thu nhập, giáo dục là các yếu tố có tác động đến quyết định mua bảo hiểm nhân thọ|Tuổi, tiết kiệm, vay nợ, thu nhập, giáo dục là các yếu tố có tác động đến quyết định mua bảo hiểm nhân thọ. Giới tính, tình trạng hôn nhân, số thành viên trong hộ không có ảnh hưởng đến quyết định này]]
 [[Chính phủ khuyến khích phát triển sản phẩm nhân thọ cho người già và các sản phẩm tích hợp các dịch vụ hỗ trợ y tế, chăm sóc sức khỏe]]
 
-[[Tại sao khách hàng chưa đồng ý]]
+[[Các lý do từ chối mua thường gặp]]

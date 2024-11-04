@@ -95,7 +95,8 @@
       "internal": true,
       "unshared": false,
       "wiki": true,
-      "slugify": "disable"
+      "slugify": "disable",
+      "unlink": false
     }
   },
   "embed": {
@@ -110,6 +111,7 @@
     "charConvert": "->",
     "unHandledObsidianExt": [],
     "sendSimpleLinks": true,
+    "forcePush": true,
     "forcePushAttachments": [],
     "useObsidianFolder": false
   },
@@ -146,5 +148,5 @@
     "dev": true
   },
   "tabsID": "github-configuration",
-  "tabsId": "plugin-settings"
+  "tabsId": "github-configuration"
 }

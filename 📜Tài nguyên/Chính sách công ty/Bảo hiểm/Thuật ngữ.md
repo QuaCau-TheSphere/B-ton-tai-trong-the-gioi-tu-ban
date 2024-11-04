@@ -11,8 +11,8 @@ Nếu hợp đồng
 | Phí đầu tiên         | IP (initial premium)             |
 | Phí thực thu năm đầu | FYP                              |
 | Phí quy năm          | AFYP (annual first year premium) |
-| Hoa hồng năm đầu     | FYC (first year commission)      |
-
+| Hoa hồng năm đầu | FYC (first year commission)      |
+|Tỷ lệ duy trì hợp đồng| PR (persistency rate)
 Ví dụ:
 
 | Tháng | Hợp đồng khai thác mới                | Tổng AFYP trong tháng | Tổng IP trong tháng | Tổng FYP trong tháng | FYP sễ dược ghi nhận tiếp theo vào những tháng nào và bao nhiêu |

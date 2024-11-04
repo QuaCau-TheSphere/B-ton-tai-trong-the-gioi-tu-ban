@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T14:35
-updated: 2024-09-17T16:40
+updated: 2024-11-04T17:43
 alias: "Số đông: Số đông bù cho số ít"
 ---
 Khái niệm:: 

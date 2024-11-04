@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T21:24
-updated: 2024-10-07T12:16
+updated: 2024-11-04T21:40
 ---
 Mỗi sáng t2 đến t6:
 - 8h30 – 11h: tập thể dục buổi sáng, cập nhật các chính sách công ty, tuyên dương người có hợp đồng mới, nhắc nhở người chưa đạt chỉ tiêu, ghi nhật ký hoạt động
@@ -17,4 +17,9 @@ Mỗi sáng t2 đến t6:
 Luật ngầm: mua cho người nhà nghĩa là kém năng lực? 
 
 Học, họp suốt ngày, nhưng lại ép chỉ tiêu
-Trả tiền chậm 1 tháng. 04/09 thực tập → 27/11 mới nhận lương của tháng 10
+Trả tiền chậm 1 tháng. 04/09 thực tập → 27/11 mới nhận lương của tháng 10. Điều này là để chờ xem hđ làm tháng 10 có trả tiền tháng 11 ko. Nếu ko thì sẽ có cơ sở để chất vấn chạy ảo
+
+Phải trả tiền mua vé xem phim. Nếu họ nghỉ 
+## Thưởng 
+Tháng đầu tiên đạt 200% doanh số 
+[[TUM]]

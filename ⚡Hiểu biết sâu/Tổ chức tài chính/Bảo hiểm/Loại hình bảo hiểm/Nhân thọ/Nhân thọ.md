@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2024-09-06T15:35
-updated: 2024-09-17T18:22
+updated: 2024-11-04T17:43
+alias: Các loại hình bảo hiểm nhân thọ
 ---
 Khái niệm:: 
 # Các loại hình bảo hiểm nhân thọ
@@ -14,7 +15,6 @@ Khái niệm::
 | Hỗn hợp                     | Kết hợp giữa sinh kỳ và tử kỳ                                                                                                                   |                                                            |        |           |        |
 | Liên kết đầu tư             | Hỗn hợp + đầu tư (một số cái còn có cả trọn đời)                                                                                                |                                                            |        |           |        |
 | Hưu trí                     | Trước khi nghỉ hưu thì chỉ được trả tiền khi có bệnh hiểm nghèo, thương tật toàn bộ vĩnh viễn hoặc chết. Nghỉ hưu rồi thì mỗi năm được trả tiền |                                                            |        |           |        |
-Nguồn:: 
 
 ## Liên kết đầu tư
 | Các loại phí                       |            |

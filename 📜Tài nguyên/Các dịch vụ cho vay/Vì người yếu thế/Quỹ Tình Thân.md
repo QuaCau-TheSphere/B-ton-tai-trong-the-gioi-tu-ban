@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-10-09T20:47
+updated: 2024-11-04T15:13
 ---
 URL:: https://www.facebook.com/profile.php?id=100077601589557
 
@@ -18,3 +18,18 @@ Lần 1: 2tr
 
 [[Tài chính vi mô]]
 [CHƠI HỤI CỘNG ĐỒNG | Chung Sống 2024](https://www.chungsong.vn/choi-hui-cong-dong/)
+
+tỉ lệ mất tiền là 5%
+Đào tạo rất nhiều người thì mới tuyển được 12 người
+1 người cầm 6, 7 nhóm
+Kiến thức đào tạo: 
+- tiết kiệm tín dụng, chứ ko phải là tín dụng
+
+Không cho người nợ nần mượn. Còn cái 
+
+[[Tiết kiệm tín dụng nhóm bền vững hơn cho vay cá nhân khi có nhiều người vay]]
+
+
+Chỉ cho thành thị, ko cho mượn từ xa
+Thời hạn tùy cam kết là bao nhiêu
+Từ khi chờ theo nhóm thì 

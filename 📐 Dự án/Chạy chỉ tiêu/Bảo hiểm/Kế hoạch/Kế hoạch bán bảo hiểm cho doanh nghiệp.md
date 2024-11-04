@@ -1,19 +1,15 @@
 ---
 share: true
 created: 2024-10-09T20:39
-updated: 2024-10-11T14:53
+updated: 2024-11-02T22:35
+description: Thiết lập mối quan hệ với các CEO, kế toán, HR
 ---
-kế toán, hr, ceo
-
 ## Ý tưởng
+Xây dựng thương hiệu:
  - Mở các buổi workshop cho những người đứng đầu các tổ chức mới thành lập hoặc có quy mô nhỏ, làm các dự án dài hơi và đang có lời hoặc được cấp quỹ
-- Chia sẻ các tài nguyên trong C:
-    - Đăng bài trên LinkedIn  
+- Chia sẻ các tài nguyên trong C lên LinkedIn, Facebook, đặc biệt là các bài liên quan đến rủi ro hoặc bảo hiểm
 
-Nơi kiếm được những người như vậy:
-- Danh sách học viên MBA
-- CLB các doanh nghiệp: [CLB Doanh Nghiệp Việt Nam (VEC)](https://clbdoanhnghiepvietnam.com/thau-hieu-nhu-cau-ho-tro-doanh-nghiep-phat-trien-ben-vung/), ABG
-- Danh sách các công ty: [Danh sách 1000 doanh nghiệp nộp thuế TNDN nhiều nhất](https://mof.gov.vn/webcenter/portal/vclvcstc/pages_r/l/chi-tiet-tin?dDocName=MOFUCM248033)
-- Các trung tâm làm việc với nhiều doanh nghiệp: [Danh sách đơn vị kiểm định an toàn](https://ldt.vn/danh-sach-don-vi-kiem-dinh-an-toan/)
+Đến [[Những nơi giúp mở rộng mối quan hệ với doanh nghiệp]]. Khi đã có sự tin tưởng ở họ rồi thì hẹn họ ra nói chuyện để [[Xác định những cách mà người quản lý làm để tăng lòng trung thành của nhân viên]] và [[Xác định các rủi ro và thái độ đối với rủi ro và bảo hiểm ở người dân]]
 
-[[Kiếm khách]]
+[[Có vẻ như bán cho doanh nghiệp đem lại nhiều doanh thu nhất]]
+[[❓Ngay cả những người bán cho doanh nghiệp cũng làm vì có mối quan hệ với doanh nghiệp trước, chứ kiếm dữ liệu cũng không phải là cách chính]]

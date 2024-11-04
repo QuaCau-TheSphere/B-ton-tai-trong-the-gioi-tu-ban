@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2024-10-11T14:53
+updated: 2024-11-01T11:42
 ---
 Bài chi tiết: [[Làm đại lý bảo hiểm ảo]]
 ## Học 
@@ -15,8 +15,10 @@ Bài chi tiết: [[Làm đại lý bảo hiểm ảo]]
 
 ![[Lịch đào tạo Bảo Việt.png]]
 ## Làm quản lý ảo
-Họp thứ 3 hàng tuần
+- Sáng thứ 3 hàng tuần, họp cập nhật chính sách, được 100k. 4 người ngẫu nhiên sẽ bị gọi lên kiểm tra
+- Ngày đầu tiên mỗi tháng họp giao ban toàn công ty
 
+Xem thêm:: [[Thu nhập cho tư vấn viên]]
 ## Ghi chú
 - Một bài thi thử đạt từ 34 điểm sẽ được thưởng thêm 20k. Tối đa thưởng 200k.
 - Buổi tốt nghiệp sẽ ăn trưa ở nhà hàng và tặng một áo mưa

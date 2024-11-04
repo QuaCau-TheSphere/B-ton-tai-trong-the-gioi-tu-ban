@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:39
-updated: 2024-10-11T14:53
+updated: 2024-10-16T22:34
 ---
 Tiền công: 
 - Học: 2tr (trả vào ngày trả tiền của tháng làm việc đầu tiên)
@@ -23,3 +23,4 @@ Xem thêm:: [[New Star]]
 > [[Việc phải lên công ty hàng ngày khiến cho mình thấy ráng chạy thật sẽ có lợi hơn]], vì đằng nào cũng mất nửa ngày trên công ty, và cũng không đảm bảo các buổi chiều không phải làm. Nếu làm thì được nhiều tiền hơn. Hơn nữa, [[Chờ cho người khác chạy số cho mình sẽ bấp bênh vì họ phải chạy cho bản thân trước]]
 
 Tham khảo:: [[Tuyển dụng]], [[Làm đại lý bảo hiểm ảo]], [[Kiếm khách]]
+[[Kế hoạch tuyển người mới, tìm nguồn tuyển dụng]]

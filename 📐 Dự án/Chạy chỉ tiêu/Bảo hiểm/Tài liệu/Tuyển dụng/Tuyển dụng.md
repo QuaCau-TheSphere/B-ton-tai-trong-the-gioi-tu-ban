@@ -1,40 +1,49 @@
 ---
 share: true
+updated: 2024-10-30T13:58
 created: 2024-09-14T22:58
-updated: 2024-10-11T14:53
 alias: Kế hoạch tuyển dụng
 ---
 # Kế hoạch tuyển dụng đại lý bảo hiểm cho quản lý Cathay
+Tuyển người thực sự muốn làm vẫn tốt hơn tuyển ảo. Nếu muốn tuyển ảo, phải thực sự đảm bảo là mình chạy số được cho cả họ.
+
 ## Điều kiện và lợi ích giữa các bên
 Điều kiện tham gia:
 - Đi làm liên tục trong 3 tháng 
-- Vượt qua bài thi chứng chỉ
-- Không bán đứng nhóm
+- Học và vượt qua bài thi chứng chỉ
 
 ## Tập người thường thoả các điều kiện này
-- Người không có bằng đại học: người nghèo, mới ra trại lính hoặc tù
+Người cần một công việc:
+- Người có thu nhập trung bình, người nhập cư, di cư lên TPHCM
 
+Người cần một số tiền đột biến
+
+[[Nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]
+Nơi tiếp cận:
+- Sàn giao dịch việc làm, 
+- Trung tâm dạy nghề,
+- SocialLife, Thảo Đàn, IECD
+
+Người cần thời gian linh hoạt: 
+- bị bệnh hoặc có người thân bị bệnh
+
+Người thường bị gạt ra khi xin việc:
+- Người không có bằng đại học:
+- , mới ra trại lính hoặc tù
+
+| Đặc điểm | Nơi tiếp cận |
+| -------- | ------------ |
+|          |              |
+
+
+
+## Tập tưởng là phù hợp nhưng không
+- Người nghèo
+
+[[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
+[[Phạm Trường Sơn]]
 [[Giả thiết về nguồn tuyển dụng]]
 [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
+[[Kế hoạch tuyển người mới, tìm nguồn tuyển dụng]]
 
-
-
-
-kích thích cá nhân hoàn thành target trước thời hạn thông qua  thưởng
-ex target 3 hợp đồng, nhưng week 2th, a ra chương trình ai hoàn thành sớm sẽ được tặng 1tr chẳn hạn thì nó sẽ boost động lực sớm
-
-Nếu trong 3 tháng đầu không bán được hợp đồng thì sẽ được quản lý đẩy hợp đồng xuống cho mình này để đủ chỉ tiêu. Lúc này các đại lý dù có đi làm vẫn đóng vai như 1 acc ảo
-target (role như em vẫn sẽ được duy trì) → 
-họ cần đi học
-họ cũng cần làm sale, nhưng mà 3 tháng đầu họ được hỗ trợ đẩy số xuống rồi
-sau 3 tháng họ làm j kệ họ
-miễn là họ bên em 3 tháng là đủ
-em chỉ cần họ 3 tháng, số lượng rất lớn ra vào liên tục ko sao hết
-cứ tuyển, đào tạo , miễn là em có number of quân để duy trì role quản lý
-đó là luật chơi của họ, e chỉ cần maintain số lượng nhân sự dưới trướng monthly là đc
-
-20tr desc month cho việc tự (bán được 10tr tiền bảo hiểm + 3 hợp đồng bảo hiểm)
-10tr cho việc maintain 2 nhân sự dưới cấp
-10tr asc khi maintain số lượng nhận sự dưới cấp ⇄ Role của mình sẽ được tăng dựa trên số lượng own
-nên e mới nói, em ko cần care họ làm gì sau 3 tháng, họ chỉ cần join học chứng chỉ, hợp tác trong vòng 3 tháng để em maintain số lượng
-và em sẽ tuyển dụng liên tục sll
+[AIA](https://anyflip.com/tyfpi/vyzp/basic)

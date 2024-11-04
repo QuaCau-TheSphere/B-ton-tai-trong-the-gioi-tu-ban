@@ -4,33 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "b5644ea78bab623e",
+        "id": "e1c9e0e439b5c745",
         "type": "tabs",
         "children": [
           {
-            "id": "eb687f5ac698a7c9",
+            "id": "89e688cd0b5ea6c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Các dòng sản phẩm.md",
+                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Kiếm khách.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Kiếm khách"
             }
           },
           {
-            "id": "d6c9cec5dc6ba226",
+            "id": "bc38545426bdcafd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Mẫu CV ảo.md",
+                "file": "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng/3 tháng đầu vốn là để người mới vét cạn các mối quan hệ của mình.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3 tháng đầu vốn là để người mới vét cạn các mối quan hệ của mình"
+            }
+          },
+          {
+            "id": "74fc0e72508bb802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Quà tặng/Bảo hiểm/FWD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "FWD"
+            }
+          },
+          {
+            "id": "795097f605f4968c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Ξ Nguồn/Phạm Trường Sơn.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Phạm Trường Sơn"
             }
           }
         ],
@@ -54,7 +88,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -63,13 +99,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fyp",
+                "query": "porn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,15 +115,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "058d2be84526927e",
@@ -101,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Mẫu CV ảo.md",
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Di cư.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +149,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Di cư"
             }
           },
           {
@@ -118,10 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Mẫu CV ảo.md",
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Di cư.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Di cư"
             }
           },
           {
@@ -132,7 +176,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,8 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Mẫu CV ảo.md"
-              }
+                "file": "⚡Hiểu biết sâu/Kiếm tiền/Di cư.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Di cư"
             }
           }
         ]
@@ -159,51 +207,51 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "open-vscode:VSCode": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6c9cec5dc6ba226",
+  "active": "bc38545426bdcafd",
   "lastOpenFiles": [
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/An Khang Hạnh Phúc thì nhiều quyền lợi hơn. An Phát Cát Tường thời gian đóng phí ngắn hơn.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Các dòng sản phẩm.md",
-    "📐 Dự án/Chạy chỉ tiêu/Tài liệu/Mẫu CV ảo.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Tìm người mua bảo hiểm xe máy.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Kiếm khách.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Danh sách các khách hàng tiềm năng cần tiếp cận.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Cần giữ kín việc cắt máu, vì luật cấm trích hoa hồng để giảm giá.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Tuyển ảo.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Tránh bị phát hiện.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Prudential.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Cathay/New Star.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng/Thưởng ban đầu là để người mới chưa có gì tìm được nguồn khách hàng. Đó cũng là cách công ty mua dữ liệu.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng/Khách hàng có quyền được nợ phí 60 ngày, nhưng công ty lại ra thưởng để khách đóng đúng kỳ.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng/Hoa hồng các năm đầu cao, các năm sau thấp.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng/3 tháng đầu vốn là để người mới vét cạn các mối quan hệ của mình.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng ban đầu là để người mới chưa có gì tìm được nguồn khách hàng. Đó cũng là cách công ty mua dữ liệu.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng, hoa hồng/Khách hàng có quyền được nợ phí 60 ngày, nhưng công ty lại ra thưởng để khách đóng đúng kỳ.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng, hoa hồng/Thưởng ban đầu là để người mới chưa có gì tìm được nguồn khách hàng. Đó cũng là cách công ty mua dữ liệu.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng, hoa hồng/3 tháng đầu vốn là để người mới vét cạn các mối quan hệ của mình.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng, hoa hồng/Hoa hồng các năm đầu cao, các năm sau thấp.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng, hoa hồng",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/New folder",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Hoa hồng các năm đầu cao, các năm sau thấp.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Hoa hồng các năm đầu cao, các năm sau thấp.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Khách hàng có quyền được nợ phí 60 ngày, nhưng công ty lại ra thưởng để khách đóng đúng kỳ.md",
     "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Cathay.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Bảo Việt.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển dụng.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Khi nào thì việc đi bán bảo hiểm phù hợp với một người.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Kiếm khách.md",
     "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Ξ Kết quả truyền thông.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Lời mời tham gia nhóm chạy chỉ tiêu cho nhân viên.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Chạy chỉ tiêu.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng/Xác định những cách mà người quản lý làm để tăng lòng trung thành của nhân viên.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng/Nghiên cứu người dùng.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng/Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng/Phỏng vấn người làm phi lợi nhuận.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/Kế hoạch.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/Kế hoạch tuyển người mới.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/Kế hoạch bán bảo hiểm cho doanh nghiệp.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Giả thiết/Bảo hiểm/Giả thiết về nguồn tuyển dụng.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Giả thiết/Bảo hiểm/Giả thiết về tỉ lệ chuyển đổi.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Giả thiết/Bảo hiểm/Giả thiết về nguồn khách hàng tiềm năng.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Giả thiết/Bảo hiểm",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Giả thiết",
-    "📐 Dự án/Chạy chỉ tiêu/Mã QR ví điện tử/Quẹt dơ",
-    "📐 Dự án/Chạy chỉ tiêu/Mã QR ví điện tử",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Cathay/Có thể hỏi thông tin bất kỳ người nào trong văn phòng.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Cathay/TUM.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng/~syncthing~Xác định nhu cầu bảo hiểm của người thân, hàng xóm của người khuyết tật và người bị ung thư.md.tmp",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/~syncthing~Kế hoạch bán bảo hiểm cho cá nhân.md.tmp",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/~syncthing~Kiếm khách.md.tmp",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/Kế hoạch bán bảo hiểm cho cá nhân.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Cộng tác viên khuyết tật.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Nhân thọ.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Kết nối nhu cầu di chuyển của người khuyết tật.md",
+    "📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm.md",
+    "⚡Hiểu biết sâu/Ξ Nguồn/~syncthing~Phạm Trường Sơn.md.tmp",
+    "⚡Hiểu biết sâu/Ξ Nguồn/~syncthing~Phạm Trường Sơn.sync-conflict-20241103-231100-HVOE7P3.md.tmp",
+    "⚡Hiểu biết sâu/Ξ Nguồn/~syncthing~Phạm Trường Sơn.sync-conflict-20241103-231035-HVOE7P3.md.tmp",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/~syncthing~Nhóm cộng tác viên cho đại lý bảo hiểm.md.tmp",
     "Ξ Thiết lập/Ảnh/Excalidraw/Bảo hiểm/Nguyên tắc hoạt động.excalidraw.png",
     "Ξ Thiết lập/Ảnh/Excalidraw/Nguyên tắc hoạt động.excalidraw.png",
     "Ξ Thiết lập/Ảnh/4675729081308532669.jpeg",

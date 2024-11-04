@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-10-06T20:31
+updated: 2024-11-04T15:12
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
@@ -42,7 +42,7 @@ Giờ thì khoẻ, ổng mới mệt.
 Nghèo đa chiều, ko phải là VN không ai chết đói, chỉ là nghèo đa chiều.
 Ba anh còn từng đưa người nghèo ra nước ngoài. Hát ko phải là vui, vì đó là cách giải quyết của họ. Ko tiếp cận được yoga, chánh niệm. Người làng mai chưa chắc là giàu. 
 làm với người nghèo kinh doanh ko đc đâu
-NHCSXH cũng là từ thiện, ko có sao kê. Chỉ có VN mới có mặt trận tổ quốc xã hội. nghị định 93 thiên tai baolãaox lũ, khẩn cấp thì phải giao về mặt trận tô ổquoocs
+[[Ngân hàng Chính sách xã hội cũng là từ thiện]], ko có sao kê. Chỉ có VN mới có mặt trận tổ quốc xã hội. nghị định 93 thiên tai bão lũ, khẩn cấp thì phải giao về mặt trận tổ quốc
 Người mượn quỹ CEP 
 
 Nếu họ có bằng đại học và trên 26 tuổi thì càng tốt. Nếu họ không muốn đi bán hợp đồng thì họ sẽ được đẩy hợp đồng xuống và được trả thù lao 10 tr/tháng. Cơ bản thì đây là một hình thức tuyển dụng đại lý ảo đã có từ lâu và em thấy có lợi cho tất cả các bên. Qua thảo luận thì em thấy những người có tiềm năng tham gia nhất là những người nghèo. Anh nghĩ sao về điều này?
@@ -70,7 +70,7 @@ Anh nghĩ gì về ý tưởng này?
 - Anh đã tìm cách đáp ứng những nhu cầu đó thế nào?
 - Anh có khó khăn gì trong việc đáp ứng chúng?
 
-SNPO không tổ chức gì nữa, mọi người tự liên kết vosơvoiwhau do , ko còn nhu cầu thúc đẩy majgn lưới. Chị Hằng bình dương ca hát tá lả, 3, 4 lần gây quỹ rồi nghỉ
+SNPO không tổ chức gì nữa, mọi người tự liên kết với nhau, do ko còn nhu cầu thúc đẩy mạng lưới. Chị Hằng bình dương ca hát tá lả, 3, 4 lần gây quỹ rồi nghỉ
 
 ### Hiểu được thái độ tiếp nhận vault kiếm tiền và các tài nguyên khác
 - [[Giúp nhau thoát nợ]]
@@ -85,4 +85,13 @@ LIST
 WHERE contains(hỏi-thêm, [[]])
 ```
 
-- Các nhóm xã hội như bọn anh lấy tiền từ đâu? Bà Tôn Nữ Thị Ninh
+## Phân biệt nghèo, cận nghèo, thu nhập trung bình có ý nghĩa gì? Mindset sẽ khác nhau? 
+Có phải tất cả những người nghèo đa chiều đều có tư duy giống như trong sách? 
+Khi hết nghèo rồi thì người ta có thay đổi tư duy hay ko? 
+Những nhà ở khu vực đó anh thấy vẫn nghèo ntn
+Người nghèo ko tham gia dịch vụ công dù nhu cầu sức khoẻ rất lớn
+
+## Vẫn có những tổ chức hoạt động không phụ thuộc vào MTTQ, như Thảo Đàn, IECD, MLUTV hoạt động được vì nhỏ. Ở mức độ nào mới bị để ý?Vì như các nhóm của bà Tôn Nữ Thị Ninh thì thế nào mà chẳng biết?
+
+## Vì sao không ai tương tác? Vì sao anh like?
+## Tại sao ba anh không tập trung giải quyết nghèo cho một hộ cụ thể?

@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-10-05T16:10
 alias: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 description: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
+updated: 2024-11-02T14:13
 ---
 # Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 - Tình hình nợ hiện nay thế nào? Các khoản nợ, lãi và thời hạn trả của chúng, v.v.
@@ -16,3 +16,8 @@ description: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 
 [[Tặng đồ đạc, thức ăn]]
 **Mục tiêu: cắt hết lãi**
+[[Lời mời xây dựng một startup]]
+[[Việt Nam không ai chết đói, chỉ có nghèo đa chiều]]
+
+[[Cho vay lấy lãi]]
+[[Huy động nguồn tiền nhàn rỗi]]
