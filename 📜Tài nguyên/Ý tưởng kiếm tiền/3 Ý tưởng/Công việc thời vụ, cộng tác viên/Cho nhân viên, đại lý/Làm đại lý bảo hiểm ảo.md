@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-30T15:19
+updated: 2024-11-12T10:56
 alias: Làm tư vấn viên bảo hiểm ảo
 ---
 Yêu cầu đầu vào:: [[Sắp xếp theo lịch được cho trước]]
@@ -10,7 +10,7 @@ Hình thức:: [[Việc làm thời vụ, theo dự án]]
 Đại lý ảo tức là có đại lý thật khác đẩy doanh số cho bạn, như thể bạn là người tạo ra doanh số đó. Hay nói cách khác thì bạn sẽ làm một danh tính khác của họ. Làm như vậy thì họ sẽ có thêm chỉ tiêu về tuyển dụng mới. Công ty bảo hiểm sẽ trả tiền cho bạn để khuyến khích bạn đi học, và bạn được hưởng toàn bộ quyền lợi như một người làm thật khi doanh số của bạn đạt (vốn là do đại lý thật đẩy cho), như được tặng gói bảo hiểm (không phải bảo hiểm xã hội), vé đi du lịch, v.v.
 
 Đây là một số công ty có đại lý thật muốn tuyển đại lý ảo mà bọn mình biết:
-- [[Bảo Việt]]
+- [[📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Bảo Việt]]
 - [[Prudential]]
 
 

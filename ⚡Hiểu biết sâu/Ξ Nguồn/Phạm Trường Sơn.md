@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-04T15:12
+updated: 2024-11-10T21:11
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
@@ -95,3 +95,4 @@ Người nghèo ko tham gia dịch vụ công dù nhu cầu sức khoẻ rất l
 
 ## Vì sao không ai tương tác? Vì sao anh like?
 ## Tại sao ba anh không tập trung giải quyết nghèo cho một hộ cụ thể?
+Làm sao có thể huy động tiền vốn để có thể cho vay vi mô? Gõ cửa từng nhà?

@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2024-09-14T11:04
-updated: 2024-11-04T14:13
-alias: Lý do trì hoãn, lý do chưa muốn mua bảo hiểm
+updated: 2024-11-06T01:20
+alias: Lý do trì hoãn, lý do chưa muốn mua bảo hiểm, tại sao không mua
 ---
 ## Không cần
 > [!question] Thấy còn khoẻ
@@ -23,12 +23,16 @@ alias: Lý do trì hoãn, lý do chưa muốn mua bảo hiểm
 ## Không tiền
 > [!question] Tiền ăn chưa có lấy đâu ra
 > Thực ra mình chắc chắn sẽ không chết đói. Nếu người kiếm tiền chính trong nhà gặp rủi ro thì ai lo cho những người còn lại?
+> [[Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]]
+> nghĩ giữa 2 tháng và 3 tháng
+> khi cần gấp 1 tỷ mà có ngay 500tr
+> tự động trích
 
 > [!question] Tiền dư đang dùng để kinh doanh nên không lấy ra được
 
 ## Không tin
 > [!question] Thủ tục phức tạp, bỏ vào dễ lấy ra khó
->Vậy vấn đề không phải là không tham gia bảo hiểm, mà là chọn bên nào không làm khó mình. [[Các bên cung cấp dịch vụ phụ trợ bảo hiểm đảm bảo là doanh nghiệp bảo hiểm không làm khó mình để từ chối]].
+> Vậy vấn đề không phải là không tham gia bảo hiểm, mà là chọn bên nào không làm khó mình. [[Các bên cung cấp dịch vụ phụ trợ bảo hiểm đảm bảo là doanh nghiệp bảo hiểm không làm khó mình để từ chối]].
 
 > [!question] Không có lời bằng việc đầu tư
 

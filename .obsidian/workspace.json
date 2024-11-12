@@ -4,67 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c9e0e439b5c745",
+        "id": "7517bd439b8c7b59",
         "type": "tabs",
         "children": [
           {
-            "id": "89e688cd0b5ea6c8",
+            "id": "0d6493f2dcaf9aef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Kiếm khách.md",
+                "file": "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/An Tâm Học Vấn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kiếm khách"
+              "title": "An Tâm Học Vấn"
             }
           },
           {
-            "id": "bc38545426bdcafd",
+            "id": "d1e03c0a44709adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng/3 tháng đầu vốn là để người mới vét cạn các mối quan hệ của mình.md",
+                "file": "📜Tài nguyên/Xây dựng thương hiệu, mở rộng mối quan hệ/Xây dựng thương hiệu trên MXH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3 tháng đầu vốn là để người mới vét cạn các mối quan hệ của mình"
-            }
-          },
-          {
-            "id": "74fc0e72508bb802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Quà tặng/Bảo hiểm/FWD.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "FWD"
-            }
-          },
-          {
-            "id": "795097f605f4968c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Ξ Nguồn/Phạm Trường Sơn.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Phạm Trường Sơn"
+              "title": "Xây dựng thương hiệu trên MXH"
             }
           }
         ],
@@ -120,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,44 +183,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc38545426bdcafd",
+  "active": "d1e03c0a44709adf",
   "lastOpenFiles": [
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Cathay/New Star.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng/Thưởng ban đầu là để người mới chưa có gì tìm được nguồn khách hàng. Đó cũng là cách công ty mua dữ liệu.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng/Khách hàng có quyền được nợ phí 60 ngày, nhưng công ty lại ra thưởng để khách đóng đúng kỳ.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng/Hoa hồng các năm đầu cao, các năm sau thấp.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng/3 tháng đầu vốn là để người mới vét cạn các mối quan hệ của mình.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Thưởng, hoa hồng",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng ban đầu là để người mới chưa có gì tìm được nguồn khách hàng. Đó cũng là cách công ty mua dữ liệu.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng, hoa hồng/Khách hàng có quyền được nợ phí 60 ngày, nhưng công ty lại ra thưởng để khách đóng đúng kỳ.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng, hoa hồng/Thưởng ban đầu là để người mới chưa có gì tìm được nguồn khách hàng. Đó cũng là cách công ty mua dữ liệu.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng, hoa hồng/3 tháng đầu vốn là để người mới vét cạn các mối quan hệ của mình.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng, hoa hồng/Hoa hồng các năm đầu cao, các năm sau thấp.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Thưởng, hoa hồng",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/New folder",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Hoa hồng các năm đầu cao, các năm sau thấp.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Hoa hồng các năm đầu cao, các năm sau thấp.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Khách hàng có quyền được nợ phí 60 ngày, nhưng công ty lại ra thưởng để khách đóng đúng kỳ.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Cathay.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Khi nào thì việc đi bán bảo hiểm phù hợp với một người.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Kiếm khách.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Ξ Kết quả truyền thông.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Cathay/Có thể hỏi thông tin bất kỳ người nào trong văn phòng.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Cathay/TUM.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Nghiên cứu người dùng/~syncthing~Xác định nhu cầu bảo hiểm của người thân, hàng xóm của người khuyết tật và người bị ung thư.md.tmp",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/~syncthing~Kế hoạch bán bảo hiểm cho cá nhân.md.tmp",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/~syncthing~Kiếm khách.md.tmp",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Kế hoạch/Kế hoạch bán bảo hiểm cho cá nhân.md",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/Cộng tác viên khuyết tật.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Nhân thọ.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Loại hình bảo hiểm/Nhân thọ/Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Gia công giải pháp/Kết nối nhu cầu di chuyển của người khuyết tật.md",
-    "📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm.md",
-    "⚡Hiểu biết sâu/Ξ Nguồn/~syncthing~Phạm Trường Sơn.md.tmp",
-    "⚡Hiểu biết sâu/Ξ Nguồn/~syncthing~Phạm Trường Sơn.sync-conflict-20241103-231100-HVOE7P3.md.tmp",
-    "⚡Hiểu biết sâu/Ξ Nguồn/~syncthing~Phạm Trường Sơn.sync-conflict-20241103-231035-HVOE7P3.md.tmp",
-    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Kiếm khách/~syncthing~Nhóm cộng tác viên cho đại lý bảo hiểm.md.tmp",
+    "📜Tài nguyên/Xây dựng thương hiệu, mở rộng mối quan hệ/Những nơi giúp mở rộng mối quan hệ với doanh nghiệp.md",
+    "📜Tài nguyên/Xây dựng thương hiệu, mở rộng mối quan hệ",
+    "📜Tài nguyên/Xây dựng thương hiệu, mở rộng mối quan hệ/Xây dựng thương hiệu trên MXH.md",
+    "📐 Dự án/Chạy chỉ tiêu/Đứng ra ngồi cùng với người khác chứ không phải chỉ là giới thiệu.md",
+    "📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Bảo hiểm.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Tiền trưởng nhóm/Tiền trưởng nhóm.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Bảo Việt.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Cathay/Văn hoá.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Quyền lợi cơ bản và quyền lợi vượt trội.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Quyền lợi cơ bản và quyền lợi vượt trội.sync-conflict-20241112-104531-HVOE7P3.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/~syncthing~Quyền lợi cơ bản và quyền lợi vượt trội.md.tmp",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/An Tâm Học Vấn.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/An Khang Hạnh Phúc thì nhiều quyền lợi hơn. An Phát Cát Tường thời gian đóng phí ngắn hơn.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/An Phát Hưng Gia, An Phát Gia Lộc, An Phát Trọn Đời.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Hội nghị.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Untitled",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Cục chỉ cho mở lớp khi đủ người.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Tiền trưởng nhóm/Tiền trưởng nhóm.sync-conflict-20241112-101634-LDHXXXZ.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Tiền trưởng nhóm/~syncthing~Tiền trưởng nhóm.sync-conflict-20241112-101634-LDHXXXZ.md.tmp",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Đại lý/Đại lý.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Bảo Việt/Bình quân hợp đồng của một người là 14.3tr. Ở TPHCM là 24.7tr.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Tiền trưởng nhóm/Thưởng cho tiền trưởng nhóm.sync-conflict-20241112-094622-LDHXXXZ.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Tiền trưởng nhóm/~syncthing~Thưởng cho tiền trưởng nhóm.sync-conflict-20241112-094622-LDHXXXZ.md.tmp",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Tiền trưởng nhóm/Trong 3 tháng đầu, tiền trưởng nhóm được 15% trên tổng hoa hồng của tư vấn viên.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Chính sách đại lý và quản lý của Bảo Việt.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/~syncthing~Chính sách đại lý và quản lý của Bảo Việt.md.tmp",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Tiền trưởng nhóm/Trong 3 tháng đầu, tiền trưởng nhóm được thưởng gấp đôi số thưởng cho tư vấn viên.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Đại lý/Năng suất quý.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Đại lý/Năng suất quý.sync-conflict-20241112-094437-LDHXXXZ.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Đại lý/Thu nhập cho tư vấn viên.sync-conflict-20241112-094436-LDHXXXZ.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Đại lý/Năng suất tháng chỉ có nếu tháng trước có hoạt động.sync-conflict-20241112-094436-LDHXXXZ.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Đại lý/~syncthing~Năng suất quý.sync-conflict-20241112-094437-LDHXXXZ.md.tmp",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Đại lý/~syncthing~Thu nhập cho tư vấn viên.sync-conflict-20241112-094436-LDHXXXZ.md.tmp",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Đại lý/~syncthing~Năng suất tháng chỉ có nếu tháng trước có hoạt động.sync-conflict-20241112-094436-LDHXXXZ.md.tmp",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Thưởng cho tiền trưởng nhóm.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Đại lý và quản lý/Bảo Việt/Đại lý",
     "Ξ Thiết lập/Ảnh/Excalidraw/Bảo hiểm/Nguyên tắc hoạt động.excalidraw.png",
     "Ξ Thiết lập/Ảnh/Excalidraw/Nguyên tắc hoạt động.excalidraw.png",
     "Ξ Thiết lập/Ảnh/4675729081308532669.jpeg",

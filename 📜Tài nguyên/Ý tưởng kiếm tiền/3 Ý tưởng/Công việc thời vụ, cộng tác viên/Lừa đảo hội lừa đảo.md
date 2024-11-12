@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-27T16:34
+updated: 2024-11-04T22:00
 ---
 Yêu cầu đầu vào:: [[Biết cách ẩn danh]]
 Hình thức:: [[Việc làm thời vụ, theo dự án]]
@@ -16,3 +16,5 @@ Những hình thức lừa đảo trên telegram xưa giờ là không mới. G�
 
 [Tuyển dụng online lừa đảo người tìm việc - Kỳ 1: Mất hơn trăm triệu vẫn không có việc - Tuổi Trẻ Online](https://tuoitre.vn/tuyen-dung-online-lua-dao-nguoi-tim-viec-ky-1-mat-hon-tram-trieu-van-khong-co-viec-20230829101044997.htm)
 [Bẫy tuyển dụng online lừa đảo người tìm việc - Kỳ 2: Chiêu trò lừa đảo trên Telegram - Tuổi Trẻ Online](https://tuoitre.vn/bay-tuyen-dung-online-lua-dao-nguoi-tim-viec-ky-2-chieu-tro-lua-dao-tren-telegram-2023083010523942.htm)
+
+https://chongluadao.vn/ https://www.facebook.com/chongluadao.vn

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-27T09:55
-updated: 2024-11-02T23:20
+updated: 2024-11-08T21:30
 ---
 ## Mục tiêu nghiên cứu
 - Hiểu được nhu cầu của họ, xem có thể cho giá trị nào không
@@ -29,3 +29,5 @@ Bởi vì [[Bộ não được thiết kế để loại bỏ mối nguy hiểm 
 ### Bạn có nghĩ mua bảo hiểm là tốt cho bạn không?
 
 ### Bạn đã có bảo hiểm chưa? Nếu chưa thì điều gì khiến bạn chưa mua bảo hiểm?
+
+### Bạn biết tới những ai có những rủi ro như vậy? 

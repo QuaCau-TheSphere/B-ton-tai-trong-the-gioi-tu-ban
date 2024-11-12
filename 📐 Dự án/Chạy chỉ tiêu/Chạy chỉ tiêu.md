@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2024-10-29T19:33
+updated: 2024-11-06T11:21
 alias:
   - Nhóm chạy chỉ tiêu (KPI) cho nhân viên
   - Nhóm thuê ngoài (outsource) cho nhân viên
@@ -26,6 +26,8 @@ Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI) cho nhân vi�
 
 Xem thêm:: [[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]
 Bài chi tiết:: [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân viên]]
+
+Làm công ty sớm thấy năng lực của Nhật để hoãn chỉ tiêu
 
 Cộng đồng làm nhiều công ty cùng lúc bằng tiếng Anh:
 - [Overemployed](https://www.reddit.com/r/overemployed/)

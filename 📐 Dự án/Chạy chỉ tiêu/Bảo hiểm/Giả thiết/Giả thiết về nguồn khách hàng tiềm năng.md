@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-10-05T14:45
-updated: 2024-10-31T19:29
+updated: 2024-11-05T21:01
 ---
 [[Kế hoạch bán bảo hiểm cho cá nhân]]
-[[Nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]
+[[Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]
 
 Người quản lý các tổ chức sau:
 - Phòng R&D

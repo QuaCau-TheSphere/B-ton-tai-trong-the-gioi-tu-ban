@@ -1,11 +1,14 @@
 ---
 share: true
 created: 2024-09-27T13:00
-updated: 2024-11-02T12:59
+updated: 2024-11-08T22:25
 ---
 Nhân viên bán hàng của các công ty thường được áp đặt chỉ tiêu (KPI). Khi các công ty, tập đoàn đặt việc tối đa hoá lợi nhuận lên hàng đầu, [[Công ty thấy việc trả lương là đã đủ để nhân viên phải cống hiến cho mình|họ sẽ thấy việc trả lương là đã đủ để nhân viên phải cống hiến cho mình]], và áp đặt các chỉ tiêu (KPI) hằng tháng, và dùng hoa hồng để tạo động lực. Bởi vì, [[việc khai thác điểm yếu của con người đem lại lợi nhuận]], nên các nhân viên bán hàng được đào tạo với các tình huống khác nhau để gỡ bỏ sự từ chối. Nên để kiếm được đồng tiền, họ không còn cách nào khác là từ bỏ vai trò là người nâng đỡ suy nghĩ lý tính của khách hàng nữa, mà chỉ còn [[Người bán hàng giống như giao diện giọng nói của một cái máy hơn là một con người thật|giao diện giọng nói của một cái máy hơn là một con người thật]]. Và họ phải xem điều mình làm [[Bán hàng bằng sự sợ hãi, nhưng lại xem đó là giọt mồ hôi quý giá|là giọt mồ hôi quý giá, là ý nghĩa của việc lao động]].
 
-Để giải quyết vấn đề cho cả khách hàng và nhân viên, nhóm chạy chỉ tiêu cho nhân viên này sẽ cung cấp các kiến thức, nguồn lực để việc kiếm tiền đỡ phải chật vật hơn. Nhóm cam kết không khai thác cảm xúc của bạn và tạo gánh nặng trong việc xử lý thông tin, mà chỉ muốn nâng đỡ suy nghĩ lý tính của bạn, để lựa chọn của bạn là lựa chọn bạn thấy thực sự hữu ích. Bọn mình không sợ bạn từ chối, và vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của bạn. Vì bản chất nhóm này đã được sinh ra từ việc đó.
+Để giải quyết vấn đề cho cả khách hàng và nhân viên, bọn mình sẽ:
+- Đứng về phía người yếu thế
+- Cung cấp các kiến thức, nguồn lực để việc kiếm tiền đỡ phải chật vật hơn. Xây dựng hệ thống thông tin để hạn chế tình trạng bát nháo, ém thông tin nhất có thể
+- [[Chạy chỉ tiêu|Kế hoạch]] công khai nhất có thể
 
 Nhóm này có thể có nhiều cái tên khác nhau:
 - Nhóm chạy chỉ tiêu (KPI) cho nhân viên
@@ -13,11 +16,15 @@ Nhóm này có thể có nhiều cái tên khác nhau:
 - Nhóm cộng tác viên, trợ lý cho nhân viên
 - Nhóm nhân viên ảo
 - Nhóm môi giới cho khách hàng
- 
-## Khác biệt với các hội nhóm giúp nhau khác thế nào?
-- Không tập trung vào một nhu cầu
-- Xây dựng hệ thống thông tin liên quan tới việc kiếm tiền, hạn chế tình trạng bát nháo, ém thông tin nhất có thể
-- [[Chạy chỉ tiêu|Kế hoạch]] công khai nhất có thể
+
+Nhóm cam kết không khai thác cảm xúc của bạn và tạo gánh nặng trong việc xử lý thông tin, mà chỉ muốn nâng đỡ suy nghĩ lý tính của bạn, để lựa chọn của bạn là lựa chọn bạn thấy thực sự hữu ích. Bọn mình không sợ bạn từ chối, và vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của bạn. Vì bản chất nhóm này đã được sinh ra từ việc đó.
+
+## Bạn có thể giúp gì? 
+- Cho bọn mình biết điểm bạn thấy khó hiểu hoặc không hợp lý để bọn mình giải thích tốt hơn hoặc chỉnh sửa
+- Mua sản phẩm nếu chúng đáp ứng nhu cầu của bạn. Bài chi tiết: [[📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm|Tại sao nên mua bảo hiểm từ Quả Cầu?]]
+- Trở thành một người bạn với những người xung quanh, lắng nghe những nhu cầu của họ rồi xem chúng có phù hợp với Quả Cầu hay không
+- Tìm người cần kiếm việc làm và xem việc [[Làm đại lý bảo hiểm ảo]] có phù hợp cho họ không
+- Tham gia xây dựng để hệ thống thông tin được hoàn thiện hơn
 
 ## Bạn được gì khi tham gia?
 - Mạng lưới kết nối nhu cầu

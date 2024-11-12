@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-11T10:51
-updated: 2024-11-01T12:08
+updated: 2024-11-12T09:44
 alias: thưởng tvv
 ---
 ## Hoa hồng
@@ -12,7 +12,7 @@ alias: thưởng tvv
 | ------------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
 | Vinh danh hoạt động | <li>500k</li><li>1tr</li>            | <li>2</li><li>3</li>                                                                                            |
 | Năng suất tháng     | <li>10%</li><li>15%</li><li>18%</li> | <li>IP tháng này 12tr</li><li>IP tháng này 24tr</li><li>IP tháng này 50tr</li> và IP tháng trước tối thiểu 2 tr |
-| Năng suất quý       | 24, 60, 90, 150, 250, 350, 500       |                                                                                                                 |
+| Năng suất quý       |                                      |                                                                                                                 |
 | TVV mới             | Tháng 1tr, chặng 3tr                 |                                                                                                                 |
 | Quà tặng hội nhập   |                                      |                                                                                                                 |
 | Đồng hành Sao Việt  |                                      | 10 tháng                                                                                                        |

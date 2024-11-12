@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2024-09-17T11:13
-updated: 2024-11-04T19:12
+updated: 2024-11-05T21:01
 alias: bán bảo hiểm, thu hút khách hàng
 description: Cam kết không khai thác cảm xúc của họ, mà chỉ muốn nâng đỡ lý tính họ
 ---
 # Thu hút khách hàng mua bảo hiểm
 ## Khách hàng tiềm năng
 - [[Những nơi giúp mở rộng mối quan hệ với doanh nghiệp]]
-- [[Nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]
+- [[Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]
 
 ## Công việc 
 Kiểm tra [[Giả thiết về tỉ lệ chuyển đổi]]
@@ -17,7 +17,6 @@ Kiểm tra [[Giả thiết về tỉ lệ chuyển đổi]]
 [[Kế hoạch bán bảo hiểm cho cá nhân]]
 ### Làm cho khách hàng tin mình
 Cam kết không khai thác cảm xúc của họ và tạo gánh nặng trong suy nghĩ, mà chỉ muốn nâng đỡ lý tính họ. Làm cho họ thấy mình không sợ họ từ chối, và kể cả từ chối thì mình vẫn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của họ.
-
 
 ### Quà tặng khi mua
 - Mạng lưới kết nối nhu cầu

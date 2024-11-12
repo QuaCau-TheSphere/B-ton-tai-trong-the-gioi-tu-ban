@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-11-02T21:11
-updated: 2024-11-04T15:29
+updated: 2024-11-05T21:01
 ---
-Các cộng tác viên là những người sống trong [[Nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc|các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]. Họ có thể là:
+Các cộng tác viên là những người sống trong [[Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc|các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]. Họ có thể là:
 - Các công nhân, nhân viên của các nhà máy, xí nghiệp có các thiết bị dễ gây tai nạn, hoặc người dân sống xung quanh, hoặc người thân, bạn bè của họ
 - Những người làm trong các đơn vị chuyên xử lý rủi ro cho bên khác hoặc các khách hàng của họ
 - Nhân viên y tế
@@ -32,3 +32,4 @@ Người không quan tâm đến điều tốt cho người khác thì xem tiề
 Người quan tâm đến điều tốt cho người khác thì xem tiền là xấu, hoặc chỉ cần ở mức độ đủ để có sự thảnh thơi trong tâm trí
 
 [[Cộng tác viên khuyết tật]]
+[[Khi nào thì việc đi bán bảo hiểm phù hợp với một người]]

@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-09-13T23:29
-updated: 2024-09-17T11:38
+updated: 2024-11-04T21:52
 alias:
   - Bảo hiểm nhân thọ xoay quanh tỉ lệ tử vong và quản lý dòng tiền trong thời gian dài
-  - Nảo hiểm phi nhân thọ tập trung vào tần suất, mức độ tổn thất khi xảy ra rủi ro, và tính toán dự phòng
+  - Bảo hiểm phi nhân thọ tập trung vào tần suất, mức độ tổn thất khi xảy ra rủi ro, và tính toán dự phòng
 ---
 Khái niệm:: 
 

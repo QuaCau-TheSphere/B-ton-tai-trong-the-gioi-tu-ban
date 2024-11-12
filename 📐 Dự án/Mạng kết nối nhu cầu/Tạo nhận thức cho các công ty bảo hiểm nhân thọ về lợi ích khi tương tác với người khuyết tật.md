@@ -1,0 +1,48 @@
+---
+share: true
+created: 2024-11-09T00:04
+updated: 2024-11-09T21:52
+---
+> [''Mong muốn lớn nhất của một người là được thấy mình có ích''](https://www.drdvietnam.org/vi/tin-bon-phuong/18874-mong-muon-lon-nhat-cua-mot-nguoi-la-duoc-thay-minh-co-ich.html) 
+> — Võ Hoàng Yến
+
+Ý tưởng cơ bản của bảo hiểm nhân thọ là nếu mình gặp tai nạn dẫn tới thương tật vĩnh viễn, hoặc bị ung thư, hoặc chết, thì mình và người thân của mình sẽ được trả một số tiền lớn. [[Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro|Nó hoạt động bằng việc phân tán rủi ro: số đông may mắn bù cho số ít xui xẻo]]. Đây là một loại dịch vụ có ích cho con người.
+
+Theo [Thông cáo báo chí về kết quả điều tra Người khuyết tật năm 2023](https://www.gso.gov.vn/tin-tuc-thong-ke/2024/11/thong-cao-bao-chi-ve-ket-qua-dieu-tra-nguoi-khuyet-tat-nam-2023/) của Tổng cục Thống kê Việt Nam, chỉ có [[Tỷ lệ người khuyết tật tham gia lực lượng lao động là 23,9%, thấp hơn 53,5 điểm phần trăm so với người không khuyết tật (77,4%)|chỉ có 24% NKT tham gia lao động, so với 77% người không khuyết tật tham gia lao động]]. Trong khi đó, họ lại khát khao thấy được mình là người có ích, có thể sống độc lập. Việc không đáp ứng được nhu cầu này thể hiện sự thất bại của thị trường.
+
+Đứng ở góc nhìn cho người khuyết tật (NKT) một công việc tốt và thúc đẩy sự đa dạng thì mình thấy không có lý do gì để NKT không nên đi bán bảo hiểm. Có những bạn khuyết tật học ngành bảo hiểm vẫn làm bảo hiểm. Nếu họ đi bán với tâm thế và thái độ là một người bán như bao nhiêu người bán bảo hiểm khác, thì họ vẫn sẽ tạo được thiện cảm với khách hàng thôi. Chưa kể, chính sự khuyết tật của họ cũng trở thành lợi thế, khi khách hàng tiềm năng vì thấy được khuyết tật của họ và nghe được câu chuyện của họ mà thấy bảo hiểm là cần thiết. Tương tự, những người thân, bạn bè, hàng xóm của họ, vì đã chứng kiến được cuộc sống của họ thế nào, nên trong họ đã có sẵn mong muốn được bảo vệ bản thân trước các tai nạn không mong muốn. 
+
+Nếu giả định trên là đúng, thì việc không hỗ trợ NKT là sự thiệt thòi của các công ty bảo hiểm về mặt lợi nhuận. 
+
+Các công ty bảo hiểm hay có các sự kiện để thu hút khách hàng tiềm năng, như các giải chạy, các buổi tiệc ăn uống, xem phim miễn phí. Tuy nhiên tỉ lệ NKT tham gia vào còn thấp, nếu không muốn nói là không có. Mình nghĩ nếu có thêm sự tương tác giữa NKT và các công ty thì sẽ có thêm lợi ích cho cả hai.
+
+## Lợi ích với NKT
+- NKT có thêm một hoạt động thú vị, ý nghĩa trong cuộc sống miễn phí (tất nhiên sẽ phải có một chút quảng cáo và tương tác với đại lý)
+- NKT có thêm cơ hội việc làm
+- Các tổ chức hỗ trợ NKT cũng có thể dùng việc bán bảo hiểm như một cách để gây quỹ
+- Các công ty sẽ có ý niệm về phát triển bền vững dựa trên cộng đồng, chứ không phải là từ thiện
+
+## Lợi ích với công ty
+- Các đại lý sẽ dễ đạt chỉ tiêu vì sẽ có thêm nguồn khách hàng và cộng tác viên tiềm năng
+- Việc xây dựng hình ảnh hoà nhập sẽ giúp làm bớt những kỳ thị về bảo hiểm, tăng thêm sự ủng hộ của khách hàng
+
+Những việc này có thể bắt đầu bằng việc:
+- Chia sẻ các sự kiện của các công ty này đến với cộng đồng NKT, mời gọi NKT đăng ký
+- Kêu gọi các công ty bảo hiểm tổ chức các buổi chia sẻ "Là người khuyết tật thì như thế nào?" 
+
+Mọi người nghĩ sao về ý tưởng này?
+
+---
+Có thể bằng việc giảm áp lực doanh số với NKT
+Tại sao việc tạo điều kiện hỗ trợ NKT đi làm đem lại nhiều lợi ích hơn là làm từ thiện
+
+[chỉ có một mình FWD là có đóng góp tay chân giả cho DRD](https://www.drdvietnam.org/vi/dong-gop/dung-cu-ho-tro.html)
+
+Cô dâu VN sang Đài
+
+https://www.dearourcommunity.com/ngayhoivieclam
+
+https://www.cathayholdings.com/holdings/-/media/d76fb3a02de3443b8a4bf3c14c6c21ae.pdf?v=1;hash=4F0FD2F55073066091B9CBEAD42B7B7A395BFA00&sc_lang=en
+
+[[Tỉ lệ khuyết tật của người 16 tuổi trở lên là 5.59% ở thành thị, 8.36% ở nông thôn]]. Văn phòng mình có 30 người, tức là có 1.67 người là NKT
+[Hoạt động xã hội /Cathay's Social activities - YouTube](https://www.youtube.com/playlist?list=PL4WT9IMyiqKxMKAcIFkYL1MeLdu-GSFc9)

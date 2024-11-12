@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2024-10-30T13:58
+updated: 2024-11-05T21:01
 created: 2024-09-14T22:58
 alias: Kế hoạch tuyển dụng
 ---
@@ -18,7 +18,7 @@ Người cần một công việc:
 
 Người cần một số tiền đột biến
 
-[[Nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]
+[[Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]
 Nơi tiếp cận:
 - Sàn giao dịch việc làm, 
 - Trung tâm dạy nghề,
@@ -45,5 +45,5 @@ Người thường bị gạt ra khi xin việc:
 [[Giả thiết về nguồn tuyển dụng]]
 [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
 [[Kế hoạch tuyển người mới, tìm nguồn tuyển dụng]]
-
+[[Khi nào thì việc đi bán bảo hiểm phù hợp với một người]]
 [AIA](https://anyflip.com/tyfpi/vyzp/basic)

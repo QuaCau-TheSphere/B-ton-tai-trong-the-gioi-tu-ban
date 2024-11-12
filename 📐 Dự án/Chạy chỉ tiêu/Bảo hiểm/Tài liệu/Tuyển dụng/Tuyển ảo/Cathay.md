@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:39
-updated: 2024-10-16T22:34
+updated: 2024-11-06T11:10
 ---
 Tiền công: 
 - Học: 2tr (trả vào ngày trả tiền của tháng làm việc đầu tiên)
@@ -13,7 +13,7 @@ Yêu cầu:
 - Hưởng ứng các hoạt động của công ty khi đi làm (VD: tập thể dục buổi sáng)
 
 Ghi chú:
-- T2 và t4 có thể cần ở lại đến 13, 14h chiều để học
+- T2 và t4 có thể cần ở lại đến 14h chiều để học
 - Sau 3 tháng thì không ai chạy cho nữa
 - Đi học cả ngày, không được coi điện thoại
 
@@ -24,3 +24,5 @@ Xem thêm:: [[New Star]]
 
 Tham khảo:: [[Tuyển dụng]], [[Làm đại lý bảo hiểm ảo]], [[Kiếm khách]]
 [[Kế hoạch tuyển người mới, tìm nguồn tuyển dụng]]
+
+![GIỚI THIỆU CÔNG TY CATHAY LIFE VIETNAM - YouTube](https://youtu.be/rMHMd7s8XQI?si=4ekxgFnTmyx8la6x)

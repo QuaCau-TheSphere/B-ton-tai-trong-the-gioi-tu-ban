@@ -2,7 +2,7 @@
 share: true
 filename: index
 created: 2023-09-05T16:17
-updated: 2024-10-09T13:52
+updated: 2024-11-12T08:02
 ---
 Tiêu chí lựa chọn:
 - Lợi ích, động cơ của những người tham gia vào guồng quay này
@@ -23,3 +23,5 @@ lợi dụng người thiếu hiểu biết
 Nếu cản thì chắc chắn không cản được. Cái đói vẫn ở đó. Nên thôi tạo một cổng thông tin để họ biết được những nguồn tài nguyên bền vững hơn
 
 Mệt mỏi với việc giấu nghề
+
+Nền kinh tế vừa đủ

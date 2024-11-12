@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-13T09:51
-updated: 2024-10-11T14:50
+updated: 2024-11-12T10:32
 ---
 |                                                  | An Khang Hạnh Phúc | An Phát Cát Tường |
 | ------------------------------------------------ | ------------------ | ----------------- |
@@ -31,3 +31,6 @@ Quyền lợi bảo hiểm:
     - Bệnh hiểm nghèo:
 
 ```
+
+- Không được thay đổi thời hạn bảo hiểm, thời hạn đóng phí: AUVL05, AUVL06, NP02
+- Không được thay đổi thời hạn đóng phí: CUVL02, CUVL03, CUVL05

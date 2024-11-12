@@ -3,17 +3,17 @@ share: true
 created: 2024-10-09T21:14
 alias: Tại sao nên mua bảo hiểm từ Quả Cầu?
 description: (1) Bọn mình đứng về người yếu thế, (2) Bọn mình chỉ muốn nâng đỡ lý tính bạn, (3) Bạn không phải trả tiền hoa hồng cho bọn mình, (4) Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
-updated: 2024-11-03T21:34
+updated: 2024-11-08T21:58
 ---
 # Tại sao nên mua bảo hiểm từ Quả Cầu?
 - Bọn mình đứng về người yếu thế
 - Bọn mình chỉ muốn nâng đỡ lý tính bạn
 - Bạn không phải trả tiền hoa hồng cho bọn mình
 - Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
-- Nếu mua combo thì sẽ được một buổi tư vấn, huấn luyện 1-1 theo nhu cầu của bạn
+- Các lợi ích khác
 
-## Bọn mình đứng về người yếu thế
-Bọn mình cần bạn mua bảo hiểm giúp bọn mình, vì đây bọn mình muốn [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân viên|hỗ trợ chạy chỉ tiêu]] cho [[Giúp nhau thoát nợ|những người còn đang mắc nợ]]. 
+## Bọn mình đứng về người yếu thế, và hướng tới sự phát triển bền vững
+Đó là những người xứng đáng có được cuộc sống tốt hơn. Bài chi tiết: [[Giúp nhau thoát nợ]]. 
 
 ## Bọn mình chỉ muốn nâng đỡ lý tính bạn
 Vì [[Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]], nên [[Làm cho một người thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]. Cách làm việc của bọn mình rất đơn giản: bọn mình sẽ hỏi bạn [[Xác định các rủi ro và thái độ đối với rủi ro và bảo hiểm ở người dân|các câu hỏi để hiểu được những rủi ro trong cuộc sống của bạn]]. Bạn cũng có thể nghĩ về chúng ngay bây giờ. Với những người nhận ra bảo hiểm cần thiết cho mình, thì bọn mình sẽ giới thiệu giải pháp cho bạn. Thực chất đây là đang là dự án nâng cao nhận thức về rủi ro trong cuộc sống.
@@ -50,9 +50,13 @@ Bạn có thể thắc mắc bán lỗ như vậy thì sống sao. Câu trả l�
 ## Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
 Có những trường hợp nếu bạn biết cách khai báo rủi ro bạn sẽ được lợi hơn. Bọn mình sẽ tư vấn cách làm điều đó.
 
-## Nếu mua combo thì sẽ được một buổi tư vấn, huấn luyện 1-1 theo nhu cầu của bạn
-- Một buổi xem lá số tử vi trị giá 10 tr, hoặc
-- Một buổi hướng dẫn công cụ hoặc kỹ năng để đáp ứng các nhu cầu công việc của bạn, để bạn có thể biết được thứ mình cần dù không biết chính xác từ khoá của nó
+## Các lợi ích khác
+Nếu bạn mua combo thì bạn sẽ được:
+- Một buổi xem lá số tử vi trị giá 10 tr,
+- Mạng lưới kết nối nhu cầu
+- Các hệ thống tri thức để bạn có thể biết được thứ mình cần dù không biết chính xác từ khoá của nó
+- [Các buổi đáp ứng nhu cầu đáp ứng nhu cầu công việc và nhu cầu công nghệ](https://doi-thoai.deno.dev/cac-buoi-dap-ung-nhu-cau-hoc-cach-su-dung-cong-cu-va-tu-duy-lap-trinh-cho-nhu-cau-ca-nhan-hoac-nghien-cuu.59.3)
 
 Các buổi này sẽ nói đến khi bạn muốn ngừng thì thôi. Nếu bạn không cần có thể chuyển quyền lợi này cho người khác.
 
+Bạn cũng có thể cân nhắc [[Lời mời tham gia nhóm chạy chỉ tiêu cho nhân viên|tham gia nhóm chạy chỉ tiêu cho nhân viên]]
