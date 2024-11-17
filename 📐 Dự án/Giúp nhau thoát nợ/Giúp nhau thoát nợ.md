@@ -3,7 +3,7 @@ share: true
 created: 2023-09-05T16:17
 alias: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 description: Bản câu hỏi cho người cần được hỗ trợ thoát nợ
-updated: 2024-11-06T11:24
+updated: 2024-11-13T17:08
 ---
 # Bản câu hỏi cho người cần được hỗ trợ thoát nợ
 - Tại sao bạn bị nợ? 
@@ -27,3 +27,5 @@ Stress vì muốn khám phá, vì muốn có cuộc sống tốt hơn
 Không muốn nói cụ thể vì thấy không có thời gian:
 - nếu ko có thì sẽ bị gì?
 - Cố giựt được một cái thưởng trong khi tự mình cũng hiểu là nó khó
+
+Quan điểm chịu ảnh hưởng của chủ nghĩa tân tự do

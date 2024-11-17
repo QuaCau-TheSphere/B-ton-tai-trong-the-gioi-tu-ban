@@ -2,13 +2,14 @@
 share: true
 created: 2024-10-16T20:14
 description: Đâu là những môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc?
-updated: 2024-11-06T12:44
+updated: 2024-11-13T15:45
+Alias: nơi hay gặp những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc
 ---
 Bảo hiểm nhân thọ là câu trả lời cho câu hỏi: 
 - Nếu tôi bị ung thư giai đoạn cuối thì ai lo tiền chữa trị cho tôi?
 - Nếu tôi bị tai nạn hoặc chết đột ngột thì con tôi sống sao?
 
-Bởi vì [[Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]], nên [[Làm cho một người thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]. Tốt nhất là tìm đến những người phải sống trong các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.
+Bởi vì [[Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]], nên [[Làm cho một người khỏe mạnh thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]. Tốt nhất là tìm đến những người phải sống trong các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc.
 
 Đây là một số người như vậy:
 - Các công nhân, nhân viên của các nhà máy, xí nghiệp có các thiết bị dễ gây tai nạn, hoặc người dân sống xung quanh, hoặc người thân, bạn bè của họ

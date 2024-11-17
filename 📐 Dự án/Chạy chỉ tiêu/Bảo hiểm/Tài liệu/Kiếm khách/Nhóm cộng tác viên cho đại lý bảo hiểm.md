@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-02T21:11
-updated: 2024-11-05T21:01
+updated: 2024-11-13T15:08
 ---
 Các cộng tác viên là những người sống trong [[Cách để gặp được những người hay suy nghĩ đến cảnh tai nạn, ung thư, chết chóc|các môi trường hay làm ta suy nghĩ đến cảnh tai nạn, ung thư, chết chóc]]. Họ có thể là:
 - Các công nhân, nhân viên của các nhà máy, xí nghiệp có các thiết bị dễ gây tai nạn, hoặc người dân sống xung quanh, hoặc người thân, bạn bè của họ
@@ -33,3 +33,4 @@ Người quan tâm đến điều tốt cho người khác thì xem tiền là x
 
 [[Cộng tác viên khuyết tật]]
 [[Khi nào thì việc đi bán bảo hiểm phù hợp với một người]]
+[[Tạo nhận thức cho các công ty bảo hiểm nhân thọ về lợi ích khi tương tác với người khuyết tật]]

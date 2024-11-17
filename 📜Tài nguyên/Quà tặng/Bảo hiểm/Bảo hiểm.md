@@ -3,7 +3,7 @@ share: true
 created: 2024-10-09T21:14
 alias: Tại sao nên mua bảo hiểm từ Quả Cầu?
 description: (1) Bọn mình đứng về người yếu thế, (2) Bọn mình chỉ muốn nâng đỡ lý tính bạn, (3) Bạn không phải trả tiền hoa hồng cho bọn mình, (4) Bạn sẽ được hướng dẫn những cách để xử lý hồ sơ có lợi nhất
-updated: 2024-11-08T21:58
+updated: 2024-11-13T15:45
 ---
 # Tại sao nên mua bảo hiểm từ Quả Cầu?
 - Bọn mình đứng về người yếu thế
@@ -16,7 +16,7 @@ updated: 2024-11-08T21:58
 Đó là những người xứng đáng có được cuộc sống tốt hơn. Bài chi tiết: [[Giúp nhau thoát nợ]]. 
 
 ## Bọn mình chỉ muốn nâng đỡ lý tính bạn
-Vì [[Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]], nên [[Làm cho một người thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]. Cách làm việc của bọn mình rất đơn giản: bọn mình sẽ hỏi bạn [[Xác định các rủi ro và thái độ đối với rủi ro và bảo hiểm ở người dân|các câu hỏi để hiểu được những rủi ro trong cuộc sống của bạn]]. Bạn cũng có thể nghĩ về chúng ngay bây giờ. Với những người nhận ra bảo hiểm cần thiết cho mình, thì bọn mình sẽ giới thiệu giải pháp cho bạn. Thực chất đây là đang là dự án nâng cao nhận thức về rủi ro trong cuộc sống.
+Vì [[Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]], nên [[Làm cho một người khỏe mạnh thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]. Cách làm việc của bọn mình rất đơn giản: bọn mình sẽ hỏi bạn [[Xác định các rủi ro và thái độ đối với rủi ro và bảo hiểm ở người dân|các câu hỏi để hiểu được những rủi ro trong cuộc sống của bạn]]. Bạn cũng có thể nghĩ về chúng ngay bây giờ. Với những người nhận ra bảo hiểm cần thiết cho mình, thì bọn mình sẽ giới thiệu giải pháp cho bạn. Thực chất đây là đang là dự án nâng cao nhận thức về rủi ro trong cuộc sống.
 
 Bọn mình cam kết không khai thác cảm xúc của bạn, tạo gánh nặng trong suy nghĩ hoặc lợi dụng sự ngại mất lòng của bạn, mà chỉ muốn nâng đỡ lý tính bạn. Vì Quả Cầu chạy theo sự bền vững chứ không chạy theo lợi nhuận nên bọn mình không sợ bị bạn từ chối. Bạn có không mua thì bọn mình vẫn luôn sẵn sàng lắng nghe và đáp ứng các nhu cầu khác của bạn. Bọn mình có thể mạnh dạn nói như vậy vì [[#Bạn không phải trả tiền hoa hồng cho bọn mình]].
 

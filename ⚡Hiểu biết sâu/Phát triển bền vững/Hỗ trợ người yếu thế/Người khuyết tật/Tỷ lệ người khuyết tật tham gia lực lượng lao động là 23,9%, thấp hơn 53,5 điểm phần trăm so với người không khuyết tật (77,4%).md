@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2024-11-09T12:38
-updated: 2024-11-09T21:52
+updated: 2024-11-13T18:29
+filename: Tỷ lệ người khuyết tật tham gia lực lượng lao động là 23,9％, thấp hơn 53,5 điểm phần trăm so với người không khuyết tật (77,4％)
 ---
 Khái niệm:: 
 Kết quả điều tra VDS 2023 cho thấy tỷ lệ người khuyết tật tham gia lực lượng lao động, tỷ lệ người khuyết tật trong độ tuổi lao động đang làm việc trong nền kinh tế thấp hơn rất nhiều so với tỷ lệ chung. Đồng thời có sự chênh lệch lớn giữa người khuyết tật và người không khuyết tật trong việc tham gia lực lượng lao động và người khuyết tật trong độ tuổi lao động đang làm việc; các tỷ lệ này có độ chênh lệch lớn hơn năm 2016. Cũng có sự khác biệt lớn của 2 tỷ lệ này theo độ tuổi và theo khuyết tật về chức năng, cụ thể như sau:

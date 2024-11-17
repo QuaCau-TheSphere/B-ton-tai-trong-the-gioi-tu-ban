@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-27T09:55
-updated: 2024-11-08T21:30
+updated: 2024-11-13T15:45
 ---
 ## Mục tiêu nghiên cứu
 - Hiểu được nhu cầu của họ, xem có thể cho giá trị nào không
@@ -11,7 +11,7 @@ updated: 2024-11-08T21:30
 Yêu cầu buổi gặp: Có ít nhất 1 tiếng để hai bên hiểu rõ nhau
 
 ## Giả định
-Bởi vì [[Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]], nên [[Làm cho một người thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]. Không phải ai cũng mê mạo hiểm, nhưng ai cũng có thiên kiến lạc quan.
+Bởi vì [[Bộ não được thiết kế để loại bỏ mối nguy hiểm ngay bây giờ, không phải trong tương lai]], nên [[Làm cho một người khỏe mạnh thấy được tầm quan trọng của bảo hiểm giống như làm một người đang thấy việc hút thuốc là thú vị hiểu được tầm quan trọng của việc bỏ thuốc]]. Không phải ai cũng mê mạo hiểm, nhưng ai cũng có thiên kiến lạc quan.
 
 ## Câu hỏi phỏng vấn
 ### Bạn thấy mình đang có những loại rủi ro nào? Tác hại với bạn khi xảy ra là thế nào?

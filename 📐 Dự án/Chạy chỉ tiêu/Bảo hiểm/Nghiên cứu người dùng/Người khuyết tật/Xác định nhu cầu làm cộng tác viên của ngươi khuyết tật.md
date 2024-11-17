@@ -1,8 +1,47 @@
 ---
 share: true
 created: 2024-11-09T21:27
-updated: 2024-11-09T21:52
+updated: 2024-11-13T14:53
 ---
+## Mục tiêu nghiên cứu
+## Câu hỏi nghiên cứu
+- Thấy việc nói về khuyết tật của bản thân thế nào
+- Trước khi bị khuyết tật thì chị nghĩ về khuyết tật thế nào? 
+- Lúc bị khuyết tật thì chị nghĩ về nó thế nào
+- Chị thấy người ngoài đã nhìn mình thế nào?
+- Sự thương cảm của người ngoài chị thấy thế nào?
+- Cuộc sống của chị đã thay đổi thế nào
+- Đã có những thiệt hại gì từ sự kiện đó
+- Lúc đó chị có đóng bảo hiểm không? 
+- Chị nghĩ bảo hiểm hoạt động thế nào?
+- Chị thấy xung quanh mình có nhiều người mua bảo hiểm không?
+- Chị có thấy những trường hợp nào NKT trò chuyện để người ko khuyết tật suy nghĩ thêm về rủi ro khi khuyết tật không?
+- Chị nghĩ sao về nhận định rằng sự khuyết tật là lợi thế để một người có thêm nhận thức trong việc lên kế hoạch khắc phục khi rủi ro xảy ra?
+- Chị biết những ai có sẵn sàng làm điều đó không?
+- Thấy việc nói về khuyết tật của bản thân thế nào
+- Trước khi bị khuyết tật thì chị nghĩ về khuyết tật thế nào? 
+- Lúc bị khuyết tật thì chị nghĩ về nó thế nào
+- Chị thấy người ngoài đã nhìn mình thế nào?
+- Sự thương cảm của người ngoài chị thấy thế nào?
+- Cuộc sống của chị đã thay đổi thế nào
+- Đã có những thiệt hại gì từ sự kiện đó
+- Lúc đó chị có đóng bảo hiểm không? 
+- Chị nghĩ bảo hiểm hoạt động thế nào?
+- Chị thấy xung quanh mình có nhiều người mua bảo hiểm không?
+- Chị có thấy những trường hợp nào NKT trò chuyện để người ko khuyết tật suy nghĩ thêm về rủi ro khi khuyết tật không?
+- Chị nghĩ sao về nhận định rằng sự khuyết tật là lợi thế để một người có thêm nhận thức trong việc lên kế hoạch khắc phục khi rủi ro xảy ra?
+- Chị biết những ai có sẵn sàng làm điều đó không?
+
+
+
+
+[[Các câu hỏi về người khuyết tật]]
+Sản phẩm bảo hiểm được tạo ra với giả định rằng khuyết tất là điều thiệt thòi, và việc đi bán bảo hiểm là đang củng cố cái giả định đó. Việc ủng hộ sản phẩm bảo hiểm có dẫn đến việc xem rằng NKT là không bình thường hơn không? Việc dùng sự khuyết tật của mình để tăng khả năng mua có phải là đang khơi gợi cảm giác thương hại ở khách hàng hay không? Em coi sơ qua trang `Ableism` trên Wikipedia thì không thấy giải thích về việc này.
+## Câu hỏi phỏng vấn
+
+
+
+
 
 Em xin chào chị Phương
 Em xin tự giới thiệu, em là Lý Minh Nhật. Hiện tại em đang có một nghiên cứu về những trải nghiệm, suy nghĩ và kiến thức của mọi người về những người có khuyết tật. Em thấy chị trong nhóm "Xoá rào cản – Vẽ tương lai" của DRD https://www.facebook.com/groups/kynangvavieclamchonguoikhuyettat. 
