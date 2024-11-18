@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Chiến lược phát triển thị trường/Sản phẩm phi nhân thọ hay được dùng để làm quà tặng đính kèm với sản phẩm nhân thọ, và để lấy dữ liệu để bán nhân thọ.md",
+                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Chiến lược phát triển thị trường/Sản phẩm phi nhân thọ hay được dùng để làm quà tặng đính kèm với sản phẩm nhân thọ, và để lấy dữ liệu khách hàng.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Sản phẩm phi nhân thọ hay được dùng để làm quà tặng đính kèm với sản phẩm nhân thọ, và để lấy dữ liệu để bán nhân thọ"
+              "title": "Sản phẩm phi nhân thọ hay được dùng để làm quà tặng đính kèm với sản phẩm nhân thọ, và để lấy dữ liệu khách hàng"
             }
           },
           {
@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Chiến lược phát triển thị trường/Các buổi OPP đều yêu cầu đại lý bỏ tiền ra.md",
+                "file": "📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Doanh nhân chỉ biết kiếm tiền.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Các buổi OPP đều yêu cầu đại lý bỏ tiền ra"
+              "title": "Doanh nhân chỉ biết kiếm tiền"
+            }
+          },
+          {
+            "id": "b149358d05aa3abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📐 Dự án/Tạo thu nhập thụ động/Tạo thu nhập thụ động.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tạo thu nhập thụ động"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,44 +198,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c035d643f5c28f5b",
+  "active": "b149358d05aa3abd",
   "lastOpenFiles": [
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Cathay/Minh bạch và ràng buộc/Tránh trường hợp lạm quyền, chia bè chia phái.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Cathay/Minh bạch và ràng buộc/Muốn tập trung vào sự đồng đều hơn là cho không gian để thử nghiệm ý tưởng mới.md",
-    "⚡Hiểu biết sâu/Tổ chức tài chính/Bảo hiểm/Chiến lược phát triển thị trường/Nhân sự/Đại lý khi thăng tiến sẽ làm cho quản lý bị mất một nhân sự phía dưới.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Bán hàng/Công việc bán hàng có lộ trình thăng tiến đơn giản vì không sợ cấp bậc trên đã có người, cứ làm đủ chỉ tiêu là lên chức.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Cứ 10 người tìm việc thì có 6 người có bằng đại học, nhưng nhu cầu tuyển dụng chỉ cần có 2.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Không cần học tài chính cá nhân khi cần giải quyết một tình huống cụ thể.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Di cư.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Bán hàng/Đi chào hàng bằng việc hỏi từng người thì sẽ không có thời gian để phát triển hoặc đầu tư vào một mối quan hệ chất lượng.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Bán hàng/Cứ gọi điện cho đến khi người ta ngại.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Bán hàng/Công việc bán hàng có lộ trình thăng tiến đơn giản vì không sợ cấp bậc trên đã có người, cứ làm đủ chỉ tiêu là lên chức.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê/Bán hàng",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm thuê",
-    "⚡Hiểu biết sâu/Kiếm tiền/New folder",
-    "⚡Hiểu biết sâu/Kiếm tiền/Cứ 10 người tìm việc thì có 6 người có bằng đại học, nhưng nhu cầu tuyển dụng chỉ cần có 2.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Không cần học tài chính cá nhân khi cần giải quyết một tình huống cụ thể.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Di cư.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Di cư.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Cứ 10 người tìm việc thì có 6 người có bằng đại học, nhưng nhu cầu tuyển dụng chỉ cần có 2.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/Thu nhập thụ động là biết chắc chắn ngày nào mình nhận tiền với bao nhiêu tiền. Dòng tiền là không đảm bảo ngày nào tiền đi, ngày nào tiền về và bao nhiêu tiền.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/Làm thật thì không tạo ra dòng tiền. Làm ảo tạo ra dòng tiền.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/Dòng tiền là bỏ ít công nhất có thể, thu lại đều đặn nhất có thể.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền/Cái cần không phải là có tiền, mà là có dòng tiền.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tạo dòng tiền",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tài khoản ảo, mua bán thông tin cá nhân/Kiếm tiền trực tuyến (MMO)/Via là tài khoản đã được xác thực.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tài khoản ảo, mua bán thông tin cá nhân/Kiếm tiền trực tuyến (MMO)/Phone farm dùng để tăng tương tác.md",
+    "📐 Dự án/Giúp nhau thoát nợ/Được và mất trong việc giúp đỡ.md",
+    "📐 Dự án/Tạo thu nhập thụ động/Tạo thu nhập thụ động.md",
     "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tài khoản ảo, mua bán thông tin cá nhân/Kiếm tiền trực tuyến (MMO)/Kiếm tiền trực tuyến (MMO).md",
     "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tài khoản ảo, mua bán thông tin cá nhân/Kiếm tiền trực tuyến (MMO)/Dùng facebook của mình đăng kí hack like thì facebook của bạn sẽ được nhiều người like và ngược lại facebook của bạn cũng sẽ đi like facebook của người khác.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tài khoản ảo, mua bán thông tin cá nhân/Kiếm tiền trực tuyến (MMO)/Content farm dùng để tăng SEO.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tài khoản ảo, mua bán thông tin cá nhân/Kiếm tiền trực tuyến (MMO)/Airdrop là việc nền tảng cho tiền để khuyến khích người dùng sử dụng và giới thiệu sản phẩm.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tài khoản ảo, mua bán thông tin cá nhân/Tài khoản ngân hàng ảo dùng được vài tiếng là vì kyc bằng AI.md",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tài khoản ảo, mua bán thông tin cá nhân/Kiếm tiền trực tuyến (MMO)",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tài khoản ảo, mua bán thông tin cá nhân",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Mở tiệm",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Đầu tư",
-    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ",
-    "⚡Hiểu biết sâu/Kiếm tiền/Bán hàng",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Tài khoản ảo, mua bán thông tin cá nhân/Kiếm tiền trực tuyến (MMO)/Airdrop là việc thu thập khuyến mãi của dịch vụ và bán cho người khác.md",
+    "📐 Dự án/Ξ Người chơi/Đỗ Hàng Minh Trí.md",
+    "📐 Dự án/Giúp nhau thoát nợ/Xử lý khi bị nhờ cho liên lạc của những người quanh mình.md",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Cathay/Việc phải lên công ty hàng ngày khiến cho mình thấy ráng chạy thật sẽ có lợi hơn.md",
+    "📐 Dự án/Trấn Kỳ/Trấn Kỳ.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết/Kết quả/Hải Yến.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết/Kết quả/Duy Phong.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Kết quả/Trần Hoà.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Kết quả/Nguyễn Khánh Huyền.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Kết quả/Nguyễn Hữu Quý Ngân.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Kết quả/Huỳnh Nguyễn Trọng Hiếu.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Kết quả/Duy Phong.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết/Phỏng vấn người tương tác với các bài đăng về Trấn Kỳ.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết/Mục tiêu và câu hỏi nghiên cứu người đọc các bài về Trấn Kỳ.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết/Kết quả",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết/Câu hỏi phỏng vấn.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Mục tiêu và câu hỏi nghiên cứu người dùng cá nhân cần phân loại tự động.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Lời mời tham gia phỏng vấn.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Câu hỏi phỏng vấn.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Kết quả",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động/Câu hỏi khảo sát.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Tổ chức nhỏ/Mục tiêu và câu hỏi nghiên cứu tổ chức nhỏ cần trích xuất dữ liệu có cấu trúc từ dữ liệu phi cấu trúc.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Quỹ/Nhà đầu tư/Tìm nhà đầu tư vào Trấn Kỳ.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Quỹ/Nhà đầu tư/J.D. Everest.md",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Sự tiếp nhận với các bài viết",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân/Nhu cầu phân loại tự động",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Quỹ/Nhà đầu tư",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Tổ chức nhỏ",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Người dùng/Người dùng cá nhân",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Kế hoạch/Kế hoạch tạo lợi nhuận từ Trấn Kỳ",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Đội ngũ",
+    "📐 Dự án/Tự động hoá/Trấn Kỳ/Cũ/4 Thành phẩm/Truyền thông",
     "Ξ Thiết lập/Ảnh/Excalidraw/Bảo hiểm/Nguyên tắc hoạt động.excalidraw.png",
     "Ξ Thiết lập/Ảnh/Excalidraw/Nguyên tắc hoạt động.excalidraw.png",
     "Ξ Thiết lập/Ảnh/4675729081308532669.jpeg",
