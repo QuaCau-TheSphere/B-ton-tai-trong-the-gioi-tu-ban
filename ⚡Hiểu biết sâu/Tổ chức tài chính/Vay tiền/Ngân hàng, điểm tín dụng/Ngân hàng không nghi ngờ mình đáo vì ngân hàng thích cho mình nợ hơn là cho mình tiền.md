@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-20T20:03
+updated: 2024-12-30T21:40
 ---
 Example: e cần đáo 100tr thẻ vcb
 Rule của 1 số máy pos: <30tr/ giao dịch & <100tr/ ngày

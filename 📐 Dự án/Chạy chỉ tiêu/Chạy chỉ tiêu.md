@@ -1,7 +1,6 @@
 ---
 share: true
 created: 2024-10-29T19:32
-updated: 2024-11-06T11:21
 alias:
   - Nhóm chạy chỉ tiêu (KPI) cho nhân viên
   - Nhóm thuê ngoài (outsource) cho nhân viên
@@ -9,6 +8,7 @@ alias:
   - Nhóm cộng tác viên cho nhân viên
   - Nhóm nhân viên ảo
   - Nhóm trợ lý cho nhân viên
+updated: 2025-01-02T19:26
 ---
 
 > [!NOTE] Bài chi tiết
@@ -20,7 +20,7 @@ Nhóm có thể được gọi là "nhóm chạy chỉ tiêu (KPI) cho nhân vi�
     - [[Tuyển dụng]]
     - [[Kiếm khách]]
 - Trung gian thanh toán:
-    - [[Làm nhân viên ảo]]
+    - [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân viên ảo]]
     - [[Viết hợp đồng, thu thập thông tin khách hàng tiềm năng]]
     - [[Đổi tiền, chụp hình biển hiệu, dán mã QR]]
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:14
-updated: 2024-11-12T09:57
+updated: 2025-01-01T23:21
 ---
 Bài chi tiết: [[Làm đại lý bảo hiểm ảo]]
 ## Học 
@@ -23,25 +23,4 @@ Xem thêm:: [[Đại lý]]
 - Một bài thi thử đạt từ 34 điểm sẽ được thưởng thêm 20k. Tối đa thưởng 200k.
 - Buổi tốt nghiệp sẽ ăn trưa ở nhà hàng và tặng một áo mưa
 
-Chương trình thi thử:
-- App: LotusLMS Learn
-- Website: https://bvl.lotuslms.com/student
-- Tên miền: `bvl.lotuslms.com`
-- Code: `D100268647`
-- Pass: `1900558899`
-
-Wifi :
-- Tên: `BVNT-SG-TVV`
-- Pass: `dlntsg@233`
-
-Các từ viết tắt:
-- `bvl`: Bảo Việt Life
-- `dlntsg`: đại lý nhân thọ Sài Gòn
-
-[Điều khoản hợp đồng đại lý (PDF)](https://www.baovietnhantho.com.vn/storage/9732811b-4911-4e32-b18e-533b77e8d948/Dieu-khoan-H%C4%90%C4%90L_phienban092022.pdf)
-
-Link:
-- Workplace: https://work.me/1SVvAg4VEik0VVz
-- DMS:  https://dms.baovietnhantho.com.vn
-- Email: apmbvl+d100268647@iway.vn
-- Pass: Zxc@1234
+[[Thông tin cho đại lý]]

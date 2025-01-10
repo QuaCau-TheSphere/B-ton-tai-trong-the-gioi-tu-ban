@@ -1,8 +1,6 @@
 ---
 share: true
 created: 2024-10-11T09:48
-updated: 2024-10-16T21:40
+updated: 2024-12-21T13:02
 ---
-Khái niệm:: 
-[[Đam mê không kiếm được tiền]]
-Nguồn:: 
+Mâu thuẫn với:: [[Đam mê không kiếm được tiền]]

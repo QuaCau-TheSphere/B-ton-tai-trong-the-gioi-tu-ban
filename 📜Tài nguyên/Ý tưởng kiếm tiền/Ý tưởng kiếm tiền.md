@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-26T11:27
+updated: 2025-01-10T11:56
 description: Điểm giống và khác nhau giữa các ý tưởng kiếm tiền. Quang cảnh và sơ đồ giữa chúng.
 alias:
   - Điểm giống và khác nhau giữa các ý tưởng kiếm tiền
@@ -10,6 +10,7 @@ alias:
   - Mối quan hệ giữa các khái niệm
 cssClass: wide-table
 ---
+title: Hướng dẫn sử dụng
 [[3 Ý tưởng]]
 ## Mối quan hệ giữa các khái niệm
 

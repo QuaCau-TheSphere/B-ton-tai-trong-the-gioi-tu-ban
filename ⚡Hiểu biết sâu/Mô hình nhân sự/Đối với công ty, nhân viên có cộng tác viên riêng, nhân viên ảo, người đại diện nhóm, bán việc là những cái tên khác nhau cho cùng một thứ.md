@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-22T00:55
+updated: 2025-01-07T21:20
 ---
 Gọi A là người nộp đơn xin việc vào một công ty và đậu phỏng vấn, và B là người không làm điều đó. Điều này khiến cho A là nhân viên của công ty còn B thì không.
 
@@ -47,3 +47,5 @@ Có thể tìm hiểu thêm về khái niệm *nét họ hàng giống nhau (fam
 
 Xem thêm:: [[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]
 [[Đối với nhân viên, người làm cộng tác viên cho mình, dịch vụ thuê ngoài, trợ lý riêng là những cái tên khác nhau cho cùng một thứ]]
+
+[Job shadow - Wikipedia](https://en.wikipedia.org/wiki/Job_shadow)

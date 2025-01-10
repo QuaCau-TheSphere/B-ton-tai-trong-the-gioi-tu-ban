@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-13T13:49
-updated: 2024-11-01T10:29
+updated: 2025-01-02T19:26
 ---
 | Công ty  |                                         |                              |
 | -------- | --------------------------------------- | ---------------------------- |
@@ -10,7 +10,7 @@ updated: 2024-11-01T10:29
 
 | Dấu hiệu                      | Hướng tới việc bán hợp đồng cá nhân lớn                                                               | Hướng tới việc bán hợp đồng cá nhân nhỏ                                                 |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Chăm sóc khách hàng tiềm năng | <li>Mời đi ăn trưa ở nhà hàng, khách sạn lớn</li><li>Tổ chức các buổi tầm soát sức khoẻ miễn phí</li> | Mời đi xem phim                                                                         |
+| Chăm sóc khách hàng tiềm năng | <li>Mời đi ăn trưa ở nhà hàng, khách sạn lớn</li><li>Tổ chức các buổi tầm soát sức khoẻ miễn phí</li> | Mời đi xem phim, ăn uống, hoạt động xã hội                                              |
 | Cách giới thiệu sản phẩm      | Nhấn mạnh tới việc mua hợp đồng được đi khám bệnh miễn phí                                            | Nhấn mạnh tới việc nếu mua hợp đồng lớn thì bắt buộc phải đi khám và có thể lòi ra bệnh |
 | Phương thức thu phí           | Đóng phí theo tháng bị thu thêm phí                                                                   | Đóng phí theo tháng không mất tiền                                                      |
 | Thưởng                        | Các hợp đồng đóng theo năm sẽ được thưởng                                                             |                                                                                         |

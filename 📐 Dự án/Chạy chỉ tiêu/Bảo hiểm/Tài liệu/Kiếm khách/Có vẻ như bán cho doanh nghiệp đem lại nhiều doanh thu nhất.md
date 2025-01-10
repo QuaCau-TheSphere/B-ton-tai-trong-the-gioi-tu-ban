@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-11T15:24
-updated: 2024-11-03T21:29
+updated: 2024-12-25T10:55
 ---
 Nó cũng tránh việc làm hỏng các mqh cá nhân của tvv. Nhưng [[Các tập huấn cho người mới tập trung vào việc khai thác người xung quanh tư vấn viên, chứ không phải là doanh nghiệp]]
 [[❓Ngay cả những người bán cho doanh nghiệp cũng làm vì có mối quan hệ với doanh nghiệp trước, chứ kiếm dữ liệu cũng không phải là cách chính]]
@@ -33,4 +33,4 @@ Nhu cầu thường gặp của các tổ chức như vậy:
 Phúc lợi khác như đi du lịch
 [[Những nơi giúp mở rộng mối quan hệ với doanh nghiệp]]
 [[❓Việc mua bảo hiểm nhân thọ cho nhân viên giúp tăng lòng trung thành tới mức độ nào]]
-[[Doanh nghiệp có thể dùng các sản phẩm rất nhiều tiền như một hình thức trốn thuế]]
+[[Doanh nghiệp có thể dùng các sản phẩm phí lớn như một hình thức trốn thuế]]

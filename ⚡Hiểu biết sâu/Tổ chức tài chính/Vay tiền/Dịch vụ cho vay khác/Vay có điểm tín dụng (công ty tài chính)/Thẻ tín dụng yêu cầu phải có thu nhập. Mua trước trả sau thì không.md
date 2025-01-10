@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T13:34
-updated: 2024-09-20T22:08
+updated: 2024-12-30T21:44
 ---
 Khái niệm:: [[Thẻ tín dụng]], [[Mua trước trả sau]], [[Thu nhập]]
 

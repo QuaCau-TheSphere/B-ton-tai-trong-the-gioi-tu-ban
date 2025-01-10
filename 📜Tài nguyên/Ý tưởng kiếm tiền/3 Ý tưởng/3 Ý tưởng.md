@@ -1,15 +1,20 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2024-10-05T13:30
+updated: 2025-01-10T11:57
 alias:
-  - Kiếm tiền nhanh Kiếm dự án thuê ngoài Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện Làm nhân viên ăn lương Đầu tư kinh doanh bán hàng Tạo lợi nhuận
+  - Kiếm tiền nhanh
+  - Kiếm dự án thuê ngoài
+  - Mở các buổi chia sẻ lớp học ngắn buổi huấn luyện
+  - Làm nhân viên ăn lương
+  - Đầu tư kinh doanh bán hàng
+  - Tạo lợi nhuận
   - Một số ý tưởng kiếm tiền
-  - Kiếm tiền từ các hoạt động của Quả Cầu
   - Tạo sinh kế, thu nhập, dòng tiền
-description: Kiếm tiền từ các hoạt động của Quả Cầu
+description: Điểm giống và khác nhau giữa các ý tưởng kiếm tiền
 ---
-# Một số ý tưởng kiếm tiền
+title: Một số ý tưởng kiếm tiền
+[How to Pick a Career (That Actually Fits You) — Wait But Why](https://waitbutwhy.com/2018/04/picking-career.html)
 ## Công việc thời vụ
 ```dataview
 Table yêu-cầu-đầu-vào as "Yêu cầu đầu vào"

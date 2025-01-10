@@ -14,7 +14,7 @@
       "hostname": ""
     },
     "workflow": {
-      "commitMessage": "[skip netlify] PUBLISHER",
+      "commitMessage": "Enveloppe",
       "name": ""
     },
     "otherRepo": [
@@ -41,7 +41,7 @@
       }
     ],
     "verifiedRepo": true,
-    "rateLimit": 4983
+    "rateLimit": 4414
   },
   "upload": {
     "behavior": "obsidian",

@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2024-10-30T14:21
-updated: 2024-11-12T15:14
+created: 2024-12-25T18:06
+updated: 2024-12-25T18:11
 ---
 ## [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
 ### SNPO
@@ -71,3 +71,7 @@ Thịnh từ bỏ quyền quản trị page
 14:07 1 share
 
 [[12-11-2024]] bị nhóm Xoá rào cản ban. [Đinh Thuý Vy](https://www.facebook.com/Vydt.98) block
+
+## [[Ý đồ thiết kế của sản phẩm Thịnh An Phát của Cathay]]
+![](https://i.imgur.com/N6H429w.png)
+[[25-12-2024]] 18:11: https://www.facebook.com/qua.cau.the.sphere/posts/pfbid02mcfoqSgR1SFBn4Y67gFvbXQwqpECP4c2XYNVKAfQDGdrc4V6VTxVBRjqRnp9N9dRl

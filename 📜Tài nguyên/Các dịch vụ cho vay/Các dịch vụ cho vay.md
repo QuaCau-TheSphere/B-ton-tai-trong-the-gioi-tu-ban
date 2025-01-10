@@ -1,14 +1,21 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-11-15T16:20
+updated: 2025-01-10T12:08
 ---
-## Vì người yếu thế
+Nếu bạn tìm được một người có thể đưa tiền cho bạn mượn không phải đắn đo gì thì bạn đã chẳng cần đọc bài viết này.
+
+## Từ cá nhân
+Bài chi tiết:: [[Giúp nhau thoát nợ]]
+
+## Từ tổ chức
+### Vì người yếu thế
+Cơ bản đây là các [[Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô|quỹ tín dụng vi mô]]:
 - [[Quỹ Tình Thân]]           
 - [[CEP]]                     
 - [[Ngân hàng chính sách xã hội]] 
 
-## Ví trả sau
+### Ví trả sau
 |           | Số tiền rút lần đầu | Điều kiện |
 | --------- | ------------------- | --------- |
 | Momo      | 3tr                 |           |
@@ -17,9 +24,11 @@ updated: 2024-11-15T16:20
 | ShopeePay |                     |           |
 | Lazada    |                     |           |
 
-## App cho vay
+### Tổ chức tài chính
 |             | Số tiền rút lần đầu | Lãi | Thời hạn |
 | ----------- | ------------------- | --- | -------- |
+| FE Credit   |                     |     |          |
+| Home Credit |                     |     |          |
 | Fundiin     |                     |     |          |
 | Tnex        |                     |     |          |
 | Kredivo     |                     |     |          |
@@ -27,16 +36,14 @@ updated: 2024-11-15T16:20
 | Mcredit     |                     |     |          |
 | Cake        |                     |     |          |
 | HDSaison    |                     |     |          |
-| Home Credit |                     |     |          |
-| FE Credit            |                     |     |          |
 
 - Khi bị app từ chối duyệt thì phải đợi mấy tháng mới cho nộp lại
 - Viettel Money chỉ là cái app để chuyển sang các app cho vay khác. [[Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel]]
 - Vay dưới 10tr dễ được duyệt hơn
 - Home Credit bắt phải có 2 giấy tờ bổ sung
-- Tnex ko đổi đc sđt 
+- Tnex không đổi được sđt 
 
-## Ngân hàng
+### Ngân hàng
 |      | Số tiền rút lần đầu | Lãi | Thời hạn | Điều kiện |
 | ---- | ------------------- | --- | -------- | --------- |
 | CIMB |                     |     |          |           |
@@ -45,18 +52,17 @@ Ngân hàng CIMB tạo thẻ tín dụng hạn mức 100tr, chỉ cần trả 3t
 [[Ghi chú về các app ngân hàng]]
 [[Thẻ tín dụng và ví trả sau đều là các hình thức cấp tín dụng]]
 
-## App cho vay nóng
-[[App vay nóng]]
+### App vay nóng
+Bài chi tiết:: [[App vay nóng]]
 
-## Tiệm cầm đồ
+### Tiệm cầm đồ
 F88 giống tiệm cầm đồ, dùng cà vẹt xe để vay
-
-Dự án: [[Giúp nhau thoát nợ]]
+[[Tiệm cầm đồ chỉ quan tâm cái căn cước là chính, chứ chẳng quan tâm mấy tới món đồ mình đem cầm]]
 
 ## ⚡Hiểu biết sâu
 ```dataview
 LIST rows.file.link
-FROM "⚡Hiểu biết sâu/Vay tiền" 
+FROM "📜Tài nguyên/Các dịch vụ cho vay" 
 WHERE file.name!=this.file.name
 group by split(file.folder, "/")[2] 
 ```

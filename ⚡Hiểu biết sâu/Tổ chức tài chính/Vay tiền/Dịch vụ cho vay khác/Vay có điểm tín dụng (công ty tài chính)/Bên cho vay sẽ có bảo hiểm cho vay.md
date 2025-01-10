@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-20T22:08
+updated: 2025-01-01T12:36
 ---
 Khái niệm:: 
 Đây là lý do các bên cho vay dễ cho vay. Chỉ có bên bảo hiểm mới sợ bị mất tiền. 

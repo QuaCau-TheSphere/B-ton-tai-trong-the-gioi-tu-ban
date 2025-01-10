@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-13T23:29
-updated: 2024-11-04T21:52
+updated: 2024-12-22T08:06
 alias:
   - Bảo hiểm nhân thọ xoay quanh tỉ lệ tử vong và quản lý dòng tiền trong thời gian dài
   - Bảo hiểm phi nhân thọ tập trung vào tần suất, mức độ tổn thất khi xảy ra rủi ro, và tính toán dự phòng
@@ -12,4 +12,4 @@ Với góc nhìn của một actuary, bảo hiểm nhân thọ xoay quanh tỉ l
 
 Nguồn:: [🥸Có thể bạn biết rồi: Bảo... - Actuary Program ISFA - NEU | Facebook](https://www.facebook.com/viet.actuary/posts/pfbid0JJJTnFncCUs3kieJSVeRNmSm1J44dVbqC59NCQGa4MMxfFP5cJRjJWnnXTprJ4Tfl)
 
-[[Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro]]
+[[Bảo hiểm nhân thọ hoạt động bằng việc phân tán rủi ro, lấy số đông may mắn bù cho số ít xui xẻo]]

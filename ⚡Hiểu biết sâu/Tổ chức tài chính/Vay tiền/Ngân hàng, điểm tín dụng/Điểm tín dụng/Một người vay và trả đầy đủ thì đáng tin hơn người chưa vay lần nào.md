@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-20T19:45
-updated: 2024-09-20T22:08
+updated: 2024-12-30T20:30
 ---
 Khái niệm:: [[Điểm tín dụng]]
 

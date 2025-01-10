@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2024-10-07T00:30
-updated: 2024-11-02T13:04
-alias: nghèo đa chiều
+updated: 2025-01-10T12:55
+alias:
+  - Tiêu chí mức độ thiếu hụt dịch vụ xã hội cơ bản
+  - Tiêu chí xác định hộ nghèo, cận nghèo giai đoạn 2021 – 2025
 ---
 Khái niệm:: [[Nghèo]]
 ## Tiêu chí mức độ thiếu hụt dịch vụ xã hội cơ bản
@@ -32,11 +34,10 @@ Tiếp cận thông tin:
   - Phương tiện dùng chung: Tivi, radio, máy tính để bàn, điện thoại;
   - Phương tiện cá nhân: Máy tính xách tay, máy tính bảng, điện thoại thông minh. 
 
-# Các tiêu chí xác định hộ nghèo, cận nghèo giai đoạn 2021 – 2025
+## Tiêu chí xác định hộ nghèo, cận nghèo giai đoạn 2021 – 2025
 - Hộ nghèo: thu nhập dưới 2 tr/người/tháng và thiếu 3 chỉ số trên trở lên 
 - Hộ cận nghèo: thu nhập dưới 2 tr/người/tháng và thiếu 1 hoặc 2 chỉ số trên 
 - Hộ có thu nhập trung bình: thu nhập từ 2 đến 3 tr/người/tháng
 
-Nguồn:: https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Nghi-dinh-07-2021-ND-CP-quy-dinh-chuan-ngheo-da-chieu-giai-doan-2021-2025-463908.aspx 
-
+Nguồn:: [Nghị định 07/2021/NĐ-CP quy định chuẩn nghèo đa chiều giai đoạn 2021 2025 mới nhất](https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Nghi-dinh-07-2021-ND-CP-quy-dinh-chuan-ngheo-da-chieu-giai-doan-2021-2025-463908.aspx)
 ![](https://www.gso.gov.vn/wp-content/uploads/2024/04/image004-1.png) 

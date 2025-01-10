@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-12T10:56
+updated: 2024-11-22T13:37
 alias: Làm tư vấn viên bảo hiểm ảo
 ---
 Yêu cầu đầu vào:: [[Sắp xếp theo lịch được cho trước]]
@@ -21,7 +21,7 @@ Hình thức:: [[Việc làm thời vụ, theo dự án]]
 
 Sau khi trở thành đại lý bạn có thể tiếp tục trở thành [[Tuyển dụng|quản lý ảo]] để kiếm thêm. Với [[Prudential]] thì việc cam kết làm quản lý ảo là bắt buộc để được làm đại lý ảo. Bạn cũng có thể [[Kiếm khách|thật sự đi bán hợp đồng]].
 
-- [[Cathay]]
+- [[📐 Dự án/Chạy chỉ tiêu/Bảo hiểm/Tài liệu/Tuyển dụng/Tuyển ảo/Cathay]]
 Xem thêm:: [[Khác biệt giữa nhân viên, đại lý, cộng tác viên]]
 Xem thêm:: [[3 Ý tưởng|Một số ý tưởng kiếm tiền]]
 
