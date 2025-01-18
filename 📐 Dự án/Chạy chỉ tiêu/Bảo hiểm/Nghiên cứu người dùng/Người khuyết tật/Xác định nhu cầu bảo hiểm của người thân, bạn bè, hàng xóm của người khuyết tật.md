@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-31T20:22
-updated: 2024-11-13T12:55
+updated: 2025-01-11T12:34
 ---
 ## Giả thiết
 - hay suy nghĩ về vấn đề giảm thiểu rủi ro

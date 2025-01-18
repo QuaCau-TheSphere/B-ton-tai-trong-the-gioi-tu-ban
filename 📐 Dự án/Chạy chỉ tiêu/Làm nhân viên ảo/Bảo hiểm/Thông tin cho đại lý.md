@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-25T12:02
-updated: 2025-01-01T23:12
+updated: 2025-01-11T12:43
 ---
 ## Bảo Việt
 [Điều khoản hợp đồng đại lý (PDF)](https://www.baovietnhantho.com.vn/storage/9732811b-4911-4e32-b18e-533b77e8d948/Dieu-khoan-H%C4%90%C4%90L_phienban092022.pdf)

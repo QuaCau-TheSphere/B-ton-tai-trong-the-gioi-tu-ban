@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T14:31
-updated: 2024-12-22T08:06
+updated: 2025-01-11T12:42
 alias: Nguyên tắc hoạt động của bảo hiểm
 ---
 Khái niệm:: [[Bảo hiểm]]

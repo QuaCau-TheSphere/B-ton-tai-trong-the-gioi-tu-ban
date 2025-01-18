@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-12T22:39
-updated: 2025-01-01T22:35
+updated: 2025-01-14T17:23
 ---
 Tiền công: 
 - Học: 2tr (trả vào ngày trả tiền của tháng làm việc đầu tiên)

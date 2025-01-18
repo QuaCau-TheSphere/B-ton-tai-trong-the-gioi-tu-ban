@@ -1,7 +1,11 @@
 ---
 share: true
 created: 2024-11-08T10:55
+<<<<<<< HEAD:📜Tài nguyên/Quà tặng/Quà tặng theo ngành.md
+updated: 2025-01-11T12:35
+=======
 updated: 2025-01-10T12:21
+>>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞):📜Tài nguyên/Quà tặng/Ý tưởng tặng quà cho các đam mê khác nhau.md
 ---
 Chỉ cần biết chỗ là mua. Có những thứ không tốn nhiều tiền. Nhiều khi chỉ là cái sticker mấy ngàn. Cái quan trọng là biết từ khoá
 Sở thích, đam mê

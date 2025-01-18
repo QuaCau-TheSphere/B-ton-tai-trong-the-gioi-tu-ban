@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-27T18:34
+updated: 2025-01-11T12:43
 ---
 ## Đi khảo sát, phỏng vấn người khác
 Tên khác: điều tra viên, chuyên viên thu thập dữ liệu

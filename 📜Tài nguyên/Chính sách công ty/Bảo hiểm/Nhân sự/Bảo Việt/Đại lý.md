@@ -1,7 +1,11 @@
 ---
 share: true
 created: 2024-10-11T10:51
+<<<<<<< HEAD:📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Đại lý/Đại lý.md
+updated: 2025-01-11T12:35
+=======
 updated: 2024-12-24T21:55
+>>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞):📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Đại lý.md
 alias: thưởng tvv
 ---
 ## Hoa hồng

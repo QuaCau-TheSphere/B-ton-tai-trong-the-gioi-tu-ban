@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-13T10:20
-updated: 2024-12-28T19:29
+updated: 2025-01-11T14:36
 ---
 [Further Resources — Devilcorp.org](https://www.devilcorp.org/further-resources)
 [Review công ty - Google Drive](https://docs.google.com/spreadsheets/d/10A0BN1o1Vz-OPeMrB9gJnAqn8LdHdV9cOk0lZsyRBjk/htmlview?usp=sharing&fbclid=IwZXh0bgNhZW0CMTEAAR3E_q01OfGpXWG2ADMN6vV59WktnjbbVwWHgQzwJOYqMVN_Dct7xAorFMs_aem_BbzCxSHG7jCZ5ShdJ_W0Tg#)

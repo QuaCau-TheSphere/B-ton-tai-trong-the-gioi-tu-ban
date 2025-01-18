@@ -2,7 +2,7 @@
 share: true
 created: 2024-11-22T13:37
 title: Chính sách nhân sự ở Cathay
-updated: 2024-12-24T22:24
+updated: 2025-01-14T17:23
 ---
 Biết là [[Muốn tập trung vào sự đồng đều hơn là cho không gian để thử nghiệm ý tưởng mới]]
 Việc bắt lên như vậy khác gì chỉ muốn tập trung vào người đang cần tiền? Mà những người như vậy thì ít mqh. Phải để cho người ta đi làm thì họ mới có nhiều mqh khác chứ

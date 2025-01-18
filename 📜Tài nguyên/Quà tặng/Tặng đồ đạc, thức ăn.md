@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2024-08-14T21:27
-updated: 2025-01-10T12:26
+updated: 2025-01-14T21:23
 ---
 ## Tặng thức ăn
+Lượng thức ăn bỏ phí trong thành phố là rất lớn, đặc biệt là ở các tiệc cưới. 
 - [FoodShare](https://foodshare.id.vn/foods/tat-ca-thuc-pham)
 - [Foodshare Market – Siêu thị Thực phẩm chia sẻ](https://www.foodsharemarket.com/)
 - [Ngân hàng thực phẩm Việt Nam - Food Bank Việt Nam](https://foodbankvietnam.com/)

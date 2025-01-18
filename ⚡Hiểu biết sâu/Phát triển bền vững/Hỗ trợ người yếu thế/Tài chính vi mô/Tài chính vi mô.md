@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2024-10-04T13:20
-updated: 2024-10-04T13:28
+updated: 2025-01-15T23:25
+alias: quỹ tín dụng vi mô
 ---
 Khái niệm:: 
 [Tài chính vi mô giảm nghèo và các quan điểm — Ngân hàng Nhà nước Việt Nam](https://sbv.gov.vn/webcenter/portal/vi/menu/rm/apph/tcnh/tcnh_chitiet?dDocName=SBV245209&p=29&_afrLoop=3549097939259755#%40%3F_afrLoop%3D3549097939259755%26centerWidth%3D80%2525%26dDocName%3DSBV245209%26leftWidth%3D20%2525%26p%3D29%26rightWidth%3D0%2525%26showFooter%3Dfalse%26showHeader%3Dfalse%26_adf.ctrl-state%3D10s1q03l10_4)

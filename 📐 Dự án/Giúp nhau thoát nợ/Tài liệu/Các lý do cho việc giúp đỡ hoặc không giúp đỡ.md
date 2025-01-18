@@ -2,7 +2,7 @@
 share: true
 created: 2024-11-02T00:57
 alias: được và mất
-updated: 2025-01-10T15:14
+updated: 2025-01-14T21:05
 ---
 Cân nhắc lợi hại
 Nếu chỉ quy về tiền thì đơn giản rồi, nhưng có những thứ có muốn quy ra tiền cũng không biết phải làm thế nào
@@ -46,7 +46,7 @@ Nếu chỉ quy về tiền thì đơn giản rồi, nhưng có những thứ c�
 - Thấy [[lo cho thân mình còn chưa xong thì lo cho ai]]
 - Thấy còn nhiều trách nhiệm với những người khác 
 
-❓Con người thường không biết được năng lực của mình? Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên?
+❓[[Con người thường không biết được năng lực của mình. Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên|Con người thường không biết được năng lực của mình? Khi bị ép vào đường cùng họ sẽ làm được những điều đến chính họ cũng ngạc nhiên?]] 
     - Sự huy động năng lượng chỉ hữu ích trong một thời gian ngắn, chứ không phải là cảnh cortisol thường xuyên
 ❓Những người đó đã cần mình thế nào? Tại sao họ cần được giúp hơn người này? 
 ❓Tại sao để người khác nuôi mình thì có vấn đề? 
@@ -77,7 +77,7 @@ VD:
 - Mục tiêu là giúp con người cụ thể này, hay mục tiêu là để không ai phải có hoàn cảnh như thế này? Mỗi ngày có cả trăm người chết vì nợ. Thêm một người nữa thì khác gì?
 - Vay đầu này đắp đầu kia là không ổn, mà cần dứt điểm trả hết lãi. 
 - Thấy việc gõ cửa hỏi từng người không bằng làm được thứ khiến họ muốn giúp mình
-- [[Có những lúc câu hỏi chất vấn thì người được giúp lại chỉ trả lời những câu họ thấy quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ|Khi được hỏi về những điều này thì cứ nói là để giải thích sau, giờ phải tập trung vào cái quan trọng hơn]]
+- [[Có những lúc người được giúp lại chỉ trả lời những câu hỏi chất vấn họ thấy quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ|Khi được hỏi về những điều này thì cứ nói là để giải thích sau, giờ phải tập trung vào cái quan trọng hơn]]
     - Thực ra không hẳn chỉ là không có thời gian, mà là không chịu trả lời luôn
         - Không chịu đặt câu hỏi, mà cũng không chịu trả lời khi được hỏi
 không chịu đi vào chi tiết vì thấy không giúp ích được gì

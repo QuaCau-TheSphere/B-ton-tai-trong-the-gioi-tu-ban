@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-31T13:30
-updated: 2025-01-10T15:14
+updated: 2025-01-12T15:54
 ---
 Khái niệm:: 
 khoản vay bên đối tác moenyveo đã trễ hạn, tổng tiền 1,304,600 hôm nay cần xử lí trước 16h để tránh chuyển hs sang đối tác liên hệ nhắn nợ về người thân và công ty phản hồi để được hỗ trợ

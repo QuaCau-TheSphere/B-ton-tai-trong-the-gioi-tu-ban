@@ -1,6 +1,10 @@
 ---
 share: true
 created: 2024-10-29T19:32
+<<<<<<< HEAD
+updated: 2025-01-11T12:34
+=======
+>>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞)
 alias:
   - Nhóm chạy chỉ tiêu (KPI) cho nhân viên
   - Nhóm thuê ngoài (outsource) cho nhân viên

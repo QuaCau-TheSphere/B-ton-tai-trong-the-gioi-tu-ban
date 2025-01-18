@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-03T13:54
-updated: 2024-12-24T21:42
+updated: 2025-01-11T12:43
 ---
 ## Tuyển luyện trưởng nhóm
 | IP của TVV m tại tháng xét | Tỷ lệ (× FYC TVVm tại tháng xet) |

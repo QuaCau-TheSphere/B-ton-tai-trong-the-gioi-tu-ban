@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-30T10:23
-updated: 2024-12-30T10:35
+updated: 2025-01-11T14:36
 ---
 **Xử phạt như thế nào đối với hành vi vi phạm hoa hồng bảo hiểm? Xin chào Ban biên tập Thư Ký Luật. Tôi tên là Dương Đại. Tôi đang làm việc công ty cổ phần bảo hiểm ở TPHCM. Vì tính chất công việc, tôi có thắc mắc muốn nhờ Ban biên tâp tư vấn giúp tôi, cụ thể là những hành vi vi phạm hoa hồng bảo hiểm sẽ bị xử lý như thế nào? Văn bản pháp luật nào quy định vấn đề này? Tôi mong Ban biên tập có thể tư vấn giúp tôi. Tôi xin chân thành cám ơn Ban biên tập Thư Ký Luật! (0165\*\*\*)** 
 

@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2024-08-13T17:19
-updated: 2025-01-09T11:48
 description: không cần điểm tín dụng
+updated: 2025-01-14T18:21
 ---
 - Jeff chỉ là cái app để chuyển sang các app cho vay khác
 - DoctorDong là bên mở màn cho thị trường này tại Việt Nam. Bây giờ là Cayvang

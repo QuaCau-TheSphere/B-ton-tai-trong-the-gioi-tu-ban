@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2025-01-10T12:08
+updated: 2025-01-14T18:51
 ---
 Nếu bạn tìm được một người có thể đưa tiền cho bạn mượn không phải đắn đo gì thì bạn đã chẳng cần đọc bài viết này.
 
 ## Từ cá nhân
-Bài chi tiết:: [[Giúp nhau thoát nợ]]
+Bài chi tiết:: [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]]
 
 ## Từ tổ chức
 ### Vì người yếu thế
@@ -25,12 +25,14 @@ Cơ bản đây là các [[Huy động nguồn tiền nhàn rỗi, lập quỹ t
 | Lazada    |                     |           |
 
 ### Tổ chức tài chính
+Tốn thời gian nhất là cứ phải làm kyc, nhập thông tin địa chỉ thủ công. Đã nhập rồi nhưng vẫn cứ phải làm lại
+
 |             | Số tiền rút lần đầu | Lãi | Thời hạn |
 | ----------- | ------------------- | --- | -------- |
 | FE Credit   |                     |     |          |
 | Home Credit |                     |     |          |
 | Fundiin     |                     |     |          |
-| Tnex        |                     |     |          |
+| TNEX        |                     |     |          |
 | Kredivo     |                     |     |          |
 | EasyCredit  |                     |     |          |
 | Mcredit     |                     |     |          |
@@ -41,7 +43,7 @@ Cơ bản đây là các [[Huy động nguồn tiền nhàn rỗi, lập quỹ t
 - Viettel Money chỉ là cái app để chuyển sang các app cho vay khác. [[Rất nhiều các công ty cho vay lấy dữ liệu từ Viettel]]
 - Vay dưới 10tr dễ được duyệt hơn
 - Home Credit bắt phải có 2 giấy tờ bổ sung
-- Tnex không đổi được sđt 
+- TNEX không đổi được sđt 
 
 ### Ngân hàng
 |      | Số tiền rút lần đầu | Lãi | Thời hạn | Điều kiện |

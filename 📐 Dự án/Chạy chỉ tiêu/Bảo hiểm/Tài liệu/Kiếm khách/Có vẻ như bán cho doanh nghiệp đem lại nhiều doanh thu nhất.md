@@ -1,7 +1,11 @@
 ---
 share: true
 created: 2024-10-11T15:24
+<<<<<<< HEAD
+updated: 2025-01-11T12:34
+=======
 updated: 2024-12-25T10:55
+>>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞)
 ---
 Nó cũng tránh việc làm hỏng các mqh cá nhân của tvv. Nhưng [[Các tập huấn cho người mới tập trung vào việc khai thác người xung quanh tư vấn viên, chứ không phải là doanh nghiệp]]
 [[❓Ngay cả những người bán cho doanh nghiệp cũng làm vì có mối quan hệ với doanh nghiệp trước, chứ kiếm dữ liệu cũng không phải là cách chính]]

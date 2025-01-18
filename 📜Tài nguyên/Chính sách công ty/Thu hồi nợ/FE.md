@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-30T10:36
-updated: 2025-01-04T18:33
+updated: 2025-01-17T15:21
 ---
 94QĐ-VH.19 09122019
 ![[Screen Shot 2024-12-30 at 10.41.29.png]]
@@ -39,5 +39,5 @@ Nếu chưa phát sinh lãi, phí, phạt thì khi thanh toán sẽ trừ vào g
 
 ![[Day 2_Sáng _P2 _2.TIẾN TRÌNH LÀM VIỆC VỚI KHÁCH HÀNG + PTP - VS 27.11.2023.pdf]]
 
-[[📐 Dự án/Chạy chỉ tiêu/Làm nhân viên ảo/FE]]
+[[📐 Dự án/Chạy chỉ tiêu/Làm nhân viên ảo/FE|Làm nhân viên ảo FE]]
 

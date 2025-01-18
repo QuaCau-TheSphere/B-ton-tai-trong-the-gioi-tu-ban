@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-24T16:59
-updated: 2025-01-10T11:57
+updated: 2025-01-14T21:13
 alias:
   - Kiếm tiền nhanh
   - Kiếm dự án thuê ngoài
@@ -11,9 +11,10 @@ alias:
   - Tạo lợi nhuận
   - Một số ý tưởng kiếm tiền
   - Tạo sinh kế, thu nhập, dòng tiền
-description: Điểm giống và khác nhau giữa các ý tưởng kiếm tiền
----
+  - So sánh các yêu cầu đầu vào của các ý tưởng kiếm tiền
+description: Các ý tưởng kiếm tiền và yêu cầu đầu vào của chúng
 title: Một số ý tưởng kiếm tiền
+---
 [How to Pick a Career (That Actually Fits You) — Wait But Why](https://waitbutwhy.com/2018/04/picking-career.html)
 ## Công việc thời vụ
 ```dataview

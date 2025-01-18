@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-01-01T22:38
+updated: 2025-01-13T09:50
 ---
 
 Nếu cần Nhật có thể [[📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Cho nhân viên, đại lý/Làm nhân viên ảo]] trong công ty, còn bạn thì làm những công việc công ty giao cho Nhật. Có thể CV của Nhật sẽ giúp tăng khả năng nhận được việc.

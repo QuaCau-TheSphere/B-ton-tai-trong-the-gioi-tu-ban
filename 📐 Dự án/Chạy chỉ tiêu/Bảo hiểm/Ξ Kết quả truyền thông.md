@@ -1,7 +1,12 @@
 ---
 share: true
+<<<<<<< HEAD
+created: 2024-10-30T14:21
+updated: 2025-01-11T12:34
+=======
 created: 2024-12-25T18:06
 updated: 2024-12-25T18:11
+>>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞)
 ---
 ## [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
 ### SNPO

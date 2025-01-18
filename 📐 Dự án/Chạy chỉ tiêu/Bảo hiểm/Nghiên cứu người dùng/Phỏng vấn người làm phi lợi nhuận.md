@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-05T16:28
-updated: 2024-10-11T14:53
+updated: 2025-01-14T18:23
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
@@ -48,7 +48,7 @@ Anh nghĩ gì về ý tưởng này?
 - Anh có khó khăn gì trong việc đáp ứng chúng?
 
 ### Hiểu được thái độ tiếp nhận vault kiếm tiền và các tài nguyên khác
-- [[Giúp nhau thoát nợ]]
+- [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]]
 - [[Các dịch vụ cho vay]]
 - [[Niềm tin, diễn ngôn]]
 - [[Quỹ Tình Thân]]

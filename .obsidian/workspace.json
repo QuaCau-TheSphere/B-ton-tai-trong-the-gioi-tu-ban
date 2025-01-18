@@ -4,56 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "ac2f867c24386156",
+        "id": "6361962a79f12067",
         "type": "tabs",
         "children": [
           {
-            "id": "343bb056bea70f53",
+            "id": "384cecbbe1919f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📐 Dự án/Giúp nhau thoát nợ/Tài liệu/Khi được hỏi là dự tính bị đuổi thì bảo là bi quan, bàn lùi.md",
+                "file": "📐 Dự án/Giúp nhau thoát nợ/Công việc/Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Khi được hỏi là dự tính bị đuổi thì bảo là bi quan, bàn lùi"
+              "title": "Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô"
             }
           },
           {
-            "id": "e71588d6a7e6a3b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Ý đồ thiết kế của sản phẩm Thịnh An Phát của Cathay.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ý đồ thiết kế của sản phẩm Thịnh An Phát của Cathay"
-            }
-          },
-          {
-            "id": "b534a2bc8535e94d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚡Hiểu biết sâu/Phát triển bền vững/83% người dân trên thế giới cho biết lương tối thiểu không đủ sống.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "83% người dân trên thế giới cho biết lương tối thiểu không đủ sống"
-            }
-          },
-          {
-            "id": "124e7130362afb18",
+            "id": "58fbf5cfe69e5923",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,8 +36,39 @@
               "icon": "lucide-file",
               "title": "3 Ý tưởng"
             }
+          },
+          {
+            "id": "5bed76f41b1841c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📜Tài nguyên/Quản lý nhà nước/Bảo hiểm/Doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp, dù thực ra luật vẫn cấm.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp, dù thực ra luật vẫn cấm"
+            }
+          },
+          {
+            "id": "15d0068efe9e9b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tổ chức tín dụng"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,54 +213,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "343bb056bea70f53",
+  "active": "15d0068efe9e9b06",
   "lastOpenFiles": [
-    "📐 Dự án/Giúp nhau thoát nợ/Tài liệu/Các rủi ro cho bản thân.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Tài liệu/Các lý do cho việc giúp đỡ hoặc không giúp đỡ.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Giúp nhau thoát nợ.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Ngân hàng, điểm tín dụng/Ngân hàng chỉ cần đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay có điểm tín dụng (công ty tài chính)/Nợ quá 150 ngày thì nhân viên được phép trao đổi với người thân về việc công ty sẽ gửi yêu cầu xác minh nơi cư trú của khách hàng đến công an.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Ngân hàng, điểm tín dụng/Ngân hàng chỉ cần đất, sổ tiết kiệm hoặc ô tô, chứ mấy cái nhỏ sẽ từ chối.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay có điểm tín dụng (công ty tài chính)/Vay có điểm tín dụng (công ty tài chính).md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng phi ngân hàng/Vay có điểm tín dụng (công ty tài chính)/Bên cho vay sẽ có bảo hiểm cho vay.md",
+    "⚡Hiểu biết sâu/Kiếm tiền/Làm chủ/Các công ty có nhiều cách để trốn thuế.md",
+    "📜Tài nguyên/Quản lý nhà nước/Bảo hiểm/Doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp, dù thực ra luật vẫn cấm.md",
     "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Sản phẩm/Ý đồ thiết kế của sản phẩm Thịnh An Phát của Cathay.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ ngân hàng.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Tài liệu/Xù nợ app đen.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Tài liệu/Xử lý khi bị nhờ cho liên lạc của những người quanh mình.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Tài liệu/Khi được hỏi là dự tính bị đuổi thì bảo là bi quan, bàn lùi.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Tài liệu/Có những lúc câu hỏi chất vấn thì người được giúp lại chỉ trả lời những câu họ thấy quan trọng hơn. Mà thấy bị vậy thì lại dễ nghi họ.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Tài liệu",
-    "📐 Dự án/Giúp nhau thoát nợ/New folder",
-    "📐 Dự án/Giúp nhau thoát nợ/Hoàng Thu Trang.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Khách hàng/Hoàng Thu Trang.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Khách hàng/Nhật ký/2.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Khách hàng/Nhật ký/1.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Khách hàng/Nhật ký",
-    "📐 Dự án/Giúp nhau thoát nợ/Khách hàng/Kendy/Từ việc hỗ trợ Kendy đến Patreon và tâm lý của con người về tiền.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Khách hàng/Kendy/Làm sao để cho mượn hiệu quả hơn.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Khách hàng/Kendy/Kendy cần gì.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Khách hàng/Kendy",
-    "📐 Dự án/Giúp nhau thoát nợ/Khách hàng",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Cấp quản lý/Cấp quản lý tuyển ngang.md",
-    "⚡Hiểu biết sâu/Phát triển bền vững/Hỗ trợ người yếu thế/Người nghèo/Việt Nam không ai chết đói, chỉ có nghèo đa chiều.md",
-    "📜Tài nguyên/Chính sách công ty/Văn phòng ngân hàng mở cửa đến 4h, chi nhánh mở cửa đến 4r.md",
-    "Nơi này là nơi nào.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Công việc/Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô.md",
     "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/3 Ý tưởng.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Săn hội thảo cần lấp người tham dự.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/2 Hình thức/Việc làm thời vụ, theo dự án.md",
-    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Tự kinh doanh, đầu tư/Cho vay lấy lãi.md",
-    "📐 Dự án/Giúp nhau thoát nợ/Công việc/Đứng ra vay giùm.md",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Cấp quản lý/Cộng tác viên, tiền trưởng nhóm",
-    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Bảo Việt/Cấp quản lý/New folder",
-    "📜Tài nguyên/Các dịch vụ cho vay/~syncthing~Các dịch vụ cho vay.md.tmp",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Chào mời/~syncthing~Đi xe buýt chậm.md.tmp",
-    "📜Tài nguyên/Niềm tin, diễn ngôn/Chào mời",
-    "Ξ Thiết lập/Ảnh/Excalidraw/Bảo hiểm/Nguyên tắc hoạt động.excalidraw.png",
-    "Ξ Thiết lập/Ảnh/Thịnh An Phát.jpg",
-    "Ξ Thiết lập/Ảnh/Thịnh An Phát 4.jpg",
-    "Ξ Thiết lập/Ảnh/Thịnh An Phát 3.jpg",
-    "Ξ Thiết lập/Ảnh/Thịnh An Phát 2.jpg",
-    "Ξ Thiết lập/Ảnh/Các mốc khuyến mãi.png",
-    "Ξ Thiết lập/Ảnh/Nhà văn Nguyên Ngọc không lấy được tiền.jpg",
-    "Ξ Thiết lập/Ảnh/Pasted image 20241230172353.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20241230171806.png",
-    "Ξ Thiết lập/Ảnh/Pasted image 20241230163809.png",
+    "📐 Dự án/Giúp nhau thoát nợ/Công việc/Huy động nguồn tiền nhàn rỗi, lập quỹ tín dụng vi mô.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/3 Ý tưởng/Công việc thời vụ, cộng tác viên/Lừa đảo hội lừa đảo.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo tính chất công việc/Làm trực tuyến.md",
+    "📜Tài nguyên/Ý tưởng kiếm tiền/1 Yêu cầu đầu vào/Theo kiến thức, kỹ năng/Biết lập trình.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Ngân hàng, điểm tín dụng/Điểm tín dụng/Việc cấp thẻ tín dụng phụ thuộc vào việc có bảo hiểm xã hội hoặc bảo hiểm nhân thọ hay không, chứ không phải là bảng lương.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Dịch vụ cho vay khác/Vay có điểm tín dụng (công ty tài chính)/Cho vay ngang hàng kết nối trực tiếp người đi vay với người cho vay mà không thông qua các tổ chức trung gian tài chính.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Dịch vụ cho vay khác/Vay có điểm tín dụng (công ty tài chính)/Bên cho vay sẽ có bảo hiểm cho vay.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Cho vay theo nhóm đảm bảo không bị quịt hơn.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Chỉ có người thân được bảo lãnh, chứ bạn bè thì không.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Cho vay theo nhóm đảm bảo không bị quịt hơn.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Tổ chức tín dụng/Tổ chức tín dụng.md",
+    "⚡Hiểu biết sâu/Tổ chức tài chính/Vay tiền/Chỉ có người thân được bảo lãnh, chứ bạn bè thì không.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Luật/Làm đúng luật không có nghĩa là không có thao túng. Có nhiều cái lừa đảo vẫn đúng luật.md",
+    "⚡Hiểu biết sâu/Đạo đức, pháp luật. Chủ nghĩa tân tự do/Luật/Lách luật là phạm luật một cách đúng luật.md",
+    "📜Tài nguyên/Chính sách công ty/Thu hồi nợ/Khách mời ra cà phê thì sợ người nhà biết. Khách mời vào nhà nhưng nói nhỏ nhẹ thì sợ hàng xóm biết. Khách làm nghề giáo, công an thì sợ cơ quan biết.md",
+    "📜Tài nguyên/Cảnh giác lừa đảo/Gọi món ăn đắt.md",
+    "📜Tài nguyên/Cảnh giác lừa đảo/Cảnh giác lừa đảo.md",
+    "📜Tài nguyên/Cảnh giác lừa đảo",
+    "📜Tài nguyên/New folder",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/ca1ac4d9-6ebf-457d-8d19-fd62e7e6577d.jpg",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/a25ebc40-2bfb-462d-a8e8-42b9cc3ae76f.jpg",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/9a3a87b1-1241-4de3-a910-1ad6e2c5d2e3.jpg",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/834cb276-6590-4973-8976-b6fd2d2fa14d.jpg",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/0f0b334d-cbb7-449d-a5c0-82a14b20eb1a.jpg",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang/0b29df8d-d8b2-4699-933e-a6e82bc1621f.jpg",
+    "Ξ Thiết lập/Ảnh/Lừa đảo/Hoàng Thu Trang",
+    "Ξ Thiết lập/Ảnh/0f0b334d-cbb7-449d-a5c0-82a14b20eb1a.jpg",
+    "Ξ Thiết lập/Ảnh/Hoàng Thu Trang/834cb276-6590-4973-8976-b6fd2d2fa14d.jpg",
+    "Ξ Thiết lập/Ảnh/Hoàng Thu Trang/9a3a87b1-1241-4de3-a910-1ad6e2c5d2e3.jpg",
+    "Ξ Thiết lập/Ảnh/Hoàng Thu Trang/0f0b334d-cbb7-449d-a5c0-82a14b20eb1a.jpg",
+    "Ξ Thiết lập/Ảnh/Hoàng Thu Trang",
+    "Ξ Thiết lập/Ảnh/New folder",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Cathay/Chính sách cho đại lý/2024",
+    "📜Tài nguyên/Chính sách công ty/Bảo hiểm/Nhân sự/Cathay/Chính sách cho đại lý/New folder",
+    "Ξ Thiết lập/PDF/Đáp án các bài kiểm tra của FE.xlsx",
+    "Ξ Thiết lập/PDF/Testbank - PROBATION (1).xlsx",
+    "Ξ Thiết lập/Ảnh/Bảo hiểm/Thịnh An Phát",
     "📐 Dự án/Công cụ cho hệ sinh thái/Nền kinh tế tri thức.canvas",
     "Untitled.canvas"
   ]

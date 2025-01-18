@@ -1,10 +1,9 @@
 ---
 share: true
 created: 2024-12-22T09:57
-description: Một nơi giữ tiền không mất giá giống như sổ tiết kiệm mà vẫn có thể dùng tiền vào việc đầu tư. Được miễn thuế doanh nghiệp.
+description: Một sổ tiết kiệm không làm chôn tiền cho những việc khác. Không bị tính vào thuế thu nhập doanh nghiệp khi mua cho nhân viên
 alias: Thịnh An Phát
-extra_head: <script src="./scripts/chart.js" type="module"></script>
-updated: 2025-01-10T12:01
+updated: 2025-01-17T22:21
 ---
 ## Mô tả sản phẩm
 Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn hợp ngắn hạn đóng phí một lần**. Nó:
@@ -15,16 +14,17 @@ Thịnh An Phát của Cathay là sản phẩm bảo hiểm nhân thọ **hỗn 
 Số tiền bạn đóng vào tối thiểu là 30 triệu, tối đa là 10 tỷ. Số tiền nhận được sau khi đáo hạn tối thiểu là 100 triệu, tối đa là 16 tỷ. Nếu chẳng may chưa tới lúc đáo hạn mà bạn chết thì bạn được nhận lại được gốc và lãi ngay lập tức.
 
 ![[Thịnh An Phát.jpg]]
-
 ![[Thịnh An Phát 2.jpg]]
-
 ![[Thịnh An Phát 3.jpg]]
-
 ![[Thịnh An Phát 4.jpg]]
 
-![[Các mốc khuyến mãi.png]]
 ## Ý đồ thiết kế 
 ### Giúp nhà đầu tư trữ tiền chờ đầu tư
+- Linh hoạt hơn ngân hàng
+- Lãi gần bằng ngân hàng 
+- An toàn hơn ngân hàng
+
+#### Linh hoạt hơn ngân hàng
 Đáo hạn từ 3 đến 5 năm khá là bất bình thường. Làm gì có cái sản phẩm bảo hiểm nhân thọ nào đáo hạn nhanh đến thế? Bạn có thể kiểm chứng điều này trên [TheBank](https://thebank.vn/bao-hiem-nhan-tho.html), trang liệt kê các sản phẩm tài chính đang có ở Việt Nam. Cái này giống như một cuốn sổ tiết kiệm thì đúng hơn; bạn quăng vào một cục tiền, tới lúc đáo hạn thì cầm về, cộng với một chút lãi để bù cho lạm phát.
 
 Nhưng nó hơn sổ tiết kiệm thật ở chỗ bạn không bị khoá sổ. Giả sử ban đầu bạn có một số tiền và bạn muốn sinh lời từ nó sau 3 năm:
@@ -38,25 +38,10 @@ Còn với sản phẩm này thì bạn vẫn có thể **vay lại đến 85% m
 
 Chính vì điều này nên nó sẽ tối ưu cho những ai muốn dùng tiền để đầu tư cho những việc khác. Bạn không bị chôn tiền ở đây. Nó có tính thanh khoản. 
 
-Tất nhiên, ở trường hợp mở sổ tiết kiệm thì bạn cũng có thể tạo thẻ tín dụng liên kết với sổ, và ở khía cạnh không bị chôn tiền thì nó cũng tầm một chín một mười với sản phẩm này. Sản phẩm này phù hợp hơn cho bạn nếu bạn cần các tính năng sẽ được nói tiếp ở dưới.
+Tất nhiên, bạn cũng có thể tránh việc chôn tiền khi mở sổ tiết kiệm bằng cách tạo thẻ tín dụng liên kết với sổ. Tuy nhiên lãi của thẻ tín dụng sẽ cao hơn, và cũng không chắc bạn được cấp hạn mức 85% tiền gốc như ở đây. Bạn cũng có thể xào thẻ hoặc dùng dịch vụ đảo nợ để tận dụng khoảng thời gian miễn lãi 30 ngày đầu cho những đợt đảo nợ, tuy nhiên bạn sẽ cần có nhiều thẻ hoặc chịu phí 2%.
 
-### Được xem như một chi phí vận hành cho doanh nghiệp và không bị tính thuế
-Đọc [[Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp|bài chi tiết]].
-
-### Nếu bạn chết thì người nhận tiền sẽ không gặp nhiều phiền phức để làm thủ tục
-Ngay thời điểm bài này đang được viết ra thì có câu chuyện [nhà văn Nguyên Ngọc không rút được tiền từ ngân hàng](https://www.facebook.com/dzung.hoang.501/posts/pfbid02krDsLfRSgPwCP1foc6QZsD2wh4oUXm9uZopqcdG9aZ2C7BBL16EGQvz9RNkX4Gvwl) do con gái ông đứng tên tài khoản nhưng chẳng may mất trước ông:
-![[Nhà văn Nguyên Ngọc không lấy được tiền.jpg]]
-
-Tất cả giấy tờ cuối cùng cũng đã xong, nhưng đó là bởi vì Nguyên Ngọc là một người nổi tiếng. Trong khi đó, nếu bạn lập "sổ tiết kiệm" dưới hình thức bảo hiểm như này thì bạn sẽ được chỉ định người thụ hưởng ngay lúc làm hợp đồng luôn. Giả sử bạn chết thì người được bạn chỉ định sẽ tự động được nhận tiền luôn, không phải lo giấy tờ phiền hà.
-
-### Đặc điểm khác
-Tại sao lại có hai mức 3 năm và 5 năm? Vì 5 gần với 6. Thay vì bạn mua gói 5 năm, thì tuy tiền lãi có nhiều hơn một tí, nhưng bạn không quay thêm vòng vốn được. Còn nếu bạn mua hai lần 3 năm, thì bạn được nhận hai lần lãi và khuyến mãi, trong khi thời gian cũng tương đương 5 năm. Cathay muốn bạn thấy rằng việc tái tục là có lợi hơn. Mức 3 năm không chỉ dành cho những ai muốn lấy tiền nhanh, mà còn dành cho những ai muốn lấy tiền nhiều.
-
-nhận ngay sau 21 → 30 ngày
-#### An toàn hơn ngân hàng
-Nếu phá sản,  Mức bảo hiểm rủi ro của bank = Hạn mức chi trả max khi bank phá sản = 70tr/ người (dù anh có gửi bao nhiêu tỷ)
-2. Mức bảo hiểm rủi ro của bảo hiểm = Hạn mức chi trả max khi cty bh phá sản = 200tr/ người (sau khi qua 2 3 lớp chuyển nhượng tái bảo hiểm, 2 3 lớp layer có trình bày như trên)
-## Minh hoạ lãi suất
+#### Lãi gần bằng ngân hàng 
+##### Khi chưa có khuyến mãi
 Giả sử bạn đóng vào 250 triệu đồng thì lãi suất sẽ là bao nhiêu?
 
 | Thời hạn | Tiền gốc      | Đáo hạn       | Chênh lệch   | Lãi suất  |
@@ -64,6 +49,9 @@ Giả sử bạn đóng vào 250 triệu đồng thì lãi suất sẽ là bao n
 | 5 năm    | 251,685,000 đ | 315,000,000 đ | 63,315,000 đ | 5.03%/năm |
 | 3 năm    | 250,756,000 đ | 278,000,000 đ | 27,244.000 đ | 3.62%/năm |
 
+Lãi này gần bằng lãi ở các ngân hàng lớn như Vietcombank
+
+##### Khi có khuyến mãi
 Từ đây đến ngày 26/2/2025, Cathay đang có chương trình khuyến mãi tặng một chỉ vàng cho khách hàng (8.5 triệu). Với đại lý có chức vụ NS/NE thì tổng số tiền họ có được cho một hợp đồng là tầm 18 triệu. Nếu tất cả những con số này được cắt vào tiền gốc thì sao?
 
 | Thời hạn | Tiền gốc      | Đáo hạn       | Chênh lệch   | Lãi suất  |
@@ -71,13 +59,27 @@ Từ đây đến ngày 26/2/2025, Cathay đang có chương trình khuyến mã
 | 5 năm    | 224,351,300 đ | 315,000,000 đ | 90,648,700 đ | 8.08%/năm |
 | 3 năm    | 224,694,660 đ | 278,000,000 đ | 53,305,340 đ | 7.91%/năm |
 
-Tại sao mình lại chọn số 250 triệu? Vì ở mức này thì khuyến mãi mới là một chỉ vàng. Dưới số này thì khuyến mãi chỉ là nửa chỉ thôi. Số tiền gửi thấp nhất cho sản phẩm này là 90 triệu.
+Tại sao con số 250 triệu lại được chọn? Vì ở mức này thì khuyến mãi mới là một chỉ vàng. Dưới số này thì khuyến mãi chỉ là nửa chỉ thôi. Số tiền gửi thấp nhất cho sản phẩm này là 90 triệu.
 
-> [!NOTE] Điểm khác biệt của Thịnh An Phát với sổ tiết kiệm ngân hàng thông thường:
-> - Có thể rút ra mượn tạm đến 85% mà không bị mất lãi
-> - Trả gốc và lãi ngay khi người được bảo hiểm chết mà không cần chờ đáo hạn
-> - Lãi gần tương đương lãi ngân hàng. Đến trước ngày 26/2/2025 thì lãi gấp đôi ngân hàng, và được nhận một phần ngay lập tức chứ không phải đợi đến khi đáo hạn
-> - [[Tại sao doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp|Doanh nghiệp khi mua cho nhân viên không bị tính vào thuế thu nhập doanh nghiệp]]
+![[Các mốc khuyến mãi.png]]
+
+Hay nói cách khác, bạn sẽ được nhận một phần lãi ngay lập tức sau khi mua. (Thực ra là sau 3 tuần đến 1 tháng, nhưng cũng có thể xem là ngay lập tức.)
+
+#### An toàn hơn ngân hàng
+Sản phẩm bảo hiểm cũng như sản phẩm ngân hàng có mức độ rủi ro là 0. Nhưng nếu ngân hàng phá sản, bạn sẽ được trả tối đa là 70 triệu. Còn nếu công ty bảo hiểm phá sản, thì bạn sẽ được trả tối đa là 200 triệu, do một công ty bảo hiểm có hai, ba lớp chuyển nhượng tái bảo hiểm đằng sau.
+
+### Được xem như một chi phí vận hành cho doanh nghiệp và không bị tính thuế
+Bài chi tiết: [[Doanh nghiệp khi mua bảo hiểm nhân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp, dù thực ra luật vẫn cấm|Tại sao doanh nghiệp khi mua bảo hiểm nohân thọ cho nhân viên lại không bị tính vào thuế thu nhập doanh nghiệp?]].
+
+### Đặc điểm khác
+#### Người nhận tiền sẽ không gặp nhiều phiền phức để làm thủ tục
+Ngay thời điểm bài này đang được viết ra thì có câu chuyện [nhà văn Nguyên Ngọc không rút được tiền từ ngân hàng](https://www.facebook.com/dzung.hoang.501/posts/pfbid02krDsLfRSgPwCP1foc6QZsD2wh4oUXm9uZopqcdG9aZ2C7BBL16EGQvz9RNkX4Gvwl) do con gái ông đứng tên tài khoản nhưng chẳng may mất trước ông:
+![[Nhà văn Nguyên Ngọc không lấy được tiền.jpg]]
+
+Tất cả giấy tờ cuối cùng cũng đã xong, nhưng đó là bởi vì Nguyên Ngọc là một người nổi tiếng. Trong khi đó, nếu bạn lập "sổ tiết kiệm" dưới hình thức bảo hiểm như này thì bạn sẽ được chỉ định người thụ hưởng ngay lúc làm hợp đồng luôn. Giả sử bạn chết thì người được bạn chỉ định sẽ tự động được nhận tiền luôn, không phải lo giấy tờ phiền hà.
+
+#### Tại sao lại có hai mức 3 năm và 5 năm? 
+Vì 5 gần với 6. Thay vì bạn mua gói 5 năm, thì tuy tiền lãi có nhiều hơn một tí, nhưng bạn không quay thêm vòng vốn được. Còn nếu bạn mua hai lần 3 năm, thì bạn được nhận hai lần lãi và khuyến mãi, trong khi thời gian cũng tương đương 5 năm. Cathay muốn bạn thấy rằng việc tái tục là có lợi hơn. Mức 3 năm không chỉ dành cho những ai muốn lấy tiền nhanh, mà còn dành cho những ai muốn lấy tiền nhiều.
 
 Xem thêm:: [[📜Tài nguyên/Quà tặng/Bảo hiểm/Bảo hiểm|Tại sao nên mua bảo hiểm từ Quả Cầu?]]
 

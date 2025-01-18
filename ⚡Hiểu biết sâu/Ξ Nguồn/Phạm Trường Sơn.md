@@ -1,7 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
+<<<<<<< HEAD
+updated: 2025-01-11T12:34
+=======
 updated: 2024-11-18T23:33
+>>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞)
 ---
 ## Mục tiêu nghiên cứu
 1. Hiểu được lý do vì sao không tương tác với [[Câu hỏi thu thập ý kiến về việc tổ chức các buổi workshop đáp ứng nhu cầu các tổ chức và hỗ trợ kiếm khách hàng tiềm năng cho người bán hàng]]
@@ -73,7 +77,7 @@ Anh nghĩ gì về ý tưởng này?
 SNPO không tổ chức gì nữa, mọi người tự liên kết với nhau, do ko còn nhu cầu thúc đẩy mạng lưới. Chị Hằng bình dương ca hát tá lả, 3, 4 lần gây quỹ rồi nghỉ
 
 ### Hiểu được thái độ tiếp nhận vault kiếm tiền và các tài nguyên khác
-- [[Giúp nhau thoát nợ]]
+- [[Bản câu hỏi cho người cần được hỗ trợ thoát nợ]]
 - [[Các dịch vụ cho vay]]
 - [[Niềm tin, diễn ngôn]]
 - [[Quỹ Tình Thân]]

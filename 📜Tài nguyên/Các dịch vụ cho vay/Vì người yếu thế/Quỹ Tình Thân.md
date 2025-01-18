@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-17T21:41
-updated: 2024-11-04T15:13
+updated: 2025-01-15T23:23
 ---
 URL:: https://www.facebook.com/profile.php?id=100077601589557
 
@@ -12,6 +12,7 @@ URL:: https://www.facebook.com/profile.php?id=100077601589557
 [Chuyện kể từ Tình thân](https://nguoidothi.net.vn/chuyen-ke-tu-tinh-than-44244.html)
 
 [[Cho vay theo nhóm đảm bảo không bị quịt hơn]]
+[[Tiết kiệm tín dụng nhóm bền vững hơn cho vay cá nhân khi có nhiều người vay]]
 ```yaml
 Lần 1: 2tr
 ```
@@ -26,9 +27,6 @@ Kiến thức đào tạo:
 - tiết kiệm tín dụng, chứ ko phải là tín dụng
 
 Không cho người nợ nần mượn. Còn cái 
-
-[[Tiết kiệm tín dụng nhóm bền vững hơn cho vay cá nhân khi có nhiều người vay]]
-
 
 Chỉ cho thành thị, ko cho mượn từ xa
 Thời hạn tùy cam kết là bao nhiêu

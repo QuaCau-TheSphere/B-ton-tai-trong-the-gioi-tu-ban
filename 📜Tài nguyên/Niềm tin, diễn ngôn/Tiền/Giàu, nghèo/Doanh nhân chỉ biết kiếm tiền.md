@@ -1,7 +1,11 @@
 ---
 share: true
 created: 2024-10-04T13:43
+<<<<<<< HEAD:📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Doanh nhân chỉ biết kiếm tiền.md
+updated: 2025-01-11T12:35
+=======
 updated: 2024-12-02T21:54
+>>>>>>> b337a3e (struct: thêm ❝Tài liệu❞ và ❝Khách hàng❞ trong ❝📐 Dự án/Giúp nhau thoát nợ/❞):📜Tài nguyên/Niềm tin, diễn ngôn/Tiền/Giàu, nghèo/Doanh nhân chỉ biết kiếm tiền.md
 ---
 - Việc phân hoá giàu nghèo quá mạnh theo anh có phải cũng là sự thất bại của thị trường không? Người lương thiện kiệt quệ vì nợ có phải là một thất bại của thị trường không? Tại sao nó không phải là một thị trường khi mà nhu cầu có vẻ cũng rất lớn? Dù gì thì nó cũng được gọi là [[⚡Hiểu biết sâu/Phát triển bền vững/Kinh tế phi chính thức/Nền kinh tế phi chính thức bao gồm các hoạt động kinh tế không có đăng ký về mặt pháp lý, không có số liệu thống kê và không được kiểm soát bởi nhà nước]].
 - Lý do họ không tham gia vào nền kinh tế này có phải bản chất từ đầu đó là những lãnh vực không đem lại tiền? Nhưng họ vẫn có thể chi tiền nếu nó có thể đem lại hình ảnh truyền thông. Anh cũng có nói là nếu họ làm CSR thì cũng chẳng thực sự đặt cộng đồng lên trên hết. Vậy điều gì lại khiến họ nghiêm túc thực hiện ESG?
